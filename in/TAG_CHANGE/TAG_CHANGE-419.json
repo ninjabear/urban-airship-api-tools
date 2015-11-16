@@ -1,0 +1,27 @@
+{
+  "id": "a721fcfc-e141-c157-f683-850da2994fc2",
+  "offset": "419",
+  "occurred": "2015-11-13T16:38:50.394Z",
+  "processed": "2015-11-13T16:38:50.394Z",
+  "device": {
+    "ios_channel": "81b50e39-b2b6-7fd4-cd7c-638687744f3b",
+    "named_user_id": "a6e9592e-2bf5-a438-9200-4d2910748ddc"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "dad_jeans",
+        "omg_shoes",
+        "graphic_tees",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

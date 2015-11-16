@@ -1,0 +1,25 @@
+{
+  "id": "9206944f-888c-8f9b-7357-fca6cb6cc2c7",
+  "offset": "2048",
+  "occurred": "2015-11-13T17:05:59.394Z",
+  "processed": "2015-11-13T17:05:59.394Z",
+  "device": {
+    "amazon_channel": "616be322-5666-5b29-b7bc-02c9b1986bcf"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sweatpants"
+      ]
+    },
+    "current": {
+      "device": [
+        "sweatpants",
+        "swimsuits",
+        "startup_tees",
+        "dad_jeans"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

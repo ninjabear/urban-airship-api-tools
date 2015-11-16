@@ -1,0 +1,26 @@
+{
+  "id": "4eeec362-e9e9-f0e3-4dcc-f4024d39c308",
+  "offset": "694",
+  "occurred": "2015-11-13T16:43:25.394Z",
+  "processed": "2015-11-13T16:43:25.394Z",
+  "device": {
+    "ios_channel": "4b63aa3b-b8e2-37fd-be34-b80ee50378f5"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "swimsuits"
+      ]
+    },
+    "current": {
+      "device": [
+        "swimsuits",
+        "dad_jeans",
+        "raincoats",
+        "sweatpants",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2a55edaf-ab36-248e-124a-5e8c01845570",
+  "offset": "1116",
+  "occurred": "2015-11-13T16:50:27.393Z",
+  "processed": "2015-11-13T16:50:27.393Z",
+  "device": {
+    "amazon_channel": "a4612c13-6daf-195c-9890-5b430d593fc0"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "high_tops",
+        "raincoats",
+        "high_heels",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

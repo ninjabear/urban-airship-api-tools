@@ -1,0 +1,27 @@
+{
+  "id": "f4ef9153-bb66-2b8c-3077-8177e6a21590",
+  "offset": "401",
+  "occurred": "2015-11-13T16:38:32.394Z",
+  "processed": "2015-11-13T16:38:32.394Z",
+  "device": {
+    "amazon_channel": "89fc850a-306b-1e34-d8e6-0228b84587e6",
+    "named_user_id": "96ea9858-c2aa-aef1-dd83-55fde5b5bc24"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "omg_shoes"
+      ]
+    },
+    "current": {
+      "device": [
+        "omg_shoes",
+        "sweatpants",
+        "startup_tees",
+        "raincoats",
+        "that_one_ratty_tshirt"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

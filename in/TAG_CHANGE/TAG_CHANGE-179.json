@@ -1,0 +1,27 @@
+{
+  "id": "314f7c16-ecaa-011a-5fd7-59d24d2b33e9",
+  "offset": "179",
+  "occurred": "2015-11-13T16:34:50.394Z",
+  "processed": "2015-11-13T16:34:50.394Z",
+  "device": {
+    "ios_channel": "40189c0a-3119-453a-a6d8-c4685eca34e2",
+    "named_user_id": "52b2b7e3-ecbf-6047-6ce3-5f62ac1a76ec"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "omg_shoes"
+      ]
+    },
+    "current": {
+      "device": [
+        "omg_shoes",
+        "high_tops",
+        "swimsuits",
+        "high_heels",
+        "cowboy_boots"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

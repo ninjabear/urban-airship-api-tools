@@ -1,0 +1,26 @@
+{
+  "id": "71976ec1-24bd-75ac-5156-23e93a27d154",
+  "offset": "865",
+  "occurred": "2015-11-13T16:46:16.394Z",
+  "processed": "2015-11-13T16:46:16.394Z",
+  "device": {
+    "android_channel": "f37c8ed7-1763-0931-0120-fcd1ad9d2921"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "turtlenecks",
+        "that_one_ratty_tshirt",
+        "suspenders",
+        "graphic_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

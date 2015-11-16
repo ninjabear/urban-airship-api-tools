@@ -1,0 +1,26 @@
+{
+  "id": "f9557d28-ba2a-dbaf-7271-ffd9e5dd6900",
+  "offset": "1234",
+  "occurred": "2015-11-13T16:52:25.393Z",
+  "processed": "2015-11-13T16:52:25.393Z",
+  "device": {
+    "amazon_channel": "66151b37-50ab-95a7-79cd-796362cc221a"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_heels"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_heels",
+        "graphic_tees",
+        "omg_shoes",
+        "swimsuits",
+        "turtlenecks"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "894159e9-c707-5fe6-795f-12f7d39028b9",
+  "offset": "2308",
+  "occurred": "2015-11-13T17:10:19.393Z",
+  "processed": "2015-11-13T17:10:19.393Z",
+  "device": {
+    "android_channel": "7079ad85-ae61-7bc5-1e70-f1a9f703145a"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "cowboy_boots"
+      ]
+    },
+    "current": {
+      "device": [
+        "cowboy_boots",
+        "dress_shirts",
+        "sombreros",
+        "raincoats",
+        "high_tops"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

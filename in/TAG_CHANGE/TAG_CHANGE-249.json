@@ -1,0 +1,25 @@
+{
+  "id": "75470201-6215-7479-e1b8-e4ab98424f96",
+  "offset": "249",
+  "occurred": "2015-11-13T16:36:00.394Z",
+  "processed": "2015-11-13T16:36:00.394Z",
+  "device": {
+    "ios_channel": "208f2b23-5fcc-a860-a40e-829af6dd487a"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "high_tops",
+        "omg_shoes",
+        "turtlenecks"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ca1095a5-4cb8-9392-a73e-8deab7c2ed35",
+  "offset": "50",
+  "occurred": "2015-11-13T16:32:41.394Z",
+  "processed": "2015-11-13T16:32:41.394Z",
+  "device": {
+    "ios_channel": "2d5b9633-2a36-e164-164c-0d91875a5dd4"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "startup_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "startup_tees",
+        "sombreros",
+        "graphic_tees",
+        "cowboy_boots"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

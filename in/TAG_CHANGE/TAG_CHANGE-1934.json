@@ -1,0 +1,26 @@
+{
+  "id": "46704c40-c467-fe3c-4dba-9f665398ff66",
+  "offset": "1934",
+  "occurred": "2015-11-13T17:04:05.393Z",
+  "processed": "2015-11-13T17:04:05.393Z",
+  "device": {
+    "android_channel": "3f364f42-de6a-9789-f1ff-f4907703cde0"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "graphic_tees",
+        "swimsuits",
+        "startup_tees",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

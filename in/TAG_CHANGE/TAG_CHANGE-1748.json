@@ -1,0 +1,25 @@
+{
+  "id": "682cc71c-02e9-ec74-3a1b-fb20b6bc2c77",
+  "offset": "1748",
+  "occurred": "2015-11-13T17:00:59.393Z",
+  "processed": "2015-11-13T17:00:59.393Z",
+  "device": {
+    "android_channel": "801f745d-9dd9-f3d9-b063-0fb2b5143c6b"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "graphic_tees",
+        "high_heels",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

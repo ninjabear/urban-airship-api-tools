@@ -1,0 +1,26 @@
+{
+  "id": "025051db-079c-61ec-1103-b2fe945274ce",
+  "offset": "1013",
+  "occurred": "2015-11-13T16:48:44.394Z",
+  "processed": "2015-11-13T16:48:44.394Z",
+  "device": {
+    "ios_channel": "4489bc29-4dbf-f471-5b84-4427df31ca14"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "startup_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "startup_tees",
+        "dad_jeans",
+        "turtlenecks",
+        "cowboy_boots",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

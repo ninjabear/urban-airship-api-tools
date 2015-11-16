@@ -1,0 +1,25 @@
+{
+  "id": "ce002204-30b4-ac7d-0966-f6db20a8c992",
+  "offset": "2239",
+  "occurred": "2015-11-13T17:09:10.393Z",
+  "processed": "2015-11-13T17:09:10.393Z",
+  "device": {
+    "amazon_channel": "2579ce2e-1d35-3a27-b521-ea2560dbb9f3"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "turtlenecks"
+      ]
+    },
+    "current": {
+      "device": [
+        "turtlenecks",
+        "sweatpants",
+        "raincoats",
+        "graphic_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

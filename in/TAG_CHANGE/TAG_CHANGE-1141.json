@@ -1,0 +1,25 @@
+{
+  "id": "eaa4ed33-897c-0667-20b5-58d1985f2388",
+  "offset": "1141",
+  "occurred": "2015-11-13T16:50:52.393Z",
+  "processed": "2015-11-13T16:50:52.393Z",
+  "device": {
+    "amazon_channel": "90bd888c-4897-2e18-b3a1-0f97e7f3782a"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "that_one_ratty_tshirt"
+      ]
+    },
+    "current": {
+      "device": [
+        "that_one_ratty_tshirt",
+        "omg_shoes",
+        "high_tops",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

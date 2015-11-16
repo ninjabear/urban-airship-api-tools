@@ -1,0 +1,25 @@
+{
+  "id": "b74682c1-a028-2155-191c-f53e48d3bb86",
+  "offset": "2032",
+  "occurred": "2015-11-13T17:05:43.393Z",
+  "processed": "2015-11-13T17:05:43.393Z",
+  "device": {
+    "ios_channel": "0d0f1799-3b63-5e42-0aa9-318e29576a3c"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "startup_tees",
+        "raincoats",
+        "high_heels"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

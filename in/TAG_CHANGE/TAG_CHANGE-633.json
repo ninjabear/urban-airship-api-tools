@@ -1,0 +1,27 @@
+{
+  "id": "ef8fd617-fd64-2187-e6d4-302d78306af9",
+  "offset": "633",
+  "occurred": "2015-11-13T16:42:24.393Z",
+  "processed": "2015-11-13T16:42:24.393Z",
+  "device": {
+    "android_channel": "7e50bc45-282a-6730-31ae-cb3b475123aa",
+    "named_user_id": "24476dd1-9485-77ee-5730-987bfd194de4"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "startup_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "startup_tees",
+        "dad_jeans",
+        "omg_shoes",
+        "that_one_ratty_tshirt",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

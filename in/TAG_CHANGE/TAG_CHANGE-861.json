@@ -1,0 +1,26 @@
+{
+  "id": "b133f660-81a9-2d86-dee5-a72609159c63",
+  "offset": "861",
+  "occurred": "2015-11-13T16:46:12.393Z",
+  "processed": "2015-11-13T16:46:12.393Z",
+  "device": {
+    "amazon_channel": "5b3399e6-a16c-6891-9f73-034b07b4749f"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "startup_tees",
+        "sombreros",
+        "sweatpants",
+        "that_one_ratty_tshirt"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

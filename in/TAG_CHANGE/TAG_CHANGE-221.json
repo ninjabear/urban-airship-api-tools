@@ -1,0 +1,25 @@
+{
+  "id": "bfd99110-0152-3245-2c04-93d242375e03",
+  "offset": "221",
+  "occurred": "2015-11-13T16:35:32.393Z",
+  "processed": "2015-11-13T16:35:32.393Z",
+  "device": {
+    "ios_channel": "219c49d5-536c-8de5-69c8-712d04e07d64"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "dad_jeans",
+        "raincoats",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b7b188d6-17df-dade-bf89-b0c7cd40082b",
+  "offset": "15",
+  "occurred": "2015-11-13T16:32:06.394Z",
+  "processed": "2015-11-13T16:32:06.394Z",
+  "device": {
+    "amazon_channel": "21fb65f7-c890-5184-4463-ae50d57e9dbd"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "dad_jeans",
+        "startup_tees",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "09afc8e2-7fe6-5cae-d620-acf832f818e3",
+  "offset": "690",
+  "occurred": "2015-11-13T16:43:21.394Z",
+  "processed": "2015-11-13T16:43:21.394Z",
+  "device": {
+    "ios_channel": "967007b6-651c-72f9-a48d-8dfb4b181621"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "high_tops",
+        "that_one_ratty_tshirt",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

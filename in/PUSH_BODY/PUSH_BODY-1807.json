@@ -1,0 +1,12 @@
+{
+  "id": "d93a14ee-43f2-f1ef-23e8-d4f978e400d2",
+  "offset": "1807",
+  "occurred": "2015-11-13T17:01:58.394Z",
+  "processed": "2015-11-13T17:01:58.394Z",
+  "body": {
+    "payload": "eyJkZXZpY2VfdHlwZXMiOiJpb3MiLCJhdWRpZW5jZSI6ImFsbCIsIm5vdGlmaWNhdGlvbiI6eyJhbGVydCI6InlvdSBwcm9iYWJseSBoYXZlbid0IGhlYXJkIG9mIHRoZW0gbWVzc2VuZ2VyIGJhZyBTY2hsaXR6IGJpY3ljbGUgcmlnaHRzIiwiaW9zIjoieW91IHByb2JhYmx5IGhhdmVuJ3QgaGVhcmQgb2YgdGhlbSBtZXNzZW5nZXIgYmFnIFNjaGxpdHogYmljeWNsZSByaWdodHMifX0=",
+    "push_id": "dafda99b-efb0-e4f1-bf68-8b2eed5c4a09",
+    "trimmed": false
+  },
+  "type": "PUSH_BODY"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "244a3cfb-cc6d-f714-bd60-a9670466a964",
+  "offset": "751",
+  "occurred": "2015-11-13T16:44:22.394Z",
+  "processed": "2015-11-13T16:44:22.394Z",
+  "device": {
+    "amazon_channel": "32f8ba4c-ed96-17d7-686d-7286c77cad78"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "swimsuits"
+      ]
+    },
+    "current": {
+      "device": [
+        "swimsuits",
+        "suspenders",
+        "cowboy_boots",
+        "dad_jeans"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

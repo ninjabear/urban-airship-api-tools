@@ -1,0 +1,25 @@
+{
+  "id": "5f5e8ec4-bb2c-f824-e1b3-2ba14a822027",
+  "offset": "375",
+  "occurred": "2015-11-13T16:38:06.394Z",
+  "processed": "2015-11-13T16:38:06.394Z",
+  "device": {
+    "android_channel": "373a6253-65d7-499c-0f1f-5a8df57e4d78"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "startup_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "startup_tees",
+        "suspenders",
+        "sombreros",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

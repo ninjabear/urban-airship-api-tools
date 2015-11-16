@@ -1,0 +1,26 @@
+{
+  "id": "5bf8f11d-0f33-2d71-5a7c-af3bf4e11a21",
+  "offset": "28",
+  "occurred": "2015-11-13T16:32:19.394Z",
+  "processed": "2015-11-13T16:32:19.394Z",
+  "device": {
+    "ios_channel": "5930ce20-6a06-bc8c-d637-a2feba6ed21d"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sweatpants"
+      ]
+    },
+    "current": {
+      "device": [
+        "sweatpants",
+        "graphic_tees",
+        "turtlenecks",
+        "dress_shirts",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

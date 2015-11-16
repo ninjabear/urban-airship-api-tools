@@ -1,0 +1,26 @@
+{
+  "id": "6a9c6ddf-ba4d-cb22-3257-139798cb1835",
+  "offset": "111",
+  "occurred": "2015-11-13T16:33:42.393Z",
+  "processed": "2015-11-13T16:33:42.393Z",
+  "device": {
+    "ios_channel": "c3226ad8-3fcf-fab6-ab1e-774a1122ccb2"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "suspenders"
+      ]
+    },
+    "current": {
+      "device": [
+        "suspenders",
+        "that_one_ratty_tshirt",
+        "turtlenecks",
+        "high_tops",
+        "sweatpants"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "d36a78de-b0ad-a85a-be01-27070ec3c13a",
+  "offset": "1517",
+  "occurred": "2015-11-13T16:57:08.393Z",
+  "processed": "2015-11-13T16:57:08.393Z",
+  "device": {
+    "amazon_channel": "dc9486bc-76db-c638-5d7d-12d202800d0f"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "raincoats",
+        "graphic_tees",
+        "high_heels"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

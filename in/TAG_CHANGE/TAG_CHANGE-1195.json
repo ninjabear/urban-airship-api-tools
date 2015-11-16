@@ -1,0 +1,26 @@
+{
+  "id": "aa5a7497-1d7a-60bd-2627-09cf74dc3e75",
+  "offset": "1195",
+  "occurred": "2015-11-13T16:51:46.393Z",
+  "processed": "2015-11-13T16:51:46.393Z",
+  "device": {
+    "amazon_channel": "a816f261-c903-4af2-c394-87a3dd7ad1f5",
+    "named_user_id": "33891521-a277-c02b-e40c-5efde7cc72b2"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "cowboy_boots"
+      ]
+    },
+    "current": {
+      "device": [
+        "cowboy_boots",
+        "high_tops",
+        "bow_ties",
+        "graphic_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "369b7df1-4852-2d1a-8931-345dd5930b55",
+  "offset": "1763",
+  "occurred": "2015-11-13T17:01:14.394Z",
+  "processed": "2015-11-13T17:01:14.394Z",
+  "device": {
+    "android_channel": "514700d4-9ebf-0ec5-9667-d413ee996167"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "turtlenecks"
+      ]
+    },
+    "current": {
+      "device": [
+        "turtlenecks",
+        "graphic_tees",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

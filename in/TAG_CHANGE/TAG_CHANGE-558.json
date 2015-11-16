@@ -1,0 +1,25 @@
+{
+  "id": "304406a1-f905-9130-ec4d-e56b834c0383",
+  "offset": "558",
+  "occurred": "2015-11-13T16:41:09.393Z",
+  "processed": "2015-11-13T16:41:09.393Z",
+  "device": {
+    "android_channel": "56e1b819-e4a8-4027-3c92-9edb36ab80ef"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "swimsuits"
+      ]
+    },
+    "current": {
+      "device": [
+        "swimsuits",
+        "cowboy_boots",
+        "omg_shoes",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

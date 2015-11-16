@@ -1,0 +1,27 @@
+{
+  "id": "8b17efd8-07bb-a057-ad5a-0b885363401f",
+  "offset": "1400",
+  "occurred": "2015-11-13T16:55:11.393Z",
+  "processed": "2015-11-13T16:55:11.393Z",
+  "device": {
+    "android_channel": "55e46a11-1e2f-f52c-739e-5cc0f51d5813",
+    "named_user_id": "a5de366e-90fa-803a-8689-f2c1711b681e"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "bow_ties",
+        "startup_tees",
+        "swimsuits",
+        "high_heels"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

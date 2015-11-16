@@ -1,0 +1,26 @@
+{
+  "id": "165a0c47-9aff-f37f-d579-c8c3775ea0b9",
+  "offset": "714",
+  "occurred": "2015-11-13T16:43:45.393Z",
+  "processed": "2015-11-13T16:43:45.393Z",
+  "device": {
+    "android_channel": "28e7fc42-44d8-37c5-cafb-cfa8b6ab4e6c"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "dress_shirts",
+        "bow_ties",
+        "that_one_ratty_tshirt",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

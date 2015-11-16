@@ -1,0 +1,26 @@
+{
+  "id": "9449a05d-1507-e74b-5bf2-72982920fdcf",
+  "offset": "1397",
+  "occurred": "2015-11-13T16:55:08.393Z",
+  "processed": "2015-11-13T16:55:08.393Z",
+  "device": {
+    "android_channel": "4326954c-9c59-c987-e21a-0e2130dcd0f3"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "suspenders",
+        "sombreros",
+        "turtlenecks",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

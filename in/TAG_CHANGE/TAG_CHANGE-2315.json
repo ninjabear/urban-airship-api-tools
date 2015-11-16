@@ -1,0 +1,25 @@
+{
+  "id": "3b3d51ff-e3af-e4fb-8c8a-d295d8092ca6",
+  "offset": "2315",
+  "occurred": "2015-11-13T17:10:26.393Z",
+  "processed": "2015-11-13T17:10:26.393Z",
+  "device": {
+    "amazon_channel": "e8c860cd-f18d-df47-f5ca-3ab8a037b1c7"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dad_jeans"
+      ]
+    },
+    "current": {
+      "device": [
+        "dad_jeans",
+        "suspenders",
+        "that_one_ratty_tshirt",
+        "sweatpants"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

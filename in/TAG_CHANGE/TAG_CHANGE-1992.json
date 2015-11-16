@@ -1,0 +1,25 @@
+{
+  "id": "f237f327-086b-18fb-3aa7-ac2e7d8bef9e",
+  "offset": "1992",
+  "occurred": "2015-11-13T17:05:03.393Z",
+  "processed": "2015-11-13T17:05:03.393Z",
+  "device": {
+    "amazon_channel": "6f3c17fd-9265-4b28-0d2d-c56ecb8af5d8"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "turtlenecks"
+      ]
+    },
+    "current": {
+      "device": [
+        "turtlenecks",
+        "high_tops",
+        "omg_shoes",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

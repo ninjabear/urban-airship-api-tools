@@ -1,0 +1,14 @@
+{
+  "id": "fda4262a-ce26-4d4e-2469-fd6d44c1cd40",
+  "offset": "155",
+  "occurred": "2015-11-13T16:34:26.394Z",
+  "processed": "2015-11-13T16:34:26.394Z",
+  "device": {
+    "ios_channel": "3e2fb6e6-eaf6-d78a-c331-d70c46088818",
+    "named_user_id": "4f84d659-33ff-d2db-1cd4-5168e14c77db"
+  },
+  "body": {
+    "session_id": "56db9ea5-1f2e-677c-f2e8-853841b1d44c"
+  },
+  "type": "CLOSE"
+}

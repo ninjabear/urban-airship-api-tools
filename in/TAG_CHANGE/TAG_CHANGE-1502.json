@@ -1,0 +1,26 @@
+{
+  "id": "91fa8f85-b595-eaa0-697f-4e2854e38689",
+  "offset": "1502",
+  "occurred": "2015-11-13T16:56:53.393Z",
+  "processed": "2015-11-13T16:56:53.393Z",
+  "device": {
+    "android_channel": "8774f224-0bcc-07fd-c66f-9423aa4665e7"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "cowboy_boots",
+        "dress_shirts",
+        "graphic_tees",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

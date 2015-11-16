@@ -1,0 +1,26 @@
+{
+  "id": "3a9d585c-8d42-7e6b-29b3-a1b032a715be",
+  "offset": "2136",
+  "occurred": "2015-11-13T17:07:27.393Z",
+  "processed": "2015-11-13T17:07:27.393Z",
+  "device": {
+    "ios_channel": "02f76642-7481-662f-2aca-d66e60b7d3e9",
+    "named_user_id": "0a5df49b-6bcb-05a0-6a68-f2889c9c41d2"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_heels"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_heels",
+        "suspenders",
+        "that_one_ratty_tshirt",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

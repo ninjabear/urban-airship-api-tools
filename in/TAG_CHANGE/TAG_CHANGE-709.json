@@ -1,0 +1,27 @@
+{
+  "id": "8d3bb364-b273-2cc6-2fd0-2e9a18293698",
+  "offset": "709",
+  "occurred": "2015-11-13T16:43:40.393Z",
+  "processed": "2015-11-13T16:43:40.393Z",
+  "device": {
+    "android_channel": "981ec1f9-74e8-aa6a-3a67-851f4f06d5fa",
+    "named_user_id": "a58e7b7e-349b-e5f1-b2cf-ee953aa5e504"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "startup_tees",
+        "swimsuits",
+        "graphic_tees",
+        "cowboy_boots"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

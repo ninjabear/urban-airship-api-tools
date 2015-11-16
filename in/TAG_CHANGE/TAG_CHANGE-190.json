@@ -1,0 +1,26 @@
+{
+  "id": "f96e654c-3be0-6e0c-5db3-4441fbf0f918",
+  "offset": "190",
+  "occurred": "2015-11-13T16:35:01.394Z",
+  "processed": "2015-11-13T16:35:01.394Z",
+  "device": {
+    "ios_channel": "c3f5a026-8ae3-1f0f-7ed9-661aa5ac0f09"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "omg_shoes"
+      ]
+    },
+    "current": {
+      "device": [
+        "omg_shoes",
+        "turtlenecks",
+        "swimsuits",
+        "high_tops",
+        "cowboy_boots"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

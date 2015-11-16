@@ -1,0 +1,26 @@
+{
+  "id": "ffee6dbc-0ab7-bd47-60b7-e80356aa15b7",
+  "offset": "123",
+  "occurred": "2015-11-13T16:33:54.394Z",
+  "processed": "2015-11-13T16:33:54.394Z",
+  "device": {
+    "android_channel": "df720f1e-0c2d-d6a8-0f61-55a1b1675bf1"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "high_tops",
+        "sombreros",
+        "turtlenecks",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

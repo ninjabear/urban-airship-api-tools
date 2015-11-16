@@ -1,0 +1,25 @@
+{
+  "id": "1c957af3-60c0-0a7a-3e52-72c0e355f3e9",
+  "offset": "2081",
+  "occurred": "2015-11-13T17:06:32.393Z",
+  "processed": "2015-11-13T17:06:32.393Z",
+  "device": {
+    "ios_channel": "22036082-2dc7-721c-92b4-12255f6f8ebe"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dad_jeans"
+      ]
+    },
+    "current": {
+      "device": [
+        "dad_jeans",
+        "turtlenecks",
+        "that_one_ratty_tshirt",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

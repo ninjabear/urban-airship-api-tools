@@ -1,0 +1,16 @@
+{
+  "id": "6fa56c13-2ced-d993-e9df-1b9a88287875",
+  "offset": "561",
+  "occurred": "2015-11-13T16:41:12.394Z",
+  "processed": "2015-11-13T16:41:12.394Z",
+  "device": {
+    "amazon_channel": "d804cebf-498f-2faf-f709-1bbed1e3e547"
+  },
+  "body": {
+    "latitude": "0.6507820376183922",
+    "longitude": "0.37098624941498803",
+    "foreground": true,
+    "session_id": "a860b6ef-2208-7325-1462-689b36a56e15"
+  },
+  "type": "LOCATION"
+}

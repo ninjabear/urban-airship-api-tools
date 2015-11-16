@@ -1,0 +1,16 @@
+{
+  "id": "7cd416fc-1707-9109-69e6-9b123dc58bc7",
+  "offset": "52",
+  "occurred": "2015-11-13T16:32:43.394Z",
+  "processed": "2015-11-13T16:32:43.394Z",
+  "device": {
+    "ios_channel": "5729237a-7bf7-f3d3-510f-be80f3eca744",
+    "named_user_id": "0dd4aca0-1219-8a5b-5d23-84fc94b13930"
+  },
+  "body": {
+    "push_id": "afa52cc5-a678-402f-7252-bfd78386fab2",
+    "type": "USER_DISMISSED",
+    "duration": 1300
+  },
+  "type": "IN_APP_MESSAGE_RESOLUTION"
+}

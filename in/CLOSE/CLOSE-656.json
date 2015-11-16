@@ -1,0 +1,13 @@
+{
+  "id": "6f47f843-6601-1e35-f790-05d17f26d184",
+  "offset": "656",
+  "occurred": "2015-11-13T16:42:47.393Z",
+  "processed": "2015-11-13T16:42:47.393Z",
+  "device": {
+    "amazon_channel": "e2f79810-d97e-2c03-6939-7e2cd4182f91"
+  },
+  "body": {
+    "session_id": "0fc70ff4-b3f8-2bb3-803c-86ce3c410392"
+  },
+  "type": "CLOSE"
+}

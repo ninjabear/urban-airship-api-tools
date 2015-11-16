@@ -1,0 +1,13 @@
+{
+  "id": "496f7143-fe70-77cf-56b2-954bc7cd0f81",
+  "offset": "383",
+  "occurred": "2015-11-13T16:38:14.393Z",
+  "processed": "2015-11-13T16:38:14.393Z",
+  "device": {
+    "android_channel": "5036f581-9eb8-70e4-8a96-6f6c5e25b6e1"
+  },
+  "body": {
+    "session_id": "c2672269-5eb1-6cc8-a092-6ea48ac0f1af"
+  },
+  "type": "CLOSE"
+}

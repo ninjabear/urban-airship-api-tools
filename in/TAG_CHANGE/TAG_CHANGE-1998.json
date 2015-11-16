@@ -1,0 +1,27 @@
+{
+  "id": "d00fccad-fd11-a316-720e-6145546736b2",
+  "offset": "1998",
+  "occurred": "2015-11-13T17:05:09.393Z",
+  "processed": "2015-11-13T17:05:09.393Z",
+  "device": {
+    "ios_channel": "220d15d6-a6ad-eff0-3d29-b6db3560f850",
+    "named_user_id": "2e5d7325-bff6-8de0-3cb5-f890184e507c"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dad_jeans"
+      ]
+    },
+    "current": {
+      "device": [
+        "dad_jeans",
+        "startup_tees",
+        "raincoats",
+        "that_one_ratty_tshirt",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

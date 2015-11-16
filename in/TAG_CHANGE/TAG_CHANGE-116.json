@@ -1,0 +1,26 @@
+{
+  "id": "fbbc1b3c-6f5a-ce05-a7bc-89a23519f088",
+  "offset": "116",
+  "occurred": "2015-11-13T16:33:47.394Z",
+  "processed": "2015-11-13T16:33:47.394Z",
+  "device": {
+    "amazon_channel": "858c5313-b61f-9480-ee01-d95ea5dfbcff"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "high_tops",
+        "swimsuits",
+        "sombreros",
+        "turtlenecks"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

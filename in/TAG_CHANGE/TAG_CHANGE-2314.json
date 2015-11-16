@@ -1,0 +1,25 @@
+{
+  "id": "fff2121a-1ce4-8e49-0ac9-f49432d75433",
+  "offset": "2314",
+  "occurred": "2015-11-13T17:10:25.393Z",
+  "processed": "2015-11-13T17:10:25.393Z",
+  "device": {
+    "android_channel": "418d1883-4790-e665-22e6-e86068483523"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "high_heels",
+        "high_tops",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

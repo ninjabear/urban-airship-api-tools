@@ -1,0 +1,26 @@
+{
+  "id": "2415a7e9-cfa6-0612-a412-7d60e62cd9ae",
+  "offset": "1727",
+  "occurred": "2015-11-13T17:00:38.393Z",
+  "processed": "2015-11-13T17:00:38.393Z",
+  "device": {
+    "ios_channel": "75289894-4e1c-211d-b47d-ac80e7b1bd13"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "swimsuits",
+        "raincoats",
+        "startup_tees",
+        "dress_shirts"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "d3b3abf5-cc72-fafb-7f02-91e087064b62",
+  "offset": "182",
+  "occurred": "2015-11-13T16:34:53.394Z",
+  "processed": "2015-11-13T16:34:53.394Z",
+  "device": {
+    "ios_channel": "12bfd3cd-2fed-08ab-d5b6-ad27fadc8304"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dad_jeans"
+      ]
+    },
+    "current": {
+      "device": [
+        "dad_jeans",
+        "bow_ties",
+        "sombreros",
+        "turtlenecks"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

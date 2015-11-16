@@ -1,0 +1,24 @@
+{
+  "id": "41713e9a-c761-99cf-4a36-efb238d9cbee",
+  "offset": "2233",
+  "occurred": "2015-11-13T17:09:04.393Z",
+  "processed": "2015-11-13T17:09:04.393Z",
+  "device": {
+    "android_channel": "4263189f-e68c-5187-d1ee-0323b43c4728"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "startup_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "startup_tees",
+        "suspenders",
+        "dad_jeans"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

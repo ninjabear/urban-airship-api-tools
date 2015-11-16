@@ -1,0 +1,26 @@
+{
+  "id": "28d33b19-9ae2-5105-b313-f5a579a03a94",
+  "offset": "41",
+  "occurred": "2015-11-13T16:32:32.394Z",
+  "processed": "2015-11-13T16:32:32.394Z",
+  "device": {
+    "amazon_channel": "7c876dc0-9f0e-7696-027b-b299e616f5af"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "that_one_ratty_tshirt",
+        "startup_tees",
+        "cowboy_boots",
+        "high_tops"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "e82a5c87-ebda-ccab-6aea-db50c35dcd2f",
+  "offset": "1932",
+  "occurred": "2015-11-13T17:04:03.393Z",
+  "processed": "2015-11-13T17:04:03.393Z",
+  "device": {
+    "amazon_channel": "040967c6-d78d-3335-2771-4036dde5f9e7"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "high_heels",
+        "raincoats",
+        "sweatpants",
+        "high_tops"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "7680988a-facf-a04b-9bdc-a0ac4715e0ec",
+  "offset": "211",
+  "occurred": "2015-11-13T16:35:22.394Z",
+  "processed": "2015-11-13T16:35:22.394Z",
+  "device": {
+    "amazon_channel": "c21b6ffd-3bab-0d05-62e4-a2788f81d9d6"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "startup_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "startup_tees",
+        "suspenders",
+        "swimsuits",
+        "that_one_ratty_tshirt"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1ca0bac1-d531-7efa-820b-849ad3a3c538",
+  "offset": "1539",
+  "occurred": "2015-11-13T16:57:30.393Z",
+  "processed": "2015-11-13T16:57:30.393Z",
+  "device": {
+    "amazon_channel": "150a3f32-7bd1-2595-447f-7925f269214d",
+    "named_user_id": "d4661774-29a0-2869-e92c-694647d175eb"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "suspenders"
+      ]
+    },
+    "current": {
+      "device": [
+        "suspenders",
+        "high_tops",
+        "dad_jeans",
+        "turtlenecks"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

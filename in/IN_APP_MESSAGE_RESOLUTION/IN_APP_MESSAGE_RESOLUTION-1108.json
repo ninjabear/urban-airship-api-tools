@@ -1,0 +1,16 @@
+{
+  "id": "641c94ba-bb7c-f44d-7d45-ed7e7a996cdc",
+  "offset": "2260",
+  "occurred": "2015-11-13T17:09:31.394Z",
+  "processed": "2015-11-13T17:09:31.394Z",
+  "device": {
+    "android_channel": "979864ea-1c16-b388-cf56-88d514ce8b98",
+    "named_user_id": "8123deab-b8a2-666a-8d74-4f6da49e0ed0"
+  },
+  "body": {
+    "push_id": "0bd6a6af-7b9e-5296-dfd8-d59ff88e02d0",
+    "type": "MESSAGE_CLICK",
+    "duration": 1093
+  },
+  "type": "IN_APP_MESSAGE_RESOLUTION"
+}

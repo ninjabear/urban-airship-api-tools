@@ -1,0 +1,26 @@
+{
+  "id": "e9642bfd-c4ab-e758-5f82-e9582c637c65",
+  "offset": "87",
+  "occurred": "2015-11-13T16:33:18.394Z",
+  "processed": "2015-11-13T16:33:18.394Z",
+  "device": {
+    "android_channel": "88591e52-5dcf-a973-d227-b4db2ab52bcc"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dad_jeans"
+      ]
+    },
+    "current": {
+      "device": [
+        "dad_jeans",
+        "that_one_ratty_tshirt",
+        "suspenders",
+        "high_heels",
+        "cowboy_boots"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

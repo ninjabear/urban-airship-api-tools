@@ -1,0 +1,25 @@
+{
+  "id": "75bf7811-93e1-cc72-a881-4cb23dcb39d0",
+  "offset": "1756",
+  "occurred": "2015-11-13T17:01:07.393Z",
+  "processed": "2015-11-13T17:01:07.393Z",
+  "device": {
+    "android_channel": "20d92630-6da2-4c88-62ff-23007a9094bd"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "startup_tees",
+        "dad_jeans",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

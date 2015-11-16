@@ -1,0 +1,26 @@
+{
+  "id": "4aa4bfec-18ba-5fde-4e48-7eaee66604c2",
+  "offset": "665",
+  "occurred": "2015-11-13T16:42:56.393Z",
+  "processed": "2015-11-13T16:42:56.393Z",
+  "device": {
+    "amazon_channel": "a29ad5bf-0299-c1a7-57ab-5d23b8fa3099"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "omg_shoes"
+      ]
+    },
+    "current": {
+      "device": [
+        "omg_shoes",
+        "cowboy_boots",
+        "sombreros",
+        "that_one_ratty_tshirt",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

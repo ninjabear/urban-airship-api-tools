@@ -1,0 +1,26 @@
+{
+  "id": "3a5d18b3-62d0-0a74-38ec-5d61a320c65d",
+  "offset": "1610",
+  "occurred": "2015-11-13T16:58:41.393Z",
+  "processed": "2015-11-13T16:58:41.393Z",
+  "device": {
+    "amazon_channel": "c5951516-5a07-36eb-a45b-c5bb3a517317"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "that_one_ratty_tshirt"
+      ]
+    },
+    "current": {
+      "device": [
+        "that_one_ratty_tshirt",
+        "dress_shirts",
+        "turtlenecks",
+        "swimsuits",
+        "graphic_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

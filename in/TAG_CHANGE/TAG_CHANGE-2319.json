@@ -1,0 +1,26 @@
+{
+  "id": "2e2b2da5-52a5-357a-d821-add29d51fb78",
+  "offset": "2319",
+  "occurred": "2015-11-13T17:10:30.393Z",
+  "processed": "2015-11-13T17:10:30.393Z",
+  "device": {
+    "android_channel": "d51840b0-25e0-95cc-079a-6cf02c0c259f",
+    "named_user_id": "d3dab45e-c33e-d8e0-8645-6e21adf076de"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "that_one_ratty_tshirt",
+        "high_heels",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

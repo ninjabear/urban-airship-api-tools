@@ -1,0 +1,26 @@
+{
+  "id": "b8f58296-2e88-91ed-0918-69a33d4dc151",
+  "offset": "1548",
+  "occurred": "2015-11-13T16:57:39.394Z",
+  "processed": "2015-11-13T16:57:39.394Z",
+  "device": {
+    "android_channel": "b2236f89-f216-71a1-cb76-cf07dcd49428",
+    "named_user_id": "feac04e3-eeef-931d-47e9-a1c5836d9e2b"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "high_heels",
+        "suspenders",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

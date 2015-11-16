@@ -1,0 +1,25 @@
+{
+  "id": "f7a3fa65-2217-bf0e-642d-17f5c20571ed",
+  "offset": "124",
+  "occurred": "2015-11-13T16:33:55.394Z",
+  "processed": "2015-11-13T16:33:55.394Z",
+  "device": {
+    "android_channel": "e898cd90-2989-c44c-bf50-bb7c794bb998"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "swimsuits"
+      ]
+    },
+    "current": {
+      "device": [
+        "swimsuits",
+        "that_one_ratty_tshirt",
+        "bow_ties",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

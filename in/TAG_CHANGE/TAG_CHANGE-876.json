@@ -1,0 +1,25 @@
+{
+  "id": "fc043cfd-ad14-79d0-a0e5-2be7a972799f",
+  "offset": "876",
+  "occurred": "2015-11-13T16:46:27.394Z",
+  "processed": "2015-11-13T16:46:27.394Z",
+  "device": {
+    "amazon_channel": "c1cd0897-7006-2f5c-d760-3a8f1d60146c"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "that_one_ratty_tshirt",
+        "omg_shoes",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

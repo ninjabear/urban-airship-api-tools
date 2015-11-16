@@ -1,0 +1,25 @@
+{
+  "id": "2cd725fb-1447-ae46-5d3a-e963be269960",
+  "offset": "2251",
+  "occurred": "2015-11-13T17:09:22.393Z",
+  "processed": "2015-11-13T17:09:22.393Z",
+  "device": {
+    "amazon_channel": "9ec51a8d-9b3b-ebd6-f91d-f86544278ecb"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sweatpants"
+      ]
+    },
+    "current": {
+      "device": [
+        "sweatpants",
+        "swimsuits",
+        "raincoats",
+        "high_heels"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

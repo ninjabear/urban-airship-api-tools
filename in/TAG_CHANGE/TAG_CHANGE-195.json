@@ -1,0 +1,25 @@
+{
+  "id": "0e66aaf4-412f-f2e8-b3c5-907952743230",
+  "offset": "195",
+  "occurred": "2015-11-13T16:35:06.394Z",
+  "processed": "2015-11-13T16:35:06.394Z",
+  "device": {
+    "amazon_channel": "ac3bac4b-8896-fc21-6a70-fdd088b62a12"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "high_tops",
+        "high_heels",
+        "graphic_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

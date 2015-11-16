@@ -1,0 +1,16 @@
+{
+  "id": "c0c3debd-7b54-512b-7c5d-a4c9f9fc08e0",
+  "offset": "729",
+  "occurred": "2015-11-13T16:44:00.393Z",
+  "processed": "2015-11-13T16:44:00.393Z",
+  "device": {
+    "android_channel": "741b9f6e-e661-d209-4610-68e647b2edb9"
+  },
+  "body": {
+    "latitude": "0.8357366459235561",
+    "longitude": "0.30725564730409405",
+    "foreground": true,
+    "session_id": "10f269b0-96fa-a788-0e72-c5c68f35ae2e"
+  },
+  "type": "LOCATION"
+}

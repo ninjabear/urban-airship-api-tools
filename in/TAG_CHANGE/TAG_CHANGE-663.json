@@ -1,0 +1,26 @@
+{
+  "id": "a8e91a35-1ec9-3f60-f236-d3aaf3cd4c95",
+  "offset": "663",
+  "occurred": "2015-11-13T16:42:54.393Z",
+  "processed": "2015-11-13T16:42:54.393Z",
+  "device": {
+    "android_channel": "ab4b2f7c-e78a-739a-f5cf-84e734b2921f"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "suspenders"
+      ]
+    },
+    "current": {
+      "device": [
+        "suspenders",
+        "that_one_ratty_tshirt",
+        "high_heels",
+        "bow_ties",
+        "sweatpants"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cc171c37-b87e-907a-adcd-3261207097c0",
+  "offset": "1851",
+  "occurred": "2015-11-13T17:02:42.393Z",
+  "processed": "2015-11-13T17:02:42.393Z",
+  "device": {
+    "android_channel": "9f97edbb-bdfe-cf14-9c65-d5744ea9e3a3"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "startup_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "startup_tees",
+        "cowboy_boots",
+        "sombreros",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "251de509-fd7c-d1d6-4aa7-7c6ec28d8a39",
+  "offset": "1347",
+  "occurred": "2015-11-13T16:54:18.393Z",
+  "processed": "2015-11-13T16:54:18.393Z",
+  "device": {
+    "amazon_channel": "41e2d3d3-7485-9ad5-f15c-c239294a5143",
+    "named_user_id": "e2716f6c-f55c-e575-e3df-1482ec1240ad"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "startup_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "startup_tees",
+        "graphic_tees",
+        "dress_shirts",
+        "dad_jeans",
+        "high_tops"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

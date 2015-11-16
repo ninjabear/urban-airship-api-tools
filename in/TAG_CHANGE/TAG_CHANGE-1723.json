@@ -1,0 +1,26 @@
+{
+  "id": "f5301838-226a-7c26-8b59-de797248b994",
+  "offset": "1723",
+  "occurred": "2015-11-13T17:00:34.393Z",
+  "processed": "2015-11-13T17:00:34.393Z",
+  "device": {
+    "amazon_channel": "5d1daa66-f551-91d0-1c36-bb7ccdc7dadb"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "turtlenecks"
+      ]
+    },
+    "current": {
+      "device": [
+        "turtlenecks",
+        "high_tops",
+        "startup_tees",
+        "graphic_tees",
+        "high_heels"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "05d3f9ae-4366-1686-df1a-43f235f6e3c7",
+  "offset": "36",
+  "occurred": "2015-11-13T16:32:27.394Z",
+  "processed": "2015-11-13T16:32:27.394Z",
+  "device": {
+    "android_channel": "f7469f23-9480-a9ea-2b8b-a6b361b61f4b"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "that_one_ratty_tshirt"
+      ]
+    },
+    "current": {
+      "device": [
+        "that_one_ratty_tshirt",
+        "bow_ties",
+        "cowboy_boots",
+        "high_heels"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

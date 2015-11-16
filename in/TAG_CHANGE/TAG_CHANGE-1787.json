@@ -1,0 +1,26 @@
+{
+  "id": "1d08e14d-0bf8-4a47-849e-dccc03ddb468",
+  "offset": "1787",
+  "occurred": "2015-11-13T17:01:38.393Z",
+  "processed": "2015-11-13T17:01:38.393Z",
+  "device": {
+    "amazon_channel": "b494717f-e8f9-b42f-8949-c42ee96279b0"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "bow_ties",
+        "suspenders",
+        "sombreros",
+        "sweatpants"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

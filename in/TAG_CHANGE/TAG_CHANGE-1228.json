@@ -1,0 +1,27 @@
+{
+  "id": "b5f70a5d-5d2f-5c85-f436-50d27199f67f",
+  "offset": "1228",
+  "occurred": "2015-11-13T16:52:19.393Z",
+  "processed": "2015-11-13T16:52:19.393Z",
+  "device": {
+    "amazon_channel": "eb0bb54c-4d63-ae12-286a-d0b3e8f519d2",
+    "named_user_id": "d2e5325a-14b9-5791-a2d6-58893bcf0dc4"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_heels"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_heels",
+        "omg_shoes",
+        "high_tops",
+        "sweatpants",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

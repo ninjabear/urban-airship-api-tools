@@ -1,0 +1,14 @@
+{
+  "id": "3648b0ab-eb00-3b0b-89b4-d9cd0511ec3a",
+  "offset": "1391",
+  "occurred": "2015-11-13T16:55:02.393Z",
+  "processed": "2015-11-13T16:55:02.393Z",
+  "device": {
+    "ios_channel": "f7b77628-5554-e896-556d-8bdf18878650",
+    "named_user_id": "41ccbf20-02de-96bc-43a1-051b0cdc5faa"
+  },
+  "body": {
+    "push_id": "6ab17d16-a23d-0da5-7768-01e30a6b2772"
+  },
+  "type": "SEND"
+}

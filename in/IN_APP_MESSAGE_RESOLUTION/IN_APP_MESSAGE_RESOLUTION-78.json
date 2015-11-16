@@ -1,0 +1,15 @@
+{
+  "id": "0542b601-d229-f3fd-b490-94631182036d",
+  "offset": "159",
+  "occurred": "2015-11-13T16:34:30.395Z",
+  "processed": "2015-11-13T16:34:30.395Z",
+  "device": {
+    "amazon_channel": "dcd96718-bd5d-d2d2-954b-39ebdc2733e2"
+  },
+  "body": {
+    "push_id": "69a821db-bb63-3a41-c26b-64102f4106ac",
+    "type": "USER_DISMISSED",
+    "duration": 319
+  },
+  "type": "IN_APP_MESSAGE_RESOLUTION"
+}

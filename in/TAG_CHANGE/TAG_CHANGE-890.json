@@ -1,0 +1,26 @@
+{
+  "id": "c9dbb283-dd4b-367b-60d6-2463f55395ad",
+  "offset": "890",
+  "occurred": "2015-11-13T16:46:41.393Z",
+  "processed": "2015-11-13T16:46:41.393Z",
+  "device": {
+    "ios_channel": "bd668a2a-cbb3-146f-c1cb-df2d920f4506"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "omg_shoes",
+        "high_heels",
+        "dad_jeans",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

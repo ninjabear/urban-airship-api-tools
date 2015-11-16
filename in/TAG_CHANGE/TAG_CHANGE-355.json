@@ -1,0 +1,26 @@
+{
+  "id": "12235bc3-5746-e164-0dc9-b767229529d2",
+  "offset": "355",
+  "occurred": "2015-11-13T16:37:46.394Z",
+  "processed": "2015-11-13T16:37:46.394Z",
+  "device": {
+    "android_channel": "5aeed729-0768-b9f2-50c4-1af1a7821169"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sweatpants"
+      ]
+    },
+    "current": {
+      "device": [
+        "sweatpants",
+        "high_heels",
+        "raincoats",
+        "graphic_tees",
+        "high_tops"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

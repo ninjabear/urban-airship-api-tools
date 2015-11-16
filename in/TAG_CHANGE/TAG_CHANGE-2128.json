@@ -1,0 +1,25 @@
+{
+  "id": "a7181a9f-cbe1-8921-be6f-6b4afb6fde1e",
+  "offset": "2128",
+  "occurred": "2015-11-13T17:07:19.393Z",
+  "processed": "2015-11-13T17:07:19.393Z",
+  "device": {
+    "ios_channel": "5550a2f0-d653-1e08-ef6a-b8a53b9d0f43"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "high_heels",
+        "bow_ties",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

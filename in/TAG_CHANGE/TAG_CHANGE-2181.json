@@ -1,0 +1,25 @@
+{
+  "id": "a0ebcb9e-b91e-1e0c-bf44-cf6fa7ba7b74",
+  "offset": "2181",
+  "occurred": "2015-11-13T17:08:12.394Z",
+  "processed": "2015-11-13T17:08:12.394Z",
+  "device": {
+    "amazon_channel": "8e8c087a-70be-ed10-518e-d47745cc2cff"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "bow_ties",
+        "suspenders",
+        "high_heels"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

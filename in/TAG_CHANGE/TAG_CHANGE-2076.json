@@ -1,0 +1,25 @@
+{
+  "id": "199d03a3-7e88-7a1b-d51e-a560fa5c96bc",
+  "offset": "2076",
+  "occurred": "2015-11-13T17:06:27.393Z",
+  "processed": "2015-11-13T17:06:27.393Z",
+  "device": {
+    "android_channel": "7fec7934-77d7-48db-ded4-296bb3683ce4"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dad_jeans"
+      ]
+    },
+    "current": {
+      "device": [
+        "dad_jeans",
+        "startup_tees",
+        "sombreros",
+        "sweatpants"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "afc41e99-2c72-8e45-4fcb-53f0f51cb578",
+  "offset": "149",
+  "occurred": "2015-11-13T16:34:20.394Z",
+  "processed": "2015-11-13T16:34:20.394Z",
+  "device": {
+    "ios_channel": "875a3285-0ea9-dd06-d50f-b2e6c9e8d31d"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "suspenders",
+        "turtlenecks",
+        "high_heels",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

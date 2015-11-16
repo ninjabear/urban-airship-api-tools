@@ -1,0 +1,27 @@
+{
+  "id": "f28f8c9f-8367-b334-e622-05477bcaf53b",
+  "offset": "2042",
+  "occurred": "2015-11-13T17:05:53.393Z",
+  "processed": "2015-11-13T17:05:53.393Z",
+  "device": {
+    "amazon_channel": "72e3a961-72a6-8779-3cf4-033da988ea15",
+    "named_user_id": "08bf6533-d6f4-7ef0-8bb9-9a6fbb23315e"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sweatpants"
+      ]
+    },
+    "current": {
+      "device": [
+        "sweatpants",
+        "suspenders",
+        "sombreros",
+        "raincoats",
+        "that_one_ratty_tshirt"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "818347f4-4002-fd7c-f940-6cf6b06c8e24",
+  "offset": "1963",
+  "occurred": "2015-11-13T17:04:34.393Z",
+  "processed": "2015-11-13T17:04:34.393Z",
+  "device": {
+    "ios_channel": "e3a39c3e-ad85-ab12-98ff-da719990c381"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "startup_tees",
+        "dress_shirts",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

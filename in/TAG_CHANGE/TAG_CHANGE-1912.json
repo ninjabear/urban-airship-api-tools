@@ -1,0 +1,26 @@
+{
+  "id": "cc90b34b-7e23-652a-d4c2-b2790ad6165c",
+  "offset": "1912",
+  "occurred": "2015-11-13T17:03:43.393Z",
+  "processed": "2015-11-13T17:03:43.393Z",
+  "device": {
+    "ios_channel": "2e3963e3-0b91-5d68-cd86-1bc4134622ea"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_heels"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_heels",
+        "startup_tees",
+        "sweatpants",
+        "sombreros",
+        "graphic_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

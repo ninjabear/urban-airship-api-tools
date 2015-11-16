@@ -1,0 +1,25 @@
+{
+  "id": "d926cc19-4b50-1173-8e0b-c7a37a893e3a",
+  "offset": "2112",
+  "occurred": "2015-11-13T17:07:03.393Z",
+  "processed": "2015-11-13T17:07:03.393Z",
+  "device": {
+    "amazon_channel": "f2b40262-1017-1c4f-564d-a48424cf9090"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "suspenders",
+        "bow_ties",
+        "dad_jeans"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

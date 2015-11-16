@@ -1,0 +1,25 @@
+{
+  "id": "643ee5ab-edc6-f31f-85be-2f2dca60d2a0",
+  "offset": "1036",
+  "occurred": "2015-11-13T16:49:07.394Z",
+  "processed": "2015-11-13T16:49:07.394Z",
+  "device": {
+    "android_channel": "6aff1f19-7843-fbb7-9b7c-8e6f7b518842"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_heels"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_heels",
+        "startup_tees",
+        "that_one_ratty_tshirt",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "b4433d04-a522-7323-2f67-a47c385b2b23",
+  "offset": "95",
+  "occurred": "2015-11-13T16:33:26.394Z",
+  "processed": "2015-11-13T16:33:26.394Z",
+  "device": {
+    "android_channel": "41d18fd0-bc65-0ece-3307-33673fa011dc"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sweatpants"
+      ]
+    },
+    "current": {
+      "device": [
+        "sweatpants",
+        "that_one_ratty_tshirt",
+        "omg_shoes",
+        "turtlenecks",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

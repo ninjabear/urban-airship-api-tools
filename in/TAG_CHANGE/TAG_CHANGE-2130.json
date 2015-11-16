@@ -1,0 +1,27 @@
+{
+  "id": "a6b415e8-e3e2-6f83-6642-6157ec298d97",
+  "offset": "2130",
+  "occurred": "2015-11-13T17:07:21.393Z",
+  "processed": "2015-11-13T17:07:21.393Z",
+  "device": {
+    "amazon_channel": "f4dd353c-8130-45f9-f1a1-9ba20bccaff0",
+    "named_user_id": "d1057e94-1844-c5ad-9db4-d2c6b749e92d"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "omg_shoes"
+      ]
+    },
+    "current": {
+      "device": [
+        "omg_shoes",
+        "sombreros",
+        "suspenders",
+        "cowboy_boots",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

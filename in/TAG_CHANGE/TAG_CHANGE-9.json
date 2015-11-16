@@ -1,0 +1,25 @@
+{
+  "id": "2866044c-6674-ed35-f309-8f0c4471578a",
+  "offset": "9",
+  "occurred": "2015-11-13T16:32:00.394Z",
+  "processed": "2015-11-13T16:32:00.394Z",
+  "device": {
+    "amazon_channel": "4f20dc37-2d43-f625-1e7d-c788f18597fd"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "startup_tees",
+        "dress_shirts",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

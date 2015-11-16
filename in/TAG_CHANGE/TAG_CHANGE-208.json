@@ -1,0 +1,26 @@
+{
+  "id": "7d220c3a-c0aa-6f54-2b06-1b9c77981e6c",
+  "offset": "208",
+  "occurred": "2015-11-13T16:35:19.393Z",
+  "processed": "2015-11-13T16:35:19.393Z",
+  "device": {
+    "amazon_channel": "53f7f4e6-8345-b48e-aa3c-4e7a89e96c3a"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "omg_shoes"
+      ]
+    },
+    "current": {
+      "device": [
+        "omg_shoes",
+        "suspenders",
+        "turtlenecks",
+        "sombreros",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

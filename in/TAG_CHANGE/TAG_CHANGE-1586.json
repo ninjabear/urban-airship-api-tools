@@ -1,0 +1,26 @@
+{
+  "id": "2628c6b8-7c02-102c-44d1-f30ab947e60b",
+  "offset": "1586",
+  "occurred": "2015-11-13T16:58:17.393Z",
+  "processed": "2015-11-13T16:58:17.393Z",
+  "device": {
+    "android_channel": "3edd4c62-915a-f3cc-1bf3-d775d6239ada",
+    "named_user_id": "8c56e55b-94d3-cf2a-2aaf-6ef3a951ffcd"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "swimsuits"
+      ]
+    },
+    "current": {
+      "device": [
+        "swimsuits",
+        "that_one_ratty_tshirt",
+        "high_tops",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

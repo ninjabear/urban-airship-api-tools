@@ -1,0 +1,26 @@
+{
+  "id": "85fca73c-0b6d-d511-bad9-09e76870dff7",
+  "offset": "202",
+  "occurred": "2015-11-13T16:35:13.393Z",
+  "processed": "2015-11-13T16:35:13.393Z",
+  "device": {
+    "amazon_channel": "71ccf70b-f9b9-8bc6-4311-0f2970f8096e"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "turtlenecks"
+      ]
+    },
+    "current": {
+      "device": [
+        "turtlenecks",
+        "sweatpants",
+        "high_heels",
+        "startup_tees",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

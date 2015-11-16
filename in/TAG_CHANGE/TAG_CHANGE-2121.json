@@ -1,0 +1,24 @@
+{
+  "id": "af4fc1db-aef3-9189-a2f4-74cddbd881ed",
+  "offset": "2121",
+  "occurred": "2015-11-13T17:07:12.393Z",
+  "processed": "2015-11-13T17:07:12.393Z",
+  "device": {
+    "amazon_channel": "9824383a-3fb6-536c-417f-21f403b11abe"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "sombreros",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

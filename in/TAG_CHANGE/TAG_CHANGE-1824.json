@@ -1,0 +1,24 @@
+{
+  "id": "c8dbc700-fd00-400d-8f94-7fd989534d6d",
+  "offset": "1824",
+  "occurred": "2015-11-13T17:02:15.393Z",
+  "processed": "2015-11-13T17:02:15.393Z",
+  "device": {
+    "ios_channel": "5c7ab429-f4c5-76e8-9873-5036fe03a6ff"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sweatpants"
+      ]
+    },
+    "current": {
+      "device": [
+        "sweatpants",
+        "dad_jeans",
+        "graphic_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

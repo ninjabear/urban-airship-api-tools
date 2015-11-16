@@ -1,0 +1,13 @@
+{
+  "id": "e84fdeaf-6e90-7007-93fd-580b517886ae",
+  "offset": "2318",
+  "occurred": "2015-11-13T17:10:29.393Z",
+  "processed": "2015-11-13T17:10:29.393Z",
+  "device": {
+    "android_channel": "6a23fda4-f4d0-6b72-7154-2e0432d93d29"
+  },
+  "body": {
+    "push_id": "d3b2e1ec-8895-ac11-fe43-849eb477f573"
+  },
+  "type": "RICH_DELIVERY"
+}

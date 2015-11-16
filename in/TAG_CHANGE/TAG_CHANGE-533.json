@@ -1,0 +1,25 @@
+{
+  "id": "851e7932-ed56-3132-5a21-0335eaba7193",
+  "offset": "533",
+  "occurred": "2015-11-13T16:40:44.394Z",
+  "processed": "2015-11-13T16:40:44.394Z",
+  "device": {
+    "amazon_channel": "554d7ef8-0623-d490-2571-dfdc5b08cd85"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "graphic_tees",
+        "turtlenecks",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "e0a62a0b-714a-1b27-abdc-012aa2318c6c",
+  "offset": "2022",
+  "occurred": "2015-11-13T17:05:33.393Z",
+  "processed": "2015-11-13T17:05:33.393Z",
+  "device": {
+    "ios_channel": "658e08f0-5649-1505-c3d0-7627215d9083"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "cowboy_boots",
+        "raincoats",
+        "graphic_tees",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

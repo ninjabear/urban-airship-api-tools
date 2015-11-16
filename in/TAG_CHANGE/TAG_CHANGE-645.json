@@ -1,0 +1,26 @@
+{
+  "id": "6b39a219-1838-8edb-1f05-48439419a095",
+  "offset": "645",
+  "occurred": "2015-11-13T16:42:36.393Z",
+  "processed": "2015-11-13T16:42:36.393Z",
+  "device": {
+    "ios_channel": "1ff3bd20-959b-71a2-95a2-8e5fe515a258"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "swimsuits",
+        "cowboy_boots",
+        "dad_jeans",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

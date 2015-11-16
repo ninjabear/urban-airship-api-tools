@@ -1,0 +1,24 @@
+{
+  "id": "36ae4ad9-238f-d70a-743b-99c74d5393e1",
+  "offset": "1861",
+  "occurred": "2015-11-13T17:02:52.393Z",
+  "processed": "2015-11-13T17:02:52.393Z",
+  "device": {
+    "amazon_channel": "f75bf917-b596-39d4-2fd2-2f7dbd548c3b"
+  },
+  "body": {
+    "name": "QSQvOQG5nJsyCpykoesR3Xe19qCsVd8QunNi",
+    "customer_id": "jpa2AvzmyQAiv6kOe07nVmYGNBQb97L2sxQX",
+    "interaction_type": "ph831IJD1aClpERh94HHBve34JWwGYQ5UgMz",
+    "interaction_id": "2nPEXSuw9MnCU0RUveeQgtn3xznLpHmw5Pnw",
+    "transaction": "dhQmAAnZ4gngQFnIUtAPFVBEnfOKLKJpsqEt",
+    "value": -4485209311297.616,
+    "last_delivered": {
+      "push_id": "2d7a09a0-85a0-c1a0-2d6d-6c8c40a51e85"
+    },
+    "triggering_push": {
+      "push_id": "48fa6099-fd40-8e1f-cd7c-cf3db047bb66"
+    }
+  },
+  "type": "CUSTOM"
+}

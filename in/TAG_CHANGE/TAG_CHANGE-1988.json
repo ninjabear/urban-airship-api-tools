@@ -1,0 +1,27 @@
+{
+  "id": "f2d3e719-af18-69ef-f4e5-2333135e37e2",
+  "offset": "1988",
+  "occurred": "2015-11-13T17:04:59.393Z",
+  "processed": "2015-11-13T17:04:59.393Z",
+  "device": {
+    "ios_channel": "12e6bc29-6d3b-feee-c18d-631b527c9ee8",
+    "named_user_id": "ce08d741-8516-3ed7-717e-b3816bf8a459"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "startup_tees",
+        "dress_shirts",
+        "high_tops",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "79bec064-178a-ddf6-4e85-e31c348cfdb7",
+  "offset": "289",
+  "occurred": "2015-11-13T16:36:40.394Z",
+  "processed": "2015-11-13T16:36:40.394Z",
+  "device": {
+    "ios_channel": "ec67a293-8603-ffbb-3c77-f5f349c7f4c1"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "omg_shoes",
+        "sweatpants",
+        "startup_tees",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

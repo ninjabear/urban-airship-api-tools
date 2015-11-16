@@ -1,0 +1,26 @@
+{
+  "id": "a16e4d25-e13e-1494-69b4-b8e90b2054e6",
+  "offset": "1187",
+  "occurred": "2015-11-13T16:51:38.393Z",
+  "processed": "2015-11-13T16:51:38.393Z",
+  "device": {
+    "android_channel": "2f6c7046-6dea-ced2-f70e-49e94b51566b"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "dad_jeans",
+        "sweatpants",
+        "that_one_ratty_tshirt",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

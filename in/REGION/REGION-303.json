@@ -1,0 +1,24 @@
+{
+  "id": "a8534914-0c51-ae15-dc5d-828a6838637f",
+  "offset": "303",
+  "occurred": "2015-11-13T16:36:54.393Z",
+  "processed": "2015-11-13T16:36:54.393Z",
+  "device": {
+    "ios_channel": "e17a2b70-16e4-d389-a42e-508175366cf0"
+  },
+  "body": {
+    "action": "enter",
+    "region_id": "Wbed3lNP1YHOnlFYWpajHXIS9PmqGap3JRdT",
+    "source": "85jUi3nD9UXDw6bWswE27g0v9C3Z0XarqLgb",
+    "session_id": "ce379180-11cb-0cbc-bd43-3f6bb3e80ac5",
+    "proximity": {
+      "id": "RfznEtPQJ3cv0EDy50msemfpIsgAx8eJxH69",
+      "major": 1358619735,
+      "minor": 1464391089,
+      "lat": "0.25034808333696845",
+      "lon": "0.2961189799309377",
+      "rssi": 510813023
+    }
+  },
+  "type": "REGION"
+}

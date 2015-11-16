@@ -1,0 +1,26 @@
+{
+  "id": "e680a983-b97c-7ab5-51f1-b0f86549f6eb",
+  "offset": "2133",
+  "occurred": "2015-11-13T17:07:24.393Z",
+  "processed": "2015-11-13T17:07:24.393Z",
+  "device": {
+    "ios_channel": "3c0c78ef-92c6-ed96-0a26-3897b31863cb"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "cowboy_boots"
+      ]
+    },
+    "current": {
+      "device": [
+        "cowboy_boots",
+        "startup_tees",
+        "that_one_ratty_tshirt",
+        "high_heels",
+        "high_tops"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

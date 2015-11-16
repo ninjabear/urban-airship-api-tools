@@ -1,0 +1,26 @@
+{
+  "id": "ad98b419-b239-a594-d982-2e4e1477a6d4",
+  "offset": "1270",
+  "occurred": "2015-11-13T16:53:01.393Z",
+  "processed": "2015-11-13T16:53:01.393Z",
+  "device": {
+    "android_channel": "15200bd6-da7e-72a7-0ed5-2a7d7e03dc54"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "startup_tees",
+        "dress_shirts",
+        "sweatpants",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bd1c1fb0-34ea-b198-7f68-906b9b35d103",
+  "offset": "2335",
+  "occurred": "2015-11-13T17:10:46.393Z",
+  "processed": "2015-11-13T17:10:46.393Z",
+  "device": {
+    "amazon_channel": "23008e71-3dec-762b-0441-3c047d58cbc5"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "graphic_tees",
+        "that_one_ratty_tshirt",
+        "dad_jeans",
+        "sweatpants"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

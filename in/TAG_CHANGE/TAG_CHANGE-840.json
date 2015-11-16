@@ -1,0 +1,26 @@
+{
+  "id": "79fbca03-8710-f775-0c77-d80e735fc325",
+  "offset": "840",
+  "occurred": "2015-11-13T16:45:51.394Z",
+  "processed": "2015-11-13T16:45:51.394Z",
+  "device": {
+    "ios_channel": "5e99a6f2-d403-79de-3747-acbb6577d6a1"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "dad_jeans",
+        "swimsuits",
+        "that_one_ratty_tshirt",
+        "high_heels"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

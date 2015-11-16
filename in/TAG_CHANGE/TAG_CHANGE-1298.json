@@ -1,0 +1,25 @@
+{
+  "id": "493015f6-71da-4082-28bd-fa65b3488d90",
+  "offset": "1298",
+  "occurred": "2015-11-13T16:53:29.393Z",
+  "processed": "2015-11-13T16:53:29.393Z",
+  "device": {
+    "amazon_channel": "fe431ee2-b8d7-c06c-8b7a-7979e8a8d732"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "suspenders"
+      ]
+    },
+    "current": {
+      "device": [
+        "suspenders",
+        "high_heels",
+        "swimsuits",
+        "high_tops"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "f22a1eee-1ef5-e533-4a46-1d1b6b2fcf3f",
+  "offset": "907",
+  "occurred": "2015-11-13T16:46:58.393Z",
+  "processed": "2015-11-13T16:46:58.393Z",
+  "device": {
+    "amazon_channel": "637aa081-7e98-bfbd-2340-cb5f391e597a"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "suspenders",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "3cf1f94c-32b0-8fe4-c234-75629107e5ba",
+  "offset": "76",
+  "occurred": "2015-11-13T16:33:07.394Z",
+  "processed": "2015-11-13T16:33:07.394Z",
+  "device": {
+    "android_channel": "d77f9239-bef3-5e13-73e7-9b931b0b0af7"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "sweatpants",
+        "suspenders",
+        "graphic_tees",
+        "cowboy_boots"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "21f17de5-d643-ec90-9f14-0b4301a9aabd",
+  "offset": "794",
+  "occurred": "2015-11-13T16:45:05.393Z",
+  "processed": "2015-11-13T16:45:05.393Z",
+  "device": {
+    "amazon_channel": "34942006-e26e-1656-247a-26a08224b5b0"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "suspenders"
+      ]
+    },
+    "current": {
+      "device": [
+        "suspenders",
+        "sombreros",
+        "turtlenecks",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

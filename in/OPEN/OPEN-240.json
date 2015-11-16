@@ -1,0 +1,19 @@
+{
+  "id": "c22d2db7-7c55-dcb2-d4ab-ca1b648f86e4",
+  "offset": "240",
+  "occurred": "2015-11-13T16:35:51.393Z",
+  "processed": "2015-11-13T16:35:51.393Z",
+  "device": {
+    "android_channel": "608845c3-4811-6f36-db63-c31e496de801"
+  },
+  "body": {
+    "triggering_push": {
+      "push_id": "0ef7e504-1709-ef33-eafc-64ea185aa3fa"
+    },
+    "session_id": "8b8cc7df-eaee-72b7-1f84-d05434e870f9",
+    "last_delivered": {
+      "push_id": "d16e3669-1a92-8ae0-4a3b-a6ae252bd27e"
+    }
+  },
+  "type": "OPEN"
+}

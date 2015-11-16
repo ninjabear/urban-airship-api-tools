@@ -1,0 +1,24 @@
+{
+  "id": "afd8c953-e9ba-3db5-e01d-317a1ca0debf",
+  "offset": "2295",
+  "occurred": "2015-11-13T17:10:06.393Z",
+  "processed": "2015-11-13T17:10:06.393Z",
+  "device": {
+    "amazon_channel": "b21a5d6b-26b3-408b-504d-8f904397755c"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "cowboy_boots",
+        "graphic_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

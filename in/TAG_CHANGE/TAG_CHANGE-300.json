@@ -1,0 +1,25 @@
+{
+  "id": "037dac6f-85ce-ec69-0fad-231ecd10b3ea",
+  "offset": "300",
+  "occurred": "2015-11-13T16:36:51.394Z",
+  "processed": "2015-11-13T16:36:51.394Z",
+  "device": {
+    "amazon_channel": "fe280833-12df-b9f7-e26e-b3c0eb5429f5"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "omg_shoes",
+        "swimsuits",
+        "high_tops"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

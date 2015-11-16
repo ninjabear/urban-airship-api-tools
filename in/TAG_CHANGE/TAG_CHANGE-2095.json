@@ -1,0 +1,26 @@
+{
+  "id": "908bedbf-331a-32c2-4983-e6d7eda2acad",
+  "offset": "2095",
+  "occurred": "2015-11-13T17:06:46.393Z",
+  "processed": "2015-11-13T17:06:46.393Z",
+  "device": {
+    "amazon_channel": "5490a62f-34aa-9d76-9f5d-b87a8dffd3fa"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "high_heels",
+        "turtlenecks",
+        "suspenders",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

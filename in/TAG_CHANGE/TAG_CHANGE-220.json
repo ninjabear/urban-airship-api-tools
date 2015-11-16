@@ -1,0 +1,27 @@
+{
+  "id": "a32a4aa6-c477-b2cd-eaf9-a7b491ad3124",
+  "offset": "220",
+  "occurred": "2015-11-13T16:35:31.394Z",
+  "processed": "2015-11-13T16:35:31.394Z",
+  "device": {
+    "amazon_channel": "d32cf80a-2df3-a3c9-cf66-84bdb1757be9",
+    "named_user_id": "b0bf5e13-ef66-61f4-1086-4fb9a2d1c841"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "dad_jeans",
+        "sweatpants",
+        "raincoats",
+        "graphic_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

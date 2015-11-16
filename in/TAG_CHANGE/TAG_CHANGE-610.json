@@ -1,0 +1,25 @@
+{
+  "id": "c546e409-b239-0819-b635-b1bb1fb72276",
+  "offset": "610",
+  "occurred": "2015-11-13T16:42:01.394Z",
+  "processed": "2015-11-13T16:42:01.394Z",
+  "device": {
+    "android_channel": "5bd74273-4b09-5926-82f6-77deda044cf0"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "raincoats",
+        "sombreros",
+        "cowboy_boots"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "110c987d-acb2-f39c-acb2-7e0edfdf46f0",
+  "offset": "1913",
+  "occurred": "2015-11-13T17:03:44.394Z",
+  "processed": "2015-11-13T17:03:44.394Z",
+  "device": {
+    "amazon_channel": "002aa2d2-8e86-2412-8ff7-40b806a62b12"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "high_tops",
+        "omg_shoes",
+        "turtlenecks",
+        "that_one_ratty_tshirt"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

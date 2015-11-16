@@ -1,0 +1,26 @@
+{
+  "id": "e3a4d2ec-4555-6158-e8ec-4eda56fe82c9",
+  "offset": "96",
+  "occurred": "2015-11-13T16:33:27.393Z",
+  "processed": "2015-11-13T16:33:27.393Z",
+  "device": {
+    "amazon_channel": "67eb8c1f-bdb5-8b7c-5803-8c390b5bf706"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "omg_shoes",
+        "sweatpants",
+        "high_tops",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

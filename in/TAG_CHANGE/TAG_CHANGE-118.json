@@ -1,0 +1,27 @@
+{
+  "id": "8d2ba208-ff6f-c8f2-d2f4-024541a44b16",
+  "offset": "118",
+  "occurred": "2015-11-13T16:33:49.394Z",
+  "processed": "2015-11-13T16:33:49.394Z",
+  "device": {
+    "ios_channel": "39da4b8d-7273-cef6-be95-a77d29a6357f",
+    "named_user_id": "b3b69d7c-2c0f-10cc-e4fa-4c3b9d38c57e"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "suspenders"
+      ]
+    },
+    "current": {
+      "device": [
+        "suspenders",
+        "dress_shirts",
+        "high_heels",
+        "cowboy_boots",
+        "sweatpants"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

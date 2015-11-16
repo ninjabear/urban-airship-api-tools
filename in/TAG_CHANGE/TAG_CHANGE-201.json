@@ -1,0 +1,25 @@
+{
+  "id": "2e8e31f2-5096-64b4-e9f1-36711eb394a2",
+  "offset": "201",
+  "occurred": "2015-11-13T16:35:12.394Z",
+  "processed": "2015-11-13T16:35:12.394Z",
+  "device": {
+    "amazon_channel": "adc7a124-db2b-5f44-c219-6e41d8f5aefe"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "cowboy_boots"
+      ]
+    },
+    "current": {
+      "device": [
+        "cowboy_boots",
+        "dad_jeans",
+        "sweatpants",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

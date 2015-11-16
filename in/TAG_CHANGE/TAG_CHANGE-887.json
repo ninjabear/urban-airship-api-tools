@@ -1,0 +1,25 @@
+{
+  "id": "fe695cc3-ed46-e9d0-b9ef-148079c0975b",
+  "offset": "887",
+  "occurred": "2015-11-13T16:46:38.393Z",
+  "processed": "2015-11-13T16:46:38.393Z",
+  "device": {
+    "ios_channel": "e0de97c0-c532-ae0a-0128-19ae57355e7a"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "startup_tees",
+        "graphic_tees",
+        "that_one_ratty_tshirt"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

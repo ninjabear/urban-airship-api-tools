@@ -1,0 +1,24 @@
+{
+  "id": "c440e065-8546-1596-f24e-1e83141b7a86",
+  "offset": "1921",
+  "occurred": "2015-11-13T17:03:52.393Z",
+  "processed": "2015-11-13T17:03:52.393Z",
+  "device": {
+    "ios_channel": "12558a7c-c567-bec9-2a07-5c77907b8b25"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dad_jeans"
+      ]
+    },
+    "current": {
+      "device": [
+        "dad_jeans",
+        "sombreros",
+        "dress_shirts"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

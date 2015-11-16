@@ -1,0 +1,25 @@
+{
+  "id": "664601ec-4d0e-2d6f-4c9b-d05a2cdd8faa",
+  "offset": "79",
+  "occurred": "2015-11-13T16:33:10.394Z",
+  "processed": "2015-11-13T16:33:10.394Z",
+  "device": {
+    "amazon_channel": "8509509d-46d2-b12a-c19c-a308b11e6de4"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "dress_shirts",
+        "that_one_ratty_tshirt",
+        "dad_jeans"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

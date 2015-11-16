@@ -1,0 +1,25 @@
+{
+  "id": "ed79c4e7-05c8-8fc5-708b-9b9b9b6c356d",
+  "offset": "176",
+  "occurred": "2015-11-13T16:34:47.394Z",
+  "processed": "2015-11-13T16:34:47.394Z",
+  "device": {
+    "amazon_channel": "88b13f41-6743-2418-1ff8-41ac1b3e97d1"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "turtlenecks"
+      ]
+    },
+    "current": {
+      "device": [
+        "turtlenecks",
+        "omg_shoes",
+        "high_tops",
+        "graphic_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "d77790da-ba32-4353-e777-9a3363b52ef8",
+  "offset": "615",
+  "occurred": "2015-11-13T16:42:06.393Z",
+  "processed": "2015-11-13T16:42:06.393Z",
+  "device": {
+    "ios_channel": "272009a5-f7f1-38e3-101a-c536b6b44719"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "swimsuits"
+      ]
+    },
+    "current": {
+      "device": [
+        "swimsuits",
+        "turtlenecks",
+        "suspenders",
+        "dress_shirts",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

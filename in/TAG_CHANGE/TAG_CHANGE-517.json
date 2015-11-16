@@ -1,0 +1,26 @@
+{
+  "id": "958257f4-cb19-d838-9d8b-85584b43d025",
+  "offset": "517",
+  "occurred": "2015-11-13T16:40:28.393Z",
+  "processed": "2015-11-13T16:40:28.393Z",
+  "device": {
+    "amazon_channel": "719f9fd6-fc04-a4d8-241d-052de79786d5"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "sombreros",
+        "graphic_tees",
+        "swimsuits",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

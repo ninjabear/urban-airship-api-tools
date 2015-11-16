@@ -1,0 +1,26 @@
+{
+  "id": "e0c17361-3bba-e64f-e8ab-006e53284d5a",
+  "offset": "17",
+  "occurred": "2015-11-13T16:32:08.394Z",
+  "processed": "2015-11-13T16:32:08.394Z",
+  "device": {
+    "amazon_channel": "42d6adc4-3b8b-6c7b-a550-9ae164f3db2a"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "dad_jeans",
+        "omg_shoes",
+        "suspenders",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

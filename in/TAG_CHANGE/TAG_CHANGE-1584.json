@@ -1,0 +1,25 @@
+{
+  "id": "c73eb7f9-8e7d-848b-1c5f-a35d5bf120f5",
+  "offset": "1584",
+  "occurred": "2015-11-13T16:58:15.394Z",
+  "processed": "2015-11-13T16:58:15.394Z",
+  "device": {
+    "ios_channel": "11d9afcf-9211-de19-af8f-dd5fe4e7f112"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "turtlenecks"
+      ]
+    },
+    "current": {
+      "device": [
+        "turtlenecks",
+        "swimsuits",
+        "high_heels",
+        "high_tops"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

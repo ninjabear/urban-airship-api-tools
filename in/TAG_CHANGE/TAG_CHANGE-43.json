@@ -1,0 +1,26 @@
+{
+  "id": "e708b2a1-18f3-0a2a-0dcb-a0d0e5469c66",
+  "offset": "43",
+  "occurred": "2015-11-13T16:32:34.394Z",
+  "processed": "2015-11-13T16:32:34.394Z",
+  "device": {
+    "ios_channel": "496f98ae-0976-7d4e-7dba-70a65842840e"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "cowboy_boots"
+      ]
+    },
+    "current": {
+      "device": [
+        "cowboy_boots",
+        "dress_shirts",
+        "sweatpants",
+        "bow_ties",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "f81a0095-a236-210b-3488-8866d693b06e",
+  "offset": "654",
+  "occurred": "2015-11-13T16:42:45.394Z",
+  "processed": "2015-11-13T16:42:45.394Z",
+  "device": {
+    "amazon_channel": "c69019b2-2da7-8a8b-c978-33471accd93d"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "dad_jeans",
+        "turtlenecks",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

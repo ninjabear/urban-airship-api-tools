@@ -1,0 +1,25 @@
+{
+  "id": "e53a0345-2e53-d4ba-c9a1-66b50dcc98f0",
+  "offset": "326",
+  "occurred": "2015-11-13T16:37:17.394Z",
+  "processed": "2015-11-13T16:37:17.394Z",
+  "device": {
+    "amazon_channel": "5713baaa-8198-e974-44f0-85e4d0e8d1a5"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "startup_tees",
+        "that_one_ratty_tshirt",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

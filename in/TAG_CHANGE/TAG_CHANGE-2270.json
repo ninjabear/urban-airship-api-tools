@@ -1,0 +1,27 @@
+{
+  "id": "5c0e7c1e-f1ec-e06b-2794-0ce7313f115f",
+  "offset": "2270",
+  "occurred": "2015-11-13T17:09:41.393Z",
+  "processed": "2015-11-13T17:09:41.393Z",
+  "device": {
+    "amazon_channel": "f936d818-6279-42c6-8b58-b11255d8a83e",
+    "named_user_id": "9c25b4f5-ac9a-cae2-f594-32c1df432257"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "swimsuits"
+      ]
+    },
+    "current": {
+      "device": [
+        "swimsuits",
+        "turtlenecks",
+        "dress_shirts",
+        "high_tops",
+        "high_heels"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

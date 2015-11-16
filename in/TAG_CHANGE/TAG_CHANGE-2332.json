@@ -1,0 +1,25 @@
+{
+  "id": "4c8f53c5-5725-5b2b-65a7-5d9d8f6d61fc",
+  "offset": "2332",
+  "occurred": "2015-11-13T17:10:43.394Z",
+  "processed": "2015-11-13T17:10:43.394Z",
+  "device": {
+    "amazon_channel": "42881335-db41-83bb-9c1b-f12cac846df3"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "that_one_ratty_tshirt"
+      ]
+    },
+    "current": {
+      "device": [
+        "that_one_ratty_tshirt",
+        "omg_shoes",
+        "sweatpants",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

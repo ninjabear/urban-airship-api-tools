@@ -1,0 +1,25 @@
+{
+  "id": "8c37e828-037b-701c-d066-2aa58d33e1a6",
+  "offset": "2213",
+  "occurred": "2015-11-13T17:08:44.393Z",
+  "processed": "2015-11-13T17:08:44.393Z",
+  "device": {
+    "android_channel": "38f4db7e-ef23-00fd-2474-921cef4e107e"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "startup_tees",
+        "omg_shoes",
+        "turtlenecks"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

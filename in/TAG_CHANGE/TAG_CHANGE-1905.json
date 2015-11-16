@@ -1,0 +1,26 @@
+{
+  "id": "6cd87455-eb48-c2b9-4c3c-4617d9e4427d",
+  "offset": "1905",
+  "occurred": "2015-11-13T17:03:36.393Z",
+  "processed": "2015-11-13T17:03:36.393Z",
+  "device": {
+    "android_channel": "e962ca8a-b88e-1e6a-aa6e-45e802473030"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "swimsuits",
+        "dress_shirts",
+        "graphic_tees",
+        "turtlenecks"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

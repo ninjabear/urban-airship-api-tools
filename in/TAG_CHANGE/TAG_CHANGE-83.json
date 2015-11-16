@@ -1,0 +1,26 @@
+{
+  "id": "2e67631f-b8be-ed2c-24e3-fdad3e0db3cf",
+  "offset": "83",
+  "occurred": "2015-11-13T16:33:14.394Z",
+  "processed": "2015-11-13T16:33:14.394Z",
+  "device": {
+    "android_channel": "e536d6f7-34eb-c718-0f49-6aa8a1b4e6b3"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "that_one_ratty_tshirt",
+        "sombreros",
+        "turtlenecks",
+        "high_tops"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

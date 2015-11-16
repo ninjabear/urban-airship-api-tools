@@ -1,0 +1,24 @@
+{
+  "id": "392d26a0-d134-2e38-f557-e616d7fe9925",
+  "offset": "1846",
+  "occurred": "2015-11-13T17:02:37.393Z",
+  "processed": "2015-11-13T17:02:37.393Z",
+  "device": {
+    "android_channel": "1d305007-cbfa-a591-064a-d3dd72dd0d01"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "that_one_ratty_tshirt"
+      ]
+    },
+    "current": {
+      "device": [
+        "that_one_ratty_tshirt",
+        "sombreros",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

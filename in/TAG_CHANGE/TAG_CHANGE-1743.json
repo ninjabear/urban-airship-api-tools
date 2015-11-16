@@ -1,0 +1,26 @@
+{
+  "id": "df5577f4-e4ca-573d-911a-bee23089e2fd",
+  "offset": "1743",
+  "occurred": "2015-11-13T17:00:54.393Z",
+  "processed": "2015-11-13T17:00:54.393Z",
+  "device": {
+    "ios_channel": "c2e90e54-c955-495d-b02f-4d798e192e1f",
+    "named_user_id": "4095c487-d6f9-5125-e9b5-69576cb0ec47"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "turtlenecks"
+      ]
+    },
+    "current": {
+      "device": [
+        "turtlenecks",
+        "sombreros",
+        "graphic_tees",
+        "swimsuits"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

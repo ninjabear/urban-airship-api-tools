@@ -1,0 +1,27 @@
+{
+  "id": "00d8d08a-1f8c-4a45-8317-275bf58163e6",
+  "offset": "10",
+  "occurred": "2015-11-13T16:32:01.394Z",
+  "processed": "2015-11-13T16:32:01.394Z",
+  "device": {
+    "android_channel": "7532de12-54fa-e421-e9ee-b9a5278c5f83",
+    "named_user_id": "57b9552a-65cc-c047-824d-4811642ad8ec"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "startup_tees",
+        "turtlenecks",
+        "cowboy_boots",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "e2fda0a6-c13a-346f-f5a3-ea79abc7d3ab",
+  "offset": "1949",
+  "occurred": "2015-11-13T17:04:20.394Z",
+  "processed": "2015-11-13T17:04:20.394Z",
+  "device": {
+    "amazon_channel": "cdbf323a-bf81-ff35-e5b0-24171b82981f"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "sombreros",
+        "turtlenecks",
+        "sweatpants",
+        "high_tops"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

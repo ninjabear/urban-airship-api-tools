@@ -1,0 +1,26 @@
+{
+  "id": "52f1923a-cdcb-69f4-fab9-96f2ca2b2730",
+  "offset": "523",
+  "occurred": "2015-11-13T16:40:34.393Z",
+  "processed": "2015-11-13T16:40:34.393Z",
+  "device": {
+    "android_channel": "b7baf215-89eb-bef3-2d72-5c9dc7d94d85"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "raincoats",
+        "omg_shoes",
+        "graphic_tees",
+        "sweatpants"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

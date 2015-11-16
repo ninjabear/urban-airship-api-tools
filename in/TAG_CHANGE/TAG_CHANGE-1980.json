@@ -1,0 +1,24 @@
+{
+  "id": "c761e792-0c28-e84a-b5f8-a9b090a29f6d",
+  "offset": "1980",
+  "occurred": "2015-11-13T17:04:51.393Z",
+  "processed": "2015-11-13T17:04:51.393Z",
+  "device": {
+    "ios_channel": "591e1627-577e-7177-6bb3-30968b3c9df2"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "cowboy_boots"
+      ]
+    },
+    "current": {
+      "device": [
+        "cowboy_boots",
+        "high_heels",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

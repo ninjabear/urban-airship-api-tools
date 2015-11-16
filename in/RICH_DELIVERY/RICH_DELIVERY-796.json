@@ -1,0 +1,13 @@
+{
+  "id": "c2a027e8-9b64-4af9-9856-555747cbbb4b",
+  "offset": "2256",
+  "occurred": "2015-11-13T17:09:27.393Z",
+  "processed": "2015-11-13T17:09:27.393Z",
+  "device": {
+    "amazon_channel": "c71f1f24-3b1c-1d63-4ba0-184796591493"
+  },
+  "body": {
+    "push_id": "6d8406a1-9a2e-d42e-147a-94a35d73c232"
+  },
+  "type": "RICH_DELIVERY"
+}

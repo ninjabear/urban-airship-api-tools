@@ -1,0 +1,26 @@
+{
+  "id": "6eb7d269-ddeb-cda7-cbbd-edfa57e4655f",
+  "offset": "1793",
+  "occurred": "2015-11-13T17:01:44.393Z",
+  "processed": "2015-11-13T17:01:44.393Z",
+  "device": {
+    "ios_channel": "56b63713-11c4-749d-cbb0-a146de1ada35"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "suspenders",
+        "turtlenecks",
+        "omg_shoes",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "6726836b-67b4-fd8d-132d-855d703ab11a",
+  "offset": "145",
+  "occurred": "2015-11-13T16:34:16.394Z",
+  "processed": "2015-11-13T16:34:16.394Z",
+  "device": {
+    "ios_channel": "de378ba4-49eb-de63-f12b-4b5cea02d302"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "startup_tees",
+        "suspenders",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

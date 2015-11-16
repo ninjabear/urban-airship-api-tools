@@ -1,0 +1,26 @@
+{
+  "id": "20601214-2ab2-0ea0-2b3f-c967fad99849",
+  "offset": "2090",
+  "occurred": "2015-11-13T17:06:41.393Z",
+  "processed": "2015-11-13T17:06:41.393Z",
+  "device": {
+    "amazon_channel": "11474e52-bfd4-3a9d-d577-24b2cf17a32c"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "turtlenecks"
+      ]
+    },
+    "current": {
+      "device": [
+        "turtlenecks",
+        "bow_ties",
+        "high_heels",
+        "that_one_ratty_tshirt",
+        "dress_shirts"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

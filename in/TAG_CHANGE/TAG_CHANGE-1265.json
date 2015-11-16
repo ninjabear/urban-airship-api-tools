@@ -1,0 +1,24 @@
+{
+  "id": "14144e55-3179-def9-d7ab-4462f1ca465a",
+  "offset": "1265",
+  "occurred": "2015-11-13T16:52:56.394Z",
+  "processed": "2015-11-13T16:52:56.394Z",
+  "device": {
+    "ios_channel": "b2eef8c2-17c0-6be7-83d0-d5b16c33ce76"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dad_jeans"
+      ]
+    },
+    "current": {
+      "device": [
+        "dad_jeans",
+        "startup_tees",
+        "graphic_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "14fa0e40-13c3-8e14-9845-4a214c0aa02c",
+  "offset": "1962",
+  "occurred": "2015-11-13T17:04:33.393Z",
+  "processed": "2015-11-13T17:04:33.393Z",
+  "device": {
+    "ios_channel": "af57c7bc-1cfb-6416-26c9-dcfdd48f7165",
+    "named_user_id": "e6acef10-5756-61df-39cf-49755c319a4c"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "suspenders"
+      ]
+    },
+    "current": {
+      "device": [
+        "suspenders",
+        "high_heels",
+        "bow_ties",
+        "graphic_tees",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "82ca552b-986c-d5f9-13c4-63a59d8972b3",
+  "offset": "56",
+  "occurred": "2015-11-13T16:32:47.394Z",
+  "processed": "2015-11-13T16:32:47.394Z",
+  "device": {
+    "android_channel": "4628ea48-19e6-8709-0490-ba0b73541300",
+    "named_user_id": "9c92f9dc-87df-ce65-e100-bec8b4eed8b7"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "suspenders"
+      ]
+    },
+    "current": {
+      "device": [
+        "suspenders",
+        "that_one_ratty_tshirt",
+        "graphic_tees",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

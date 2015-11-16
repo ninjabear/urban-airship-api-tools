@@ -1,0 +1,27 @@
+{
+  "id": "854d62fd-95de-09fc-df37-9e79dc107363",
+  "offset": "250",
+  "occurred": "2015-11-13T16:36:01.394Z",
+  "processed": "2015-11-13T16:36:01.394Z",
+  "device": {
+    "amazon_channel": "9fd2505a-d0b1-5a07-847b-db733cc350c1",
+    "named_user_id": "d80a594a-5ef9-767b-bea7-acab73e70305"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "turtlenecks"
+      ]
+    },
+    "current": {
+      "device": [
+        "turtlenecks",
+        "that_one_ratty_tshirt",
+        "sweatpants",
+        "graphic_tees",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

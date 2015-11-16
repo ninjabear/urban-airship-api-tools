@@ -1,0 +1,27 @@
+{
+  "id": "4ad44e40-70e1-8348-05ed-315fe1c9efaf",
+  "offset": "1925",
+  "occurred": "2015-11-13T17:03:56.393Z",
+  "processed": "2015-11-13T17:03:56.393Z",
+  "device": {
+    "ios_channel": "b1ba75a1-16ea-bbf4-0b2f-08f2ad5f3a6f",
+    "named_user_id": "2cade3cc-8cd0-2e2e-f3f3-2b0dce7c056d"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "swimsuits"
+      ]
+    },
+    "current": {
+      "device": [
+        "swimsuits",
+        "dress_shirts",
+        "bow_ties",
+        "omg_shoes",
+        "high_tops"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "60f385f1-d942-81e6-1052-2273bd8aa6e7",
+  "offset": "205",
+  "occurred": "2015-11-13T16:35:16.394Z",
+  "processed": "2015-11-13T16:35:16.394Z",
+  "device": {
+    "android_channel": "f2fa4ee3-17f6-28ba-6a60-a545638563ea"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "dress_shirts",
+        "raincoats",
+        "omg_shoes",
+        "turtlenecks"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

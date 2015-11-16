@@ -1,0 +1,26 @@
+{
+  "id": "4c3f9be0-f06b-a36e-ae5d-bde319bce428",
+  "offset": "2018",
+  "occurred": "2015-11-13T17:05:29.393Z",
+  "processed": "2015-11-13T17:05:29.393Z",
+  "device": {
+    "amazon_channel": "8795ec57-9e2e-a342-b2a2-7616ddc1eaff"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "sweatpants",
+        "startup_tees",
+        "turtlenecks",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

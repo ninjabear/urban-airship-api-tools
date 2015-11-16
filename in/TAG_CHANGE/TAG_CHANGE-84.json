@@ -1,0 +1,26 @@
+{
+  "id": "1852709a-15a0-15d5-7ce3-71bbfda56b0e",
+  "offset": "84",
+  "occurred": "2015-11-13T16:33:15.394Z",
+  "processed": "2015-11-13T16:33:15.394Z",
+  "device": {
+    "amazon_channel": "46f8d07d-1caf-199f-1c82-dd2513a2b106"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "that_one_ratty_tshirt",
+        "dad_jeans",
+        "bow_ties",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

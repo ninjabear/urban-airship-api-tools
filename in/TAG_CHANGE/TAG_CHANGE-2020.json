@@ -1,0 +1,25 @@
+{
+  "id": "9b83b8fa-3d7e-fb36-4496-f7860bc6937b",
+  "offset": "2020",
+  "occurred": "2015-11-13T17:05:31.393Z",
+  "processed": "2015-11-13T17:05:31.393Z",
+  "device": {
+    "android_channel": "733b2df3-e129-9728-869a-ec66d4f05e21"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dad_jeans"
+      ]
+    },
+    "current": {
+      "device": [
+        "dad_jeans",
+        "sombreros",
+        "suspenders",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

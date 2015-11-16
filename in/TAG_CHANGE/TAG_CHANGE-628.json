@@ -1,0 +1,26 @@
+{
+  "id": "0add94c2-dbb3-96f0-9c45-bd26a01ab045",
+  "offset": "628",
+  "occurred": "2015-11-13T16:42:19.394Z",
+  "processed": "2015-11-13T16:42:19.394Z",
+  "device": {
+    "amazon_channel": "60452a7b-dbe8-5d88-a6bb-c31525b79f6b",
+    "named_user_id": "f3162e41-b941-0c32-99e0-1dc87e2e7d44"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_heels"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_heels",
+        "suspenders",
+        "sweatpants",
+        "swimsuits"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

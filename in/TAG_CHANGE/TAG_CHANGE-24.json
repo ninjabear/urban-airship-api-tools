@@ -1,0 +1,25 @@
+{
+  "id": "9dc8f3e8-1625-e0d0-56bb-a0c59d2de29c",
+  "offset": "24",
+  "occurred": "2015-11-13T16:32:15.394Z",
+  "processed": "2015-11-13T16:32:15.394Z",
+  "device": {
+    "amazon_channel": "92c6e88d-be85-2e09-62cb-7b4a07a10844"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "suspenders"
+      ]
+    },
+    "current": {
+      "device": [
+        "suspenders",
+        "high_tops",
+        "raincoats",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

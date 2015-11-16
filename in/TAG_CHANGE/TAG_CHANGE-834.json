@@ -1,0 +1,25 @@
+{
+  "id": "0a5cc8a7-a8b9-8cac-a2e5-89f13e25652d",
+  "offset": "834",
+  "occurred": "2015-11-13T16:45:45.393Z",
+  "processed": "2015-11-13T16:45:45.393Z",
+  "device": {
+    "amazon_channel": "f600f6e7-bcd4-9d39-6d7d-be1f986d2b4d"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "raincoats",
+        "omg_shoes",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

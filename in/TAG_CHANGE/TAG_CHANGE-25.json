@@ -1,0 +1,26 @@
+{
+  "id": "84005932-7ac3-a5d8-cfab-da5fd108a103",
+  "offset": "25",
+  "occurred": "2015-11-13T16:32:16.394Z",
+  "processed": "2015-11-13T16:32:16.394Z",
+  "device": {
+    "android_channel": "ebfc3eff-cb78-9b5c-0b1f-de94cdc516fd",
+    "named_user_id": "3a4d55a3-dd9d-cef2-3e35-6d5032040fd4"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "that_one_ratty_tshirt",
+        "dad_jeans",
+        "graphic_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

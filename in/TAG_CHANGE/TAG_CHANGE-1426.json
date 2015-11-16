@@ -1,0 +1,26 @@
+{
+  "id": "8ff1bce4-e8b6-d12e-87dd-a47ae2981dcc",
+  "offset": "1426",
+  "occurred": "2015-11-13T16:55:37.393Z",
+  "processed": "2015-11-13T16:55:37.393Z",
+  "device": {
+    "ios_channel": "ad5dfe06-1a76-9238-c1ff-558c55b04ca9"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "swimsuits"
+      ]
+    },
+    "current": {
+      "device": [
+        "swimsuits",
+        "raincoats",
+        "that_one_ratty_tshirt",
+        "startup_tees",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

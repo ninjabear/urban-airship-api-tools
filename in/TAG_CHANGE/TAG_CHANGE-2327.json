@@ -1,0 +1,27 @@
+{
+  "id": "d6f6456d-81dc-d47f-3b22-57715a1d4269",
+  "offset": "2327",
+  "occurred": "2015-11-13T17:10:38.393Z",
+  "processed": "2015-11-13T17:10:38.393Z",
+  "device": {
+    "amazon_channel": "8a9cd342-95ff-8f5c-9b0b-f169bc1f6c3f",
+    "named_user_id": "b78b8b1e-810a-c34e-e5eb-7c90fca7597b"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "startup_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "startup_tees",
+        "omg_shoes",
+        "swimsuits",
+        "high_tops",
+        "dress_shirts"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

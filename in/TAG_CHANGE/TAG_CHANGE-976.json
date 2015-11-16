@@ -1,0 +1,26 @@
+{
+  "id": "b1675a31-8a26-11d3-74b3-19b7d51a030f",
+  "offset": "976",
+  "occurred": "2015-11-13T16:48:07.393Z",
+  "processed": "2015-11-13T16:48:07.393Z",
+  "device": {
+    "ios_channel": "25eca302-e08b-43e1-a93a-b60ac374a7b5"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "bow_ties",
+        "suspenders",
+        "sweatpants",
+        "high_tops"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

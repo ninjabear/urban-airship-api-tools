@@ -1,0 +1,26 @@
+{
+  "id": "ef0f513b-d8a3-8dd3-08c6-b581327af471",
+  "offset": "271",
+  "occurred": "2015-11-13T16:36:22.394Z",
+  "processed": "2015-11-13T16:36:22.394Z",
+  "device": {
+    "android_channel": "33fa8d11-ddca-3b95-ca55-3a13f4450b76"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "suspenders"
+      ]
+    },
+    "current": {
+      "device": [
+        "suspenders",
+        "raincoats",
+        "high_heels",
+        "high_tops",
+        "sweatpants"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

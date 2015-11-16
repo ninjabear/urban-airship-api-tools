@@ -1,0 +1,27 @@
+{
+  "id": "b3607fd7-2d37-ec86-4fba-e43c1336ccfc",
+  "offset": "348",
+  "occurred": "2015-11-13T16:37:39.394Z",
+  "processed": "2015-11-13T16:37:39.394Z",
+  "device": {
+    "ios_channel": "069bfabb-f0e7-1fc8-c3d2-ec6003928f24",
+    "named_user_id": "518054ab-f088-c58a-a37f-658fec4412ae"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_heels"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_heels",
+        "bow_ties",
+        "dad_jeans",
+        "suspenders",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

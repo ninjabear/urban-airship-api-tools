@@ -1,0 +1,25 @@
+{
+  "id": "56780636-424a-c948-d034-ca57b29de1f8",
+  "offset": "69",
+  "occurred": "2015-11-13T16:33:00.394Z",
+  "processed": "2015-11-13T16:33:00.394Z",
+  "device": {
+    "amazon_channel": "3943074e-11b7-e57c-e3ac-32c6894d91a1"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_heels"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_heels",
+        "that_one_ratty_tshirt",
+        "turtlenecks",
+        "cowboy_boots"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

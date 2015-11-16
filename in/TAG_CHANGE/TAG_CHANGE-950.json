@@ -1,0 +1,26 @@
+{
+  "id": "a177dc51-10d5-b251-890d-dfe3889c14cb",
+  "offset": "950",
+  "occurred": "2015-11-13T16:47:41.393Z",
+  "processed": "2015-11-13T16:47:41.393Z",
+  "device": {
+    "amazon_channel": "3f6421e9-dc8b-84ef-b1a3-cadaadea2db2"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dad_jeans"
+      ]
+    },
+    "current": {
+      "device": [
+        "dad_jeans",
+        "high_heels",
+        "swimsuits",
+        "startup_tees",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

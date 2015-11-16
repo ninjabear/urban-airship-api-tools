@@ -1,0 +1,26 @@
+{
+  "id": "54e2198d-2b59-ab11-2531-f8b7678b48da",
+  "offset": "365",
+  "occurred": "2015-11-13T16:37:56.394Z",
+  "processed": "2015-11-13T16:37:56.394Z",
+  "device": {
+    "amazon_channel": "58a4ceaa-e38d-b3a6-a169-ef94c25d9d2c"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "turtlenecks"
+      ]
+    },
+    "current": {
+      "device": [
+        "turtlenecks",
+        "graphic_tees",
+        "sweatpants",
+        "bow_ties",
+        "high_tops"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

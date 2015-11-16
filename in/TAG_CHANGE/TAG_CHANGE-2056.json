@@ -1,0 +1,25 @@
+{
+  "id": "ed11b00a-f398-2fbc-382d-dd813bde1655",
+  "offset": "2056",
+  "occurred": "2015-11-13T17:06:07.393Z",
+  "processed": "2015-11-13T17:06:07.393Z",
+  "device": {
+    "ios_channel": "c40d88f7-4bd1-0bf7-1e0e-4a35559184d7"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "sweatpants",
+        "turtlenecks",
+        "cowboy_boots"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "25e9d815-4f59-e651-47a5-a81ca0d6a83b",
+  "offset": "103",
+  "occurred": "2015-11-13T16:33:34.393Z",
+  "processed": "2015-11-13T16:33:34.393Z",
+  "device": {
+    "ios_channel": "9c6dca7c-091c-d242-307f-c18886ec14b6"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "high_tops",
+        "sombreros",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

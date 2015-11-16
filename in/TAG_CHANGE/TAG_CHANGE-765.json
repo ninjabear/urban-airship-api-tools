@@ -1,0 +1,25 @@
+{
+  "id": "0801faa6-9ea3-76b8-2d5d-94601de56380",
+  "offset": "765",
+  "occurred": "2015-11-13T16:44:36.394Z",
+  "processed": "2015-11-13T16:44:36.394Z",
+  "device": {
+    "ios_channel": "e7c63ed8-1425-4533-e7fd-ec75f86ec6ce"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "omg_shoes",
+        "suspenders",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

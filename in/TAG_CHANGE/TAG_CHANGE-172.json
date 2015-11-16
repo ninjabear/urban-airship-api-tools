@@ -1,0 +1,26 @@
+{
+  "id": "38fee857-57e8-3e4a-a684-939d340e94b2",
+  "offset": "172",
+  "occurred": "2015-11-13T16:34:43.394Z",
+  "processed": "2015-11-13T16:34:43.394Z",
+  "device": {
+    "android_channel": "a45446e4-5867-a064-b297-0bce3d69aa82"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_heels"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_heels",
+        "graphic_tees",
+        "raincoats",
+        "dress_shirts",
+        "that_one_ratty_tshirt"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

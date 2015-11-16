@@ -1,0 +1,25 @@
+{
+  "id": "aedf34cf-7b2b-9b9c-6c4a-cbe75c1e76ee",
+  "offset": "230",
+  "occurred": "2015-11-13T16:35:41.394Z",
+  "processed": "2015-11-13T16:35:41.394Z",
+  "device": {
+    "android_channel": "34701ee5-9609-2bb0-ea6e-7e6060fa7dab"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "swimsuits",
+        "suspenders",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

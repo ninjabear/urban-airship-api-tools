@@ -1,0 +1,26 @@
+{
+  "id": "588cb8bf-fe2f-2152-523d-334cb11bcddf",
+  "offset": "1732",
+  "occurred": "2015-11-13T17:00:43.393Z",
+  "processed": "2015-11-13T17:00:43.393Z",
+  "device": {
+    "amazon_channel": "285b2bbf-4ef5-7030-3e26-1e8ecee4ef61"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "startup_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "startup_tees",
+        "raincoats",
+        "sombreros",
+        "turtlenecks",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

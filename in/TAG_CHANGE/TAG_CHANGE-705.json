@@ -1,0 +1,26 @@
+{
+  "id": "beef718f-a8b8-9371-ba88-ed6c68708d66",
+  "offset": "705",
+  "occurred": "2015-11-13T16:43:36.394Z",
+  "processed": "2015-11-13T16:43:36.394Z",
+  "device": {
+    "ios_channel": "7df65117-cc5a-1206-4c4e-51bc8fa6ce6e"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "that_one_ratty_tshirt"
+      ]
+    },
+    "current": {
+      "device": [
+        "that_one_ratty_tshirt",
+        "cowboy_boots",
+        "swimsuits",
+        "dad_jeans",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

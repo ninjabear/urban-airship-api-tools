@@ -1,0 +1,26 @@
+{
+  "id": "01ef08d6-f0a0-6b63-dee5-f38f1b6f2788",
+  "offset": "1923",
+  "occurred": "2015-11-13T17:03:54.393Z",
+  "processed": "2015-11-13T17:03:54.393Z",
+  "device": {
+    "ios_channel": "16e7bd3a-50f3-d0ba-1b9f-766ea87f9968",
+    "named_user_id": "5012f1fc-637d-2454-7870-fc9c687e1f4f"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "sweatpants",
+        "swimsuits",
+        "dad_jeans"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

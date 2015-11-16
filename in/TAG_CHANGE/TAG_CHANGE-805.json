@@ -1,0 +1,26 @@
+{
+  "id": "599ba241-1871-8637-4c04-92246cade804",
+  "offset": "805",
+  "occurred": "2015-11-13T16:45:16.394Z",
+  "processed": "2015-11-13T16:45:16.394Z",
+  "device": {
+    "android_channel": "811663a4-d0a8-eb04-d2a6-cd18966ea7a2"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "dad_jeans",
+        "cowboy_boots",
+        "swimsuits",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}
