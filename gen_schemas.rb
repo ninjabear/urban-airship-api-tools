@@ -3,8 +3,8 @@
 require 'json'
 
 def run_schema_guru(path, event_type)
-  puts "schema-guru schema --vendor com.urbanairship --name #{event_type} --schemaver 1-0-0 --no-length #{path}"
-  %x(schema-guru schema --vendor com.urbanairship --name #{event_type} --schemaver 1-0-0 --no-length #{path})
+  puts "schema-guru schema --vendor com.urbanairship.connect --name #{event_type} --schemaver 1-0-0 --no-length #{path}"
+  %x(schema-guru schema --vendor com.urbanairship.connect --name #{event_type} --schemaver 1-0-0 --no-length #{path})
 end
 
 def fix(tree)
