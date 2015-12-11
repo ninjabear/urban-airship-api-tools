@@ -1,0 +1,13 @@
+{
+  "id": "ac8b481d-1ab7-777f-41b6-9457245908b9",
+  "offset": "2269",
+  "occurred": "2015-11-13T17:09:40.393Z",
+  "processed": "2015-11-13T17:09:40.393Z",
+  "device": {
+    "amazon_channel": "c7cadb5e-75f9-6908-d13a-5b944cf05953"
+  },
+  "body": {
+    "push_id": "e4dda449-cf2b-61dc-3912-d9725305a123"
+  },
+  "type": "RICH_DELETE"
+}

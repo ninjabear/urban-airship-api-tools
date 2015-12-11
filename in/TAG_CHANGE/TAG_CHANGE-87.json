@@ -1,26 +1,24 @@
 {
-  "id": "00000151-263e-5a6a-7274-041a6408080a",
-  "offset": "0",
-  "occurred": "2015-11-20T18:53:19.338Z",
-  "processed": "2015-11-20T18:53:23.124Z",
+  "id": "e9642bfd-c4ab-e758-5f82-e9582c637c65",
+  "offset": "87",
+  "occurred": "2015-11-13T16:33:18.394Z",
+  "processed": "2015-11-13T16:33:18.394Z",
   "device": {
-    "android_channel": "03b4de7b-7d88-4bdf-803e-5391df58f7c2"
+    "android_channel": "88591e52-5dcf-a973-d227-b4db2ab52bcc"
   },
   "body": {
     "add": {
-      "ua_background_enabled": [
-        "true"
-      ],
-      "ua_opt_in": [
-        "false"
+      "device": [
+        "dad_jeans"
       ]
     },
     "current": {
-      "ua_background_enabled": [
-        "true"
-      ],
-      "ua_opt_in": [
-        "false"
+      "device": [
+        "dad_jeans",
+        "that_one_ratty_tshirt",
+        "suspenders",
+        "high_heels",
+        "cowboy_boots"
       ]
     }
   },

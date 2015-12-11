@@ -1,0 +1,26 @@
+{
+  "id": "d78d14e6-84eb-6b8a-8fbc-bf32f6f1119f",
+  "offset": "1599",
+  "occurred": "2015-11-13T16:58:30.394Z",
+  "processed": "2015-11-13T16:58:30.394Z",
+  "device": {
+    "ios_channel": "0c8bd2e7-428b-e348-89c8-ee7230d8829a"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "sombreros",
+        "sweatpants",
+        "graphic_tees",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

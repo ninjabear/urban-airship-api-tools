@@ -1,0 +1,23 @@
+{
+  "id": "00000151-13e3-18cf-6d41-131a0608170a",
+  "offset": "0",
+  "occurred": "2015-11-17T05:20:28.879Z",
+  "processed": "2015-11-17T12:44:58.599Z",
+  "device": {
+    "ios_channel": "f361066b-8f51-462c-a785-406dc7bcc127",
+    "named_user_id": "Donato"
+  },
+  "body": {
+    "add": {
+      "timezone": [
+        "America/Los_Angeles"
+      ]
+    },
+    "current": {
+      "timezone": [
+        "America/Los_Angeles"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

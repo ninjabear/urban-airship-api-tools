@@ -1,0 +1,28 @@
+{
+  "id": "00000151-4c80-4534-6d41-13120608290a",
+  "offset": "0",
+  "occurred": "2015-11-28T05:10:53.492Z",
+  "processed": "2015-11-28T06:57:18.821Z",
+  "device": {
+    "android_channel": "3a8e2cd0-81b2-4559-a559-67eaae7f3c12",
+    "named_user_id": "dj"
+  },
+  "body": {
+    "add": {
+      "timezone": [
+        "America/New_York"
+      ]
+    },
+    "remove": {
+      "timezone": [
+        "America/Los_Angeles"
+      ]
+    },
+    "current": {
+      "timezone": [
+        "America/New_York"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

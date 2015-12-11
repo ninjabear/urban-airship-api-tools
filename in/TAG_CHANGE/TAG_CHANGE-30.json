@@ -1,21 +1,23 @@
 {
-  "id": "00000151-1146-1b61-6576-0b120208240a",
-  "offset": "0",
-  "occurred": "2015-11-16T17:09:45.953Z",
-  "processed": "2015-11-16T17:09:50.595Z",
+  "id": "7e9b5481-cf4d-d331-0c88-a100a9a3b6f2",
+  "offset": "30",
+  "occurred": "2015-11-13T16:32:21.394Z",
+  "processed": "2015-11-13T16:32:21.394Z",
   "device": {
-    "ios_channel": "f361066b-8f51-462c-a785-406dc7bcc127"
+    "amazon_channel": "bfeb9af8-d2f1-075c-8295-8235728c829d"
   },
   "body": {
     "add": {
       "device": [
-        "Donato"
+        "sweatpants"
       ]
     },
     "current": {
       "device": [
-        "Donato",
-        "version_160"
+        "sweatpants",
+        "suspenders",
+        "that_one_ratty_tshirt",
+        "bow_ties"
       ]
     }
   },

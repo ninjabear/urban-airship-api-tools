@@ -1,0 +1,26 @@
+{
+  "id": "45ff84e2-895e-d703-d479-d7eea6492596",
+  "offset": "696",
+  "occurred": "2015-11-13T16:43:27.393Z",
+  "processed": "2015-11-13T16:43:27.393Z",
+  "device": {
+    "amazon_channel": "272b8943-9ad4-e8a9-3598-593fa51445b3"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "cowboy_boots"
+      ]
+    },
+    "current": {
+      "device": [
+        "cowboy_boots",
+        "raincoats",
+        "startup_tees",
+        "turtlenecks",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

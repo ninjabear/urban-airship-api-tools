@@ -1,21 +1,24 @@
 {
-  "id": "00000151-13e1-8f3a-6d41-131a0608170a",
-  "offset": "0",
-  "occurred": "2015-11-17T05:18:48.122Z",
-  "processed": "2015-11-17T09:07:32.774Z",
+  "id": "82ca552b-986c-d5f9-13c4-63a59d8972b3",
+  "offset": "56",
+  "occurred": "2015-11-13T16:32:47.394Z",
+  "processed": "2015-11-13T16:32:47.394Z",
   "device": {
-    "ios_channel": "62ccb785-adf7-4cdc-872a-4226a22be31a",
-    "named_user_id": "gatlin"
+    "android_channel": "4628ea48-19e6-8709-0490-ba0b73541300",
+    "named_user_id": "9c92f9dc-87df-ce65-e100-bec8b4eed8b7"
   },
   "body": {
     "add": {
-      "timezone": [
-        "America/Los_Angeles"
+      "device": [
+        "suspenders"
       ]
     },
     "current": {
-      "timezone": [
-        "America/Los_Angeles"
+      "device": [
+        "suspenders",
+        "that_one_ratty_tshirt",
+        "graphic_tees",
+        "startup_tees"
       ]
     }
   },

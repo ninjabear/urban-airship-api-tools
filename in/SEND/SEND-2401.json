@@ -1,0 +1,15 @@
+{
+  "id": "b6f11dc6-8b39-11e5-8ae2-d4bed9af9426",
+  "offset": "0",
+  "occurred": "2015-11-15T01:39:30.332Z",
+  "processed": "2015-11-15T01:39:31.498Z",
+  "device": {
+    "ios_channel": "d0833fbb-5886-414e-848a-1b6e03a73ca4",
+    "named_user_id": "Weasel"
+  },
+  "body": {
+    "push_id": "61d4713c-969b-4d4d-aadd-4a6a2030bb81",
+    "group_id": "ea300a47-bce9-4e7e-9195-abd850bc72ed"
+  },
+  "type": "SEND"
+}

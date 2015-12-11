@@ -1,0 +1,26 @@
+{
+  "id": "69e1130d-3788-26d0-3fec-ff805bd7705d",
+  "offset": "2192",
+  "occurred": "2015-11-13T17:08:23.393Z",
+  "processed": "2015-11-13T17:08:23.393Z",
+  "device": {
+    "android_channel": "3c632b54-bece-f8ee-342b-f5e6e05d35fb"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dad_jeans"
+      ]
+    },
+    "current": {
+      "device": [
+        "dad_jeans",
+        "swimsuits",
+        "that_one_ratty_tshirt",
+        "omg_shoes",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

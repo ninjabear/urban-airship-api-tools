@@ -1,0 +1,26 @@
+{
+  "id": "22ed4509-fae4-8ce3-962c-a7bd9dbdf722",
+  "offset": "1355",
+  "occurred": "2015-11-13T16:54:26.393Z",
+  "processed": "2015-11-13T16:54:26.393Z",
+  "device": {
+    "amazon_channel": "6d7903b9-b3ad-efbc-4ba2-e2b53c122a63"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "omg_shoes"
+      ]
+    },
+    "current": {
+      "device": [
+        "omg_shoes",
+        "dress_shirts",
+        "startup_tees",
+        "sombreros",
+        "sweatpants"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

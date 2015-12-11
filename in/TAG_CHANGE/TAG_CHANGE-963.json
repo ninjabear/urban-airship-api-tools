@@ -1,0 +1,25 @@
+{
+  "id": "fa8bd121-eed6-b19f-5bf0-54dfa99a6c08",
+  "offset": "963",
+  "occurred": "2015-11-13T16:47:54.394Z",
+  "processed": "2015-11-13T16:47:54.394Z",
+  "device": {
+    "ios_channel": "f50aa395-0582-3b1c-f729-df44fcec249a"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dad_jeans"
+      ]
+    },
+    "current": {
+      "device": [
+        "dad_jeans",
+        "startup_tees",
+        "high_tops",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

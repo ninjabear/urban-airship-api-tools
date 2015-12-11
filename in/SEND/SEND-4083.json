@@ -1,0 +1,15 @@
+{
+  "id": "b53d1545-9a18-11e5-a3d3-90e2ba213998",
+  "offset": "0",
+  "occurred": "2015-12-03T23:51:01.524Z",
+  "processed": "2015-12-03T23:51:02.547Z",
+  "device": {
+    "ios_channel": "dfaeb5a0-8bd8-43e9-ac2d-3985bfcde0bc",
+    "named_user_id": "Disco_Turkey"
+  },
+  "body": {
+    "push_id": "6190578f-1ebd-475a-8d4e-af3877f54f23",
+    "group_id": "11c3299b-17bb-46f3-96bb-12ab066261b3"
+  },
+  "type": "SEND"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "00000151-12be-bcbb-6576-0b1202081c0a",
+  "offset": "0",
+  "occurred": "2015-11-17T00:01:08.795Z",
+  "processed": "2015-11-17T00:01:13.383Z",
+  "device": {
+    "ios_channel": "62ccb785-adf7-4cdc-872a-4226a22be31a",
+    "named_user_id": "gatlin"
+  },
+  "body": {
+    "add": {
+      "ua_background_enabled": [
+        "false"
+      ],
+      "ua_opt_in": [
+        "false"
+      ]
+    },
+    "remove": {
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_opt_in": [
+        "true"
+      ]
+    },
+    "current": {
+      "ua_background_enabled": [
+        "false"
+      ],
+      "ua_opt_in": [
+        "false"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

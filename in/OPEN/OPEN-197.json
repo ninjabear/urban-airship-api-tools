@@ -1,14 +1,19 @@
 {
-  "id": "97ebede0-9301-11e5-b6d3-14feb5d3172c",
-  "offset": "0",
-  "occurred": "2015-11-24T23:17:51.314Z",
-  "processed": "2015-11-24T23:17:57.729Z",
+  "id": "456ae0bf-7be0-e1c9-7c8e-e629b9d1b28d",
+  "offset": "197",
+  "occurred": "2015-11-13T16:35:08.393Z",
+  "processed": "2015-11-13T16:35:08.393Z",
   "device": {
-    "ios_channel": "04a9debb-59d6-4c62-b1ef-2c8e5fcac03e",
-    "named_user_id": "joey_freedman"
+    "amazon_channel": "ac2d8f19-a1d8-3b91-cf77-691a5706cd66"
   },
   "body": {
-    "session_id": "f3aecba8-d07e-4259-a3a1-822b5ef00197"
+    "triggering_push": {
+      "push_id": "3dca1efd-29bd-5d6f-b7ee-ec565d6eefac"
+    },
+    "session_id": "23646d47-0f6d-a444-3628-c6323fff8e97",
+    "last_delivered": {
+      "push_id": "ea164331-7200-5a02-e30b-e826b0058b0f"
+    }
   },
   "type": "OPEN"
 }

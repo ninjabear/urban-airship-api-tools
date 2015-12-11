@@ -1,0 +1,26 @@
+{
+  "id": "e217b8e5-aa23-5fea-f848-f900944e5136",
+  "offset": "1235",
+  "occurred": "2015-11-13T16:52:26.393Z",
+  "processed": "2015-11-13T16:52:26.393Z",
+  "device": {
+    "android_channel": "4cf5afd6-7a0b-c4f7-d007-6cb81286f326"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "raincoats",
+        "graphic_tees",
+        "high_heels",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

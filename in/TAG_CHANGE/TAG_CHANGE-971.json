@@ -1,0 +1,25 @@
+{
+  "id": "49eaf014-f471-383b-b90c-4bd2098675cf",
+  "offset": "971",
+  "occurred": "2015-11-13T16:48:02.393Z",
+  "processed": "2015-11-13T16:48:02.393Z",
+  "device": {
+    "amazon_channel": "e993e7ef-b8c1-af34-b267-e08b8535d319"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "omg_shoes"
+      ]
+    },
+    "current": {
+      "device": [
+        "omg_shoes",
+        "swimsuits",
+        "sombreros",
+        "that_one_ratty_tshirt"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

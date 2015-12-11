@@ -1,0 +1,22 @@
+{
+  "id": "00000151-047c-cd3c-0030-011a6508050a",
+  "offset": "0",
+  "occurred": "2015-11-14T05:34:26.620Z",
+  "processed": "2015-11-14T08:01:32.113Z",
+  "device": {
+    "ios_channel": "3cfcc2d1-6c46-4bb4-ae3f-18ac002aaad9"
+  },
+  "body": {
+    "add": {
+      "ua_ios_app_version": [
+        "0"
+      ]
+    },
+    "current": {
+      "ua_ios_app_version": [
+        "0"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

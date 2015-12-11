@@ -1,0 +1,26 @@
+{
+  "id": "a418048e-9d24-32d6-6daf-2ca6f58fd9c8",
+  "offset": "910",
+  "occurred": "2015-11-13T16:47:01.393Z",
+  "processed": "2015-11-13T16:47:01.393Z",
+  "device": {
+    "amazon_channel": "cd138f1f-0713-8e29-c282-c41916146b98",
+    "named_user_id": "5e2587c9-e660-a16a-be3f-ad1f1f2b3086"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "suspenders"
+      ]
+    },
+    "current": {
+      "device": [
+        "suspenders",
+        "turtlenecks",
+        "that_one_ratty_tshirt",
+        "high_heels"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

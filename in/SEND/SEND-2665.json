@@ -1,0 +1,15 @@
+{
+  "id": "4422fa81-8ec6-11e5-82b5-001b21ce44e0",
+  "offset": "0",
+  "occurred": "2015-11-19T14:03:10.248Z",
+  "processed": "2015-11-19T14:03:11.244Z",
+  "device": {
+    "ios_channel": "08272a45-8420-4c0f-b853-95b482e57244",
+    "named_user_id": "duncangoatios"
+  },
+  "body": {
+    "push_id": "311efdfb-2a43-49c9-87b0-176fb87c234d",
+    "group_id": "ea300a47-bce9-4e7e-9195-abd850bc72ed"
+  },
+  "type": "SEND"
+}

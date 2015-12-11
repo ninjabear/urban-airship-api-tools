@@ -1,0 +1,27 @@
+{
+  "id": "f02c2478-d38e-af42-ed03-2b6eb8a52fc1",
+  "offset": "771",
+  "occurred": "2015-11-13T16:44:42.394Z",
+  "processed": "2015-11-13T16:44:42.394Z",
+  "device": {
+    "android_channel": "8cb75011-9ad9-3dce-ac1f-0052f19b8751",
+    "named_user_id": "9f32cd46-41f3-81fd-3f9d-299e3efdc43b"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sweatpants"
+      ]
+    },
+    "current": {
+      "device": [
+        "sweatpants",
+        "sombreros",
+        "that_one_ratty_tshirt",
+        "bow_ties",
+        "turtlenecks"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

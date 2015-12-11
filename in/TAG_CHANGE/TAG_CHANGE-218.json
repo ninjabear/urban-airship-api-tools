@@ -1,21 +1,24 @@
 {
-  "id": "00000151-8005-40da-5355-021a6708060a",
-  "offset": "0",
-  "occurred": "2015-12-08T05:16:46.682Z",
-  "processed": "2015-12-08T06:21:06.994Z",
+  "id": "be79b20b-b1af-0788-ad63-7609acea9049",
+  "offset": "218",
+  "occurred": "2015-11-13T16:35:29.393Z",
+  "processed": "2015-11-13T16:35:29.393Z",
   "device": {
-    "ios_channel": "109dfd99-099d-4000-bf6c-f5507c588e09",
-    "named_user_id": "potato"
+    "android_channel": "d6fec6cd-3d64-8507-d9d6-8a56d8cb46a6"
   },
   "body": {
     "add": {
-      "ua_locale_country": [
-        "US"
+      "device": [
+        "omg_shoes"
       ]
     },
     "current": {
-      "ua_locale_country": [
-        "US"
+      "device": [
+        "omg_shoes",
+        "swimsuits",
+        "bow_ties",
+        "sweatpants",
+        "dad_jeans"
       ]
     }
   },

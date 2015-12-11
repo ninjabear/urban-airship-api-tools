@@ -1,0 +1,23 @@
+{
+  "id": "00000151-37eb-382e-5069-091a69080d0a",
+  "offset": "0",
+  "occurred": "2015-11-24T05:15:40.974Z",
+  "processed": "2015-11-24T05:16:17.581Z",
+  "device": {
+    "ios_channel": "04a9debb-59d6-4c62-b1ef-2c8e5fcac03e",
+    "named_user_id": "joey_freedman"
+  },
+  "body": {
+    "add": {
+      "ua_ios_model": [
+        "iPhone6,1"
+      ]
+    },
+    "current": {
+      "ua_ios_model": [
+        "iPhone6,1"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

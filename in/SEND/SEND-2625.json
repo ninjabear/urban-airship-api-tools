@@ -1,0 +1,15 @@
+{
+  "id": "c024f4b3-8d47-11e5-b3f5-001b21d15790",
+  "offset": "0",
+  "occurred": "2015-11-17T16:25:01.051Z",
+  "processed": "2015-11-17T16:25:02.145Z",
+  "device": {
+    "ios_channel": "cc84f47d-300a-41fb-8337-9fcbbfb49a06",
+    "named_user_id": "user_brady_ios"
+  },
+  "body": {
+    "push_id": "d6c1e5ec-61a5-4a28-b1bc-b5390fb47f4e",
+    "group_id": "9efacd54-b563-460d-8377-d13f51510ede"
+  },
+  "type": "SEND"
+}

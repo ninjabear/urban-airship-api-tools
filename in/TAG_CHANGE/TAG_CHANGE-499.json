@@ -1,0 +1,25 @@
+{
+  "id": "dae18f9d-88e5-96ab-440b-6b75d31fd289",
+  "offset": "499",
+  "occurred": "2015-11-13T16:40:10.394Z",
+  "processed": "2015-11-13T16:40:10.394Z",
+  "device": {
+    "ios_channel": "b30c2236-3eb9-f3fc-d3b2-590fdd4fe530"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "raincoats",
+        "sombreros",
+        "turtlenecks"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,35 +1,23 @@
 {
-  "id": "00000151-21b6-cc42-6576-0b1202081c0a",
-  "offset": "0",
-  "occurred": "2015-11-19T21:46:46.722Z",
-  "processed": "2015-11-19T21:46:50.098Z",
+  "id": "4a57c1bd-9579-602b-3916-42cc45156b39",
+  "offset": "80",
+  "occurred": "2015-11-13T16:33:11.394Z",
+  "processed": "2015-11-13T16:33:11.394Z",
   "device": {
-    "ios_channel": "821248dd-7073-4ead-bb88-9df18275c055",
-    "named_user_id": "bryanschlief"
+    "ios_channel": "de43271a-fbad-3693-9e40-9bdb3207d421"
   },
   "body": {
     "add": {
-      "ua_background_enabled": [
-        "true"
-      ],
-      "ua_opt_in": [
-        "true"
-      ]
-    },
-    "remove": {
-      "ua_background_enabled": [
-        "false"
-      ],
-      "ua_opt_in": [
-        "false"
+      "device": [
+        "high_heels"
       ]
     },
     "current": {
-      "ua_background_enabled": [
-        "true"
-      ],
-      "ua_opt_in": [
-        "true"
+      "device": [
+        "high_heels",
+        "omg_shoes",
+        "cowboy_boots",
+        "raincoats"
       ]
     }
   },

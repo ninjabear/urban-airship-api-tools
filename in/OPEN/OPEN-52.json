@@ -1,14 +1,19 @@
 {
-  "id": "c7d10173-8d58-11e5-a094-90e2ba211bf8",
-  "offset": "0",
-  "occurred": "2015-11-17T18:26:55.038Z",
-  "processed": "2015-11-17T18:26:56.863Z",
+  "id": "47c6e832-eb4c-10aa-9e0d-effce33a098b",
+  "offset": "52",
+  "occurred": "2015-11-13T16:32:43.393Z",
+  "processed": "2015-11-13T16:32:43.393Z",
   "device": {
-    "ios_channel": "a946579f-3c31-4ed3-aa39-310240868ca2",
-    "named_user_id": "andreaburton"
+    "amazon_channel": "b7060451-dcab-a446-1aee-dfacebc3fd4a"
   },
   "body": {
-    "session_id": "e97c0013-8fba-440c-a0aa-88375ab46984"
+    "triggering_push": {
+      "push_id": "64928b9c-78c2-5553-01f7-d5232b69bae8"
+    },
+    "session_id": "d39553f1-06db-8c36-c9b9-4b79d4ce4add",
+    "last_delivered": {
+      "push_id": "04fadbf3-ba3f-bcad-f30a-f87b6f6f2aa9"
+    }
   },
   "type": "OPEN"
 }

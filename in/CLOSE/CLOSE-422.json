@@ -1,14 +1,13 @@
 {
-  "id": "aeb5ffd2-9d91-11e5-a094-90e2ba211bf8",
-  "offset": "0",
-  "occurred": "2015-12-08T09:53:39.216Z",
-  "processed": "2015-12-08T09:54:34.495Z",
+  "id": "b400f13c-f4a9-2f51-d9be-309f84ea5d50",
+  "offset": "422",
+  "occurred": "2015-11-13T16:38:53.393Z",
+  "processed": "2015-11-13T16:38:53.393Z",
   "device": {
-    "android_channel": "1d984322-0fca-4c61-9ca3-9fcc34a5ab54",
-    "named_user_id": "CyMon"
+    "amazon_channel": "f3ed3660-2613-97c0-574c-3da779b2efb5"
   },
   "body": {
-    "session_id": "4c955c76-9404-439c-a242-2506713f48b4"
+    "session_id": "0aca8e4e-29e6-1188-ac62-a608c6a57caa"
   },
   "type": "CLOSE"
 }

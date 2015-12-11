@@ -1,0 +1,14 @@
+{
+  "id": "172895a6-9a13-11e5-a094-90e2ba211bf8",
+  "offset": "0",
+  "occurred": "2015-12-03T23:10:48.826Z",
+  "processed": "2015-12-03T23:10:50.076Z",
+  "device": {
+    "ios_channel": "9c9aa757-b941-4d56-993b-fe0289b33deb",
+    "named_user_id": "higa"
+  },
+  "body": {
+    "session_id": "0190a924-655d-4b5d-a6dd-8f60fe52c744"
+  },
+  "type": "CLOSE"
+}

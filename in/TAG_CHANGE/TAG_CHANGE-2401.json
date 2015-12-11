@@ -1,0 +1,27 @@
+{
+  "id": "00000151-10e4-0d43-6d41-13120208750a",
+  "offset": "0",
+  "occurred": "2015-11-16T15:22:39.811Z",
+  "processed": "2015-11-16T15:22:46.736Z",
+  "device": {
+    "ios_channel": "3e392313-8e79-4f84-9f3f-5377262e2748",
+    "named_user_id": "michael"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "PST"
+      ]
+    },
+    "current": {
+      "device": [
+        "America/Los_Angeles",
+        "PST",
+        "version_160",
+        "in-app",
+        "language_en"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "6bd42e71-93a6-11e5-84ee-001b21d15598",
+  "offset": "0",
+  "occurred": "2015-11-25T18:57:48.759Z",
+  "processed": "2015-11-25T18:57:51.259Z",
+  "device": {
+    "ios_channel": "dc6ce5e5-3dc5-4de5-bda2-55d811673c9f",
+    "named_user_id": "sharicesiegel"
+  },
+  "body": {
+    "push_id": "7c6e4012-9a41-44f8-a469-1a2e26354ce9",
+    "group_id": "11c3299b-17bb-46f3-96bb-12ab066261b3"
+  },
+  "type": "SEND"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "6da26902-550a-d9e4-442d-93789e1eceb9",
+  "offset": "2339",
+  "occurred": "2015-11-13T17:10:50.394Z",
+  "processed": "2015-11-13T17:10:50.394Z",
+  "device": {
+    "ios_channel": "bfcb4f75-5ee0-d5f2-c92c-6908dd35bd74"
+  },
+  "body": {
+    "push_id": "3e2e637f-2a9f-a650-db62-8dca50056404",
+    "type": "MESSAGE_CLICK",
+    "duration": 4455
+  },
+  "type": "IN_APP_MESSAGE_RESOLUTION"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "77acb3f1-8cbe-11e5-82b5-001b21ce44e0",
+  "offset": "0",
+  "occurred": "2015-11-17T00:02:18.415Z",
+  "processed": "2015-11-17T00:08:09.306Z",
+  "device": {
+    "ios_channel": "62ccb785-adf7-4cdc-872a-4226a22be31a",
+    "named_user_id": "gatlin"
+  },
+  "body": {
+    "push_id": "7860416c-e17f-4147-afbd-b98e9abc5c4a"
+  },
+  "type": "SEND"
+}

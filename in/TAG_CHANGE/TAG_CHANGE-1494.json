@@ -1,0 +1,25 @@
+{
+  "id": "9d367dbb-f3e5-bee2-f450-db349a33a970",
+  "offset": "1494",
+  "occurred": "2015-11-13T16:56:45.394Z",
+  "processed": "2015-11-13T16:56:45.394Z",
+  "device": {
+    "ios_channel": "00d02762-fc17-6829-2992-7512b4f0ee7a"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sweatpants"
+      ]
+    },
+    "current": {
+      "device": [
+        "sweatpants",
+        "high_tops",
+        "high_heels",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

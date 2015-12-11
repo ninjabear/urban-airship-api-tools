@@ -1,0 +1,24 @@
+{
+  "id": "fd14cfd4-e23f-0921-ad5c-986d9baedd71",
+  "offset": "327",
+  "occurred": "2015-11-13T16:37:18.394Z",
+  "processed": "2015-11-13T16:37:18.394Z",
+  "device": {
+    "android_channel": "fe3b75ef-4b49-8d45-4947-5351eaf00970"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "suspenders",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

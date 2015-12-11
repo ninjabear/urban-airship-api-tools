@@ -1,0 +1,26 @@
+{
+  "id": "acbd9858-6f3d-fb98-7025-bd4d01a9a0fd",
+  "offset": "2232",
+  "occurred": "2015-11-13T17:09:03.393Z",
+  "processed": "2015-11-13T17:09:03.393Z",
+  "device": {
+    "android_channel": "e2d3b77c-c336-b92b-f818-a2900a039ce9"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "turtlenecks",
+        "high_heels",
+        "suspenders",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

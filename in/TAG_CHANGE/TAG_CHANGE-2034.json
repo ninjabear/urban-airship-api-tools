@@ -1,0 +1,25 @@
+{
+  "id": "aca11bf3-02c5-813c-c382-1624919e6673",
+  "offset": "2034",
+  "occurred": "2015-11-13T17:05:45.394Z",
+  "processed": "2015-11-13T17:05:45.394Z",
+  "device": {
+    "amazon_channel": "b14a8305-b634-4377-8103-57b94ce3b664"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "turtlenecks"
+      ]
+    },
+    "current": {
+      "device": [
+        "turtlenecks",
+        "that_one_ratty_tshirt",
+        "sombreros",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

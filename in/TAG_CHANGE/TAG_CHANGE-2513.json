@@ -1,0 +1,23 @@
+{
+  "id": "00000151-37eb-382e-6166-051a6f08090a",
+  "offset": "0",
+  "occurred": "2015-11-24T05:15:40.974Z",
+  "processed": "2015-11-24T05:16:17.495Z",
+  "device": {
+    "ios_channel": "04a9debb-59d6-4c62-b1ef-2c8e5fcac03e",
+    "named_user_id": "joey_freedman"
+  },
+  "body": {
+    "add": {
+      "ua_location_enabled": [
+        "false"
+      ]
+    },
+    "current": {
+      "ua_location_enabled": [
+        "false"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

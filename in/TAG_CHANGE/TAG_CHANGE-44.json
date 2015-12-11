@@ -1,20 +1,23 @@
 {
-  "id": "00000151-13e2-21e7-5355-021a6708060a",
-  "offset": "0",
-  "occurred": "2015-11-17T05:19:25.671Z",
-  "processed": "2015-11-17T10:03:31.333Z",
+  "id": "9c3d92e0-039d-2049-de1f-1c8b0ac73f35",
+  "offset": "44",
+  "occurred": "2015-11-13T16:32:35.395Z",
+  "processed": "2015-11-13T16:32:35.395Z",
   "device": {
-    "ios_channel": "693aaecb-c773-4155-8d8d-5ad15cb4370d"
+    "ios_channel": "77bf3853-ec4c-d706-108a-85600d9e4210"
   },
   "body": {
     "add": {
-      "ua_locale_country": [
-        "US"
+      "device": [
+        "dad_jeans"
       ]
     },
     "current": {
-      "ua_locale_country": [
-        "US"
+      "device": [
+        "dad_jeans",
+        "graphic_tees",
+        "sombreros",
+        "raincoats"
       ]
     }
   },

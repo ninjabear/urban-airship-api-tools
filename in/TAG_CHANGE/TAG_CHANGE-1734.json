@@ -1,0 +1,25 @@
+{
+  "id": "e4d79e8e-a2a2-8e8a-3a70-d699a1d0309f",
+  "offset": "1734",
+  "occurred": "2015-11-13T17:00:45.393Z",
+  "processed": "2015-11-13T17:00:45.393Z",
+  "device": {
+    "android_channel": "2c0f7f38-0056-f2a9-744c-12e320c20ae7"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dad_jeans"
+      ]
+    },
+    "current": {
+      "device": [
+        "dad_jeans",
+        "omg_shoes",
+        "bow_ties",
+        "high_tops"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "8f1a89aa-fefd-14e8-cfed-f8b1fe0a744b",
+  "offset": "1383",
+  "occurred": "2015-11-13T16:54:54.394Z",
+  "processed": "2015-11-13T16:54:54.394Z",
+  "device": {
+    "android_channel": "c9c0b45f-b310-8d05-e6ba-4ee8c83ec08d"
+  },
+  "body": {
+    "push_id": "2bdad24b-ad2a-3be1-908e-670fbfe6a76c",
+    "type": "USER_DISMISSED",
+    "duration": 4670
+  },
+  "type": "IN_APP_MESSAGE_RESOLUTION"
+}

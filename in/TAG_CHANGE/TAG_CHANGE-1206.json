@@ -1,0 +1,25 @@
+{
+  "id": "71a6d6e3-390f-cf89-dbe7-7727e852fd4e",
+  "offset": "1206",
+  "occurred": "2015-11-13T16:51:57.393Z",
+  "processed": "2015-11-13T16:51:57.393Z",
+  "device": {
+    "ios_channel": "18516d5d-9e7c-7e92-2527-10bdea922f7d"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "that_one_ratty_tshirt"
+      ]
+    },
+    "current": {
+      "device": [
+        "that_one_ratty_tshirt",
+        "startup_tees",
+        "raincoats",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

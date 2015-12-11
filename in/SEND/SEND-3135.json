@@ -1,0 +1,15 @@
+{
+  "id": "6245a683-90aa-11e5-98bd-d4bed9a886a2",
+  "offset": "0",
+  "occurred": "2015-11-21T23:48:37.224Z",
+  "processed": "2015-11-21T23:48:38.739Z",
+  "device": {
+    "amazon_channel": "0d0dd0ed-dcc4-46fa-b90c-e02fa43e9d07",
+    "named_user_id": "neel"
+  },
+  "body": {
+    "push_id": "3e4e46aa-f09d-45bc-b0ba-ea0da1c4ce45",
+    "group_id": "7ba0f91a-bb67-4c57-b568-873268c82fc9"
+  },
+  "type": "SEND"
+}

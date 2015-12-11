@@ -1,26 +1,21 @@
 {
-  "id": "00000151-0480-6dad-2e39-05126c08100a",
-  "offset": "0",
-  "occurred": "2015-11-14T05:38:24.301Z",
-  "processed": "2015-11-14T08:21:18.103Z",
+  "id": "66a1a136-93fb-7344-8a05-6b8ccddb1242",
+  "offset": "22",
+  "occurred": "2015-11-13T16:32:13.394Z",
+  "processed": "2015-11-13T16:32:13.394Z",
   "device": {
-    "ios_channel": "0b208a50-e1d7-4aa3-b76b-430041487fac",
-    "named_user_id": "bheckman"
+    "amazon_channel": "dc9dbee2-6d3b-097a-4aa5-18cd85c2bed6"
   },
   "body": {
     "add": {
-      "ua_ios_version": [
-        "9.1.X"
-      ]
-    },
-    "remove": {
-      "ua_ios_version": [
-        "9.0.X"
+      "device": [
+        "dress_shirts"
       ]
     },
     "current": {
-      "ua_ios_version": [
-        "9.1.X"
+      "device": [
+        "dress_shirts",
+        "swimsuits"
       ]
     }
   },

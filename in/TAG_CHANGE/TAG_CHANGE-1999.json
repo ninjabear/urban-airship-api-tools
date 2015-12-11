@@ -1,0 +1,26 @@
+{
+  "id": "a42d638f-52bb-c4e7-ed0e-c7d481e7a353",
+  "offset": "1999",
+  "occurred": "2015-11-13T17:05:10.393Z",
+  "processed": "2015-11-13T17:05:10.393Z",
+  "device": {
+    "ios_channel": "13d9143a-fc0b-d5e8-815a-b20f8938ec30"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "cowboy_boots",
+        "dress_shirts",
+        "omg_shoes",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

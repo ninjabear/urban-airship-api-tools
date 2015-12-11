@@ -1,0 +1,27 @@
+{
+  "id": "00000151-2642-39ab-6576-0b120208610a",
+  "offset": "0",
+  "occurred": "2015-11-20T18:57:33.099Z",
+  "processed": "2015-11-20T18:57:37.332Z",
+  "device": {
+    "ios_channel": "c5043985-0a62-4b0a-87af-57e76284a426",
+    "named_user_id": "jvoorhis"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "☃"
+      ]
+    },
+    "current": {
+      "device": [
+        "version_160",
+        "☃",
+        "jvoorhis",
+        "ce_testing",
+        "ruby_lib"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

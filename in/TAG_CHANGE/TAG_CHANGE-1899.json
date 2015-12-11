@@ -1,0 +1,25 @@
+{
+  "id": "1c0c5fd3-71a6-0228-934d-865dd8a330a6",
+  "offset": "1899",
+  "occurred": "2015-11-13T17:03:30.393Z",
+  "processed": "2015-11-13T17:03:30.393Z",
+  "device": {
+    "android_channel": "66d0b2c0-51c0-6e92-a627-1aa20ac2686a"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "sombreros",
+        "dad_jeans",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

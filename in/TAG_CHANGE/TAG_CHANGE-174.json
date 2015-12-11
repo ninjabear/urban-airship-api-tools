@@ -1,38 +1,23 @@
 {
-  "id": "00000151-5be9-f5d3-7005-12020803cd0a",
-  "offset": "0",
-  "occurred": "2015-12-01T05:00:38.227Z",
-  "processed": "2015-12-01T05:00:45.222Z",
+  "id": "29dac9d5-62d0-2480-af2f-3a548277acf3",
+  "offset": "174",
+  "occurred": "2015-11-13T16:34:45.394Z",
+  "processed": "2015-11-13T16:34:45.394Z",
   "device": {
-    "ios_channel": "bab2dbe0-255e-449d-a5b1-fb4029f35098",
-    "named_user_id": "willis"
+    "amazon_channel": "963721ea-90ce-19c0-991e-584a3642e8e1"
   },
   "body": {
     "add": {
       "device": [
-        "☃"
+        "cowboy_boots"
       ]
     },
     "current": {
       "device": [
-        "panda",
-        "☃",
-        "opened_TUF21_presale",
-        "weaselry",
-        "quarterly_optin_2015",
-        "weaselpoor",
-        "iPod",
-        "yes_TUF21_preslae",
-        "unicorns",
-        "America/Los_Angeles",
-        "version_160",
-        "zzaa112233",
-        "yyht",
-        "willis",
-        "freedomtag",
-        "language_en",
-        "country_US",
-        "six_month_optin_2015"
+        "cowboy_boots",
+        "swimsuits",
+        "dad_jeans",
+        "high_tops"
       ]
     }
   },

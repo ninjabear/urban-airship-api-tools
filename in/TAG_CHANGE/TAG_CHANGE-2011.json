@@ -1,0 +1,25 @@
+{
+  "id": "f6cf5573-0c01-88a8-e78f-71fc982b3166",
+  "offset": "2011",
+  "occurred": "2015-11-13T17:05:22.393Z",
+  "processed": "2015-11-13T17:05:22.393Z",
+  "device": {
+    "ios_channel": "68597798-98ad-c72c-6650-a3491560b7c0"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dad_jeans"
+      ]
+    },
+    "current": {
+      "device": [
+        "dad_jeans",
+        "startup_tees",
+        "turtlenecks",
+        "cowboy_boots"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

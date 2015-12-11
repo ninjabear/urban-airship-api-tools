@@ -1,0 +1,25 @@
+{
+  "id": "a6f55383-3904-63ab-a2ef-1ba5dcaa27b2",
+  "offset": "580",
+  "occurred": "2015-11-13T16:41:31.393Z",
+  "processed": "2015-11-13T16:41:31.393Z",
+  "device": {
+    "amazon_channel": "33c2cfb7-8791-dba7-b363-e66611627e3e"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "omg_shoes",
+        "dad_jeans",
+        "high_heels"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3678541e-9478-7317-84eb-4a0b5252eef6",
+  "offset": "960",
+  "occurred": "2015-11-13T16:47:51.394Z",
+  "processed": "2015-11-13T16:47:51.394Z",
+  "device": {
+    "amazon_channel": "ad184111-975a-19c3-ee77-4df22ff57967",
+    "named_user_id": "4e96bb36-308b-5019-cc05-d56e12c97bf6"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sweatpants"
+      ]
+    },
+    "current": {
+      "device": [
+        "sweatpants",
+        "cowboy_boots",
+        "bow_ties",
+        "high_tops",
+        "swimsuits"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

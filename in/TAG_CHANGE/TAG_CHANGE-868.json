@@ -1,0 +1,25 @@
+{
+  "id": "fec7da5d-8c26-bd49-380c-430bd848fa3a",
+  "offset": "868",
+  "occurred": "2015-11-13T16:46:19.394Z",
+  "processed": "2015-11-13T16:46:19.394Z",
+  "device": {
+    "amazon_channel": "6ecdc006-57ce-690a-0032-94a190a8196c"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "omg_shoes",
+        "bow_ties",
+        "swimsuits"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

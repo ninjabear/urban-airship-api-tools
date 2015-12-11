@@ -1,0 +1,14 @@
+{
+  "id": "ecd22e31-9475-11e5-bb19-90e2ba02f390",
+  "offset": "0",
+  "occurred": "2015-10-31T16:36:17.294Z",
+  "processed": "2015-11-26T19:43:12.362Z",
+  "device": {
+    "android_channel": "9c337e6b-3a7e-40be-bb66-a7c57720e3ca",
+    "named_user_id": "JoshJones"
+  },
+  "body": {
+    "session_id": "8237ba70-59b3-4878-a9ec-c27d8e192ef8"
+  },
+  "type": "CLOSE"
+}

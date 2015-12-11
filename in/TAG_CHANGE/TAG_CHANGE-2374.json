@@ -1,0 +1,28 @@
+{
+  "id": "00000151-047e-dfb7-2e39-05126c08100a",
+  "offset": "0",
+  "occurred": "2015-11-14T05:36:42.423Z",
+  "processed": "2015-11-14T10:49:33.916Z",
+  "device": {
+    "ios_channel": "7502f1d4-aefb-456e-8466-3be8b0ef1f33",
+    "named_user_id": "david_currie"
+  },
+  "body": {
+    "add": {
+      "ua_ios_version": [
+        "9.1.X"
+      ]
+    },
+    "remove": {
+      "ua_ios_version": [
+        "9.0.X"
+      ]
+    },
+    "current": {
+      "ua_ios_version": [
+        "9.1.X"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

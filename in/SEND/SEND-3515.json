@@ -1,0 +1,14 @@
+{
+  "id": "1424d353-9243-11e5-98bd-d4bed9a886a2",
+  "offset": "0",
+  "occurred": "2015-11-24T00:34:10.309Z",
+  "processed": "2015-11-24T01:06:27.730Z",
+  "device": {
+    "android_channel": "4058b1a6-81b8-4cab-a6da-c90e29a11de8",
+    "named_user_id": "david_currie"
+  },
+  "body": {
+    "push_id": "8777c315-e6a5-43cf-94a6-50e225aed3e2"
+  },
+  "type": "SEND"
+}

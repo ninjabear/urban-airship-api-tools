@@ -1,0 +1,15 @@
+{
+  "id": "e9857da0-9398-11e5-bb19-90e2ba02f390",
+  "offset": "0",
+  "occurred": "2015-11-25T17:21:06.619Z",
+  "processed": "2015-11-25T17:22:18.860Z",
+  "device": {
+    "ios_channel": "3e392313-8e79-4f84-9f3f-5377262e2748",
+    "named_user_id": "michael"
+  },
+  "body": {
+    "name": "sample_threads_event",
+    "value": 3.0
+  },
+  "type": "CUSTOM"
+}

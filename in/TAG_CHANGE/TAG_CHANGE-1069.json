@@ -1,0 +1,26 @@
+{
+  "id": "d827cc41-cb2a-c7d1-f38f-8bb1b78678a4",
+  "offset": "1069",
+  "occurred": "2015-11-13T16:49:40.394Z",
+  "processed": "2015-11-13T16:49:40.394Z",
+  "device": {
+    "ios_channel": "a824a604-0fe0-6b87-4ca9-1d5f7d2406c3"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "cowboy_boots",
+        "startup_tees",
+        "swimsuits",
+        "high_heels"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

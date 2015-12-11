@@ -1,0 +1,19 @@
+{
+  "id": "e4d03223-8c75-11e5-8730-90e2ba02f390",
+  "offset": "0",
+  "occurred": "2015-11-16T15:22:19.700Z",
+  "processed": "2015-11-16T15:22:49.234Z",
+  "device": {
+    "ios_channel": "3e392313-8e79-4f84-9f3f-5377262e2748",
+    "named_user_id": "michael"
+  },
+  "body": {
+    "name": "viewed-trip",
+    "value": 4.0,
+    "last_delivered": {
+      "push_id": "bd7d163c-5187-4326-9899-cede56d7f7a6",
+      "time": "2015-11-16T15:14:56.096Z"
+    }
+  },
+  "type": "CUSTOM"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "00000151-642a-3a1c-760b-12020801930a",
+  "offset": "0",
+  "occurred": "2015-12-02T19:27:47.740Z",
+  "processed": "2015-12-02T19:27:53.482Z",
+  "device": {
+    "ios_channel": "50614f67-498b-49df-b832-a046de0ec6ec",
+    "named_user_id": "zob"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "☃"
+      ]
+    },
+    "current": {
+      "device": [
+        "version_160",
+        "☃",
+        "opened_TUF21_presale",
+        "yes",
+        "no_TUF21_presale",
+        "zob",
+        "graph"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

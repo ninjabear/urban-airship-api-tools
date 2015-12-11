@@ -1,0 +1,14 @@
+{
+  "id": "59f7d6db-24d9-b84f-a2af-553fc8a5d036",
+  "offset": "1030",
+  "occurred": "2015-11-13T16:49:01.394Z",
+  "processed": "2015-11-13T16:49:01.394Z",
+  "device": {
+    "android_channel": "31739d61-d06c-f2f3-9a22-b742fdd3e8a3",
+    "named_user_id": "b69a8aa6-be13-2387-56e5-eaea66496a9e"
+  },
+  "body": {
+    "push_id": "f9b4d66a-5ff0-62c1-d972-aab37b8a539d"
+  },
+  "type": "RICH_READ"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "00000151-21b6-cc42-6576-0b1202081c0a",
+  "offset": "0",
+  "occurred": "2015-11-19T21:46:46.722Z",
+  "processed": "2015-11-19T21:46:50.098Z",
+  "device": {
+    "ios_channel": "821248dd-7073-4ead-bb88-9df18275c055",
+    "named_user_id": "bryanschlief"
+  },
+  "body": {
+    "add": {
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_opt_in": [
+        "true"
+      ]
+    },
+    "remove": {
+      "ua_background_enabled": [
+        "false"
+      ],
+      "ua_opt_in": [
+        "false"
+      ]
+    },
+    "current": {
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_opt_in": [
+        "true"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

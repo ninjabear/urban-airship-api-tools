@@ -1,0 +1,15 @@
+{
+  "id": "07b4e981-9d41-11e5-98bd-d4bed9a886a2",
+  "offset": "0",
+  "occurred": "2015-12-08T00:17:13.240Z",
+  "processed": "2015-12-08T00:17:14.276Z",
+  "device": {
+    "android_channel": "1d984322-0fca-4c61-9ca3-9fcc34a5ab54",
+    "named_user_id": "CyMon"
+  },
+  "body": {
+    "push_id": "8c6cba37-35de-496e-8faa-5dd31091af1d",
+    "group_id": "2f57b9e9-8cb2-42a8-9994-35ce8585f041"
+  },
+  "type": "SEND"
+}

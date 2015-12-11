@@ -1,0 +1,27 @@
+{
+  "id": "4953729c-b380-eaa1-ae78-812fd56eff1f",
+  "offset": "1052",
+  "occurred": "2015-11-13T16:49:23.393Z",
+  "processed": "2015-11-13T16:49:23.393Z",
+  "device": {
+    "android_channel": "2330ec67-1e23-ba33-1870-c8bb81c139e6",
+    "named_user_id": "6d8c50fe-a58f-dc37-30b6-4a93ec66c36d"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sweatpants"
+      ]
+    },
+    "current": {
+      "device": [
+        "sweatpants",
+        "graphic_tees",
+        "that_one_ratty_tshirt",
+        "dad_jeans",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,14 +1,13 @@
 {
-  "id": "7a8bdcb3-8c8a-11e5-9818-14feb5d3172c",
-  "offset": "0",
-  "occurred": "2015-11-16T17:50:09.403Z",
-  "processed": "2015-11-16T17:50:11.040Z",
+  "id": "444150e0-b706-5561-bb17-c77c271fed30",
+  "offset": "32",
+  "occurred": "2015-11-13T16:32:23.393Z",
+  "processed": "2015-11-13T16:32:23.393Z",
   "device": {
-    "ios_channel": "f361066b-8f51-462c-a785-406dc7bcc127",
-    "named_user_id": "Donato"
+    "android_channel": "31c075ac-7632-d13a-280c-c6309b5e4bfc"
   },
   "body": {
-    "session_id": "818592e4-83cc-4a94-bf26-eaf02fc9314c"
+    "session_id": "0d775d86-790d-e451-3bec-65d1d1442b42"
   },
   "type": "CLOSE"
 }

@@ -1,0 +1,15 @@
+{
+  "id": "5e8f388c-b2f3-99ab-a438-6b6f8067dc5d",
+  "offset": "811",
+  "occurred": "2015-11-13T16:45:22.394Z",
+  "processed": "2015-11-13T16:45:22.394Z",
+  "device": {
+    "android_channel": "b1dc03eb-c35c-49fd-b4cd-1dceebd62f92"
+  },
+  "body": {
+    "push_id": "7f8acf25-348d-4edf-5c00-3d1b0585dbed",
+    "type": "MESSAGE_CLICK",
+    "duration": 9469
+  },
+  "type": "IN_APP_MESSAGE_RESOLUTION"
+}

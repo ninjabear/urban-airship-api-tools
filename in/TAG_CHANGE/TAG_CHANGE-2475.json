@@ -1,0 +1,59 @@
+{
+  "id": "00000151-273b-4468-620c-12020807c20a",
+  "offset": "0",
+  "occurred": "2015-11-20T23:29:34.312Z",
+  "processed": "2015-11-20T23:29:40.695Z",
+  "device": {
+    "ios_channel": "4f4665ca-0e90-454d-9e22-934ddbe4b036",
+    "named_user_id": "johngreene"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "yoyo"
+      ]
+    },
+    "current": {
+      "device": [
+        "beacon-hello",
+        "opened_cabin_porn",
+        "likes_dog_pictures",
+        "pushes",
+        "version_160",
+        "redcard_on",
+        "yoyo",
+        "kablam",
+        "myNotificationsTag_4",
+        "933",
+        "myNotificationsTag_3",
+        "myNotificationsTag_2",
+        "myNotificationsTag_1",
+        "bigboard",
+        "myNotificationsTag_8",
+        "myNotificationsTag_7",
+        "fulltime_on",
+        "goal_on",
+        "myNotificationsTag_5",
+        "teamTag_1213",
+        "audience",
+        "teamid_112_9",
+        "richpush",
+        "stitcher_welcome",
+        "en",
+        "pushers",
+        "reminder_on",
+        "graph",
+        "snowshoe",
+        "bacon",
+        "johngreene",
+        "proserve",
+        "teamTag_161",
+        "hightops",
+        "halftime_on",
+        "wine",
+        "kickoff_on"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

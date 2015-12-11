@@ -1,0 +1,37 @@
+{
+  "id": "00000151-3bc3-f28b-6576-0b1202081c0a",
+  "offset": "0",
+  "occurred": "2015-11-24T23:11:16.107Z",
+  "processed": "2015-11-24T23:11:19.898Z",
+  "device": {
+    "ios_channel": "04a9debb-59d6-4c62-b1ef-2c8e5fcac03e",
+    "named_user_id": "joey_freedman"
+  },
+  "body": {
+    "add": {
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_opt_in": [
+        "true"
+      ]
+    },
+    "remove": {
+      "ua_background_enabled": [
+        "false"
+      ],
+      "ua_opt_in": [
+        "false"
+      ]
+    },
+    "current": {
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_opt_in": [
+        "true"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

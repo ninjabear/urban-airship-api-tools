@@ -1,0 +1,25 @@
+{
+  "id": "a6d71fe7-2cc8-468c-bcaf-3cda695fa1e4",
+  "offset": "1613",
+  "occurred": "2015-11-13T16:58:44.394Z",
+  "processed": "2015-11-13T16:58:44.394Z",
+  "device": {
+    "amazon_channel": "a9120205-8e06-01e4-c2e8-9a1af5f84d87"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "cowboy_boots"
+      ]
+    },
+    "current": {
+      "device": [
+        "cowboy_boots",
+        "suspenders",
+        "omg_shoes",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "67e29841-f9f6-1cdf-c1c5-ccbfcf5c88a5",
+  "offset": "2310",
+  "occurred": "2015-11-13T17:10:21.394Z",
+  "processed": "2015-11-13T17:10:21.394Z",
+  "device": {
+    "android_channel": "d87f341e-f1c6-3199-6b8f-68355575d7a5",
+    "named_user_id": "d8da7cd6-e848-2cea-6c13-38e11731d423"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "cowboy_boots"
+      ]
+    },
+    "current": {
+      "device": [
+        "cowboy_boots",
+        "suspenders",
+        "raincoats",
+        "that_one_ratty_tshirt",
+        "turtlenecks"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

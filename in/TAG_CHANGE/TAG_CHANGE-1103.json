@@ -1,0 +1,25 @@
+{
+  "id": "be6bd118-48a0-08d9-8a1f-ad00779900f1",
+  "offset": "1103",
+  "occurred": "2015-11-13T16:50:14.393Z",
+  "processed": "2015-11-13T16:50:14.393Z",
+  "device": {
+    "amazon_channel": "ed72214c-257d-a5fa-d7ec-123b7ccf39fe"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "turtlenecks"
+      ]
+    },
+    "current": {
+      "device": [
+        "turtlenecks",
+        "that_one_ratty_tshirt",
+        "bow_ties",
+        "sweatpants"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

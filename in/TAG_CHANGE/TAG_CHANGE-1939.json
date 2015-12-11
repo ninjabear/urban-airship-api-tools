@@ -1,0 +1,26 @@
+{
+  "id": "8fb1e882-6409-9a7f-d3df-5ca0995a46c5",
+  "offset": "1939",
+  "occurred": "2015-11-13T17:04:10.393Z",
+  "processed": "2015-11-13T17:04:10.393Z",
+  "device": {
+    "android_channel": "e5e5d15e-8678-b28c-253a-8f17c5ba721c"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "dad_jeans",
+        "turtlenecks",
+        "high_tops",
+        "high_heels"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

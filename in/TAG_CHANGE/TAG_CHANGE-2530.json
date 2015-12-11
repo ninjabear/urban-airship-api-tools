@@ -1,0 +1,22 @@
+{
+  "id": "00000151-3d11-0154-2e36-051a6b08090a",
+  "offset": "0",
+  "occurred": "2015-11-25T05:15:03.380Z",
+  "processed": "2015-11-25T06:00:40.640Z",
+  "device": {
+    "android_channel": "99f0a648-b505-4534-8a1f-5d9d6aec996c"
+  },
+  "body": {
+    "add": {
+      "ua_android_sdk_version": [
+        "6.3.X"
+      ]
+    },
+    "current": {
+      "ua_android_sdk_version": [
+        "6.3.X"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

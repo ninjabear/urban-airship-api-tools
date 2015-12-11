@@ -1,0 +1,25 @@
+{
+  "id": "38c5cd51-e43d-7a6d-f368-3e997d397eb3",
+  "offset": "2345",
+  "occurred": "2015-11-13T17:10:56.393Z",
+  "processed": "2015-11-13T17:10:56.393Z",
+  "device": {
+    "amazon_channel": "fc0e7005-00bb-f355-93cd-ef50a73eda8a"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dad_jeans"
+      ]
+    },
+    "current": {
+      "device": [
+        "dad_jeans",
+        "omg_shoes",
+        "high_tops",
+        "sweatpants"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

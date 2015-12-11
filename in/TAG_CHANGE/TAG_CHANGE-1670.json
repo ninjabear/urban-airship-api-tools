@@ -1,0 +1,26 @@
+{
+  "id": "23ddffb0-648c-18a1-8e6c-ae8594dd8e70",
+  "offset": "1670",
+  "occurred": "2015-11-13T16:59:41.393Z",
+  "processed": "2015-11-13T16:59:41.393Z",
+  "device": {
+    "android_channel": "871bce51-f177-dd04-c9fd-c9ccb0ab0bee"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "swimsuits"
+      ]
+    },
+    "current": {
+      "device": [
+        "swimsuits",
+        "graphic_tees",
+        "dress_shirts",
+        "bow_ties",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

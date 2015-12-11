@@ -1,0 +1,24 @@
+{
+  "id": "1657db28-ada2-e7fa-509e-e0d86ab2997e",
+  "offset": "1419",
+  "occurred": "2015-11-13T16:55:30.393Z",
+  "processed": "2015-11-13T16:55:30.393Z",
+  "device": {
+    "android_channel": "ddf743a8-6713-204d-c55a-38c3a8445e92"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "startup_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "startup_tees",
+        "graphic_tees",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

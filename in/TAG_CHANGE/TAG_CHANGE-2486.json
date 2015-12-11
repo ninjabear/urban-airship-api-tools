@@ -1,0 +1,28 @@
+{
+  "id": "00000151-2d9a-f114-6d41-13120608290a",
+  "offset": "0",
+  "occurred": "2015-11-22T05:11:47.732Z",
+  "processed": "2015-11-22T06:39:30.894Z",
+  "device": {
+    "ios_channel": "432ea482-dfaf-4fd8-b3bc-1d81ffc41a23",
+    "named_user_id": "justbma"
+  },
+  "body": {
+    "add": {
+      "timezone": [
+        "America/New_York"
+      ]
+    },
+    "remove": {
+      "timezone": [
+        "America/Los_Angeles"
+      ]
+    },
+    "current": {
+      "timezone": [
+        "America/New_York"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

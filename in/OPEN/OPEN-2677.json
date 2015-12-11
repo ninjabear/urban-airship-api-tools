@@ -1,0 +1,18 @@
+{
+  "id": "bcd5b451-9a19-11e5-a9b0-001018948f58",
+  "offset": "0",
+  "occurred": "2015-12-03T23:58:09.355Z",
+  "processed": "2015-12-03T23:58:24.628Z",
+  "device": {
+    "ios_channel": "4f4665ca-0e90-454d-9e22-934ddbe4b036",
+    "named_user_id": "johngreene"
+  },
+  "body": {
+    "session_id": "4039e3d4-0390-4c38-ac80-b3cabccccaba",
+    "last_delivered": {
+      "push_id": "7574a72b-f3dc-4a4b-8503-74c39fe3a1f0",
+      "time": "2015-12-03T23:57:53.675Z"
+    }
+  },
+  "type": "OPEN"
+}

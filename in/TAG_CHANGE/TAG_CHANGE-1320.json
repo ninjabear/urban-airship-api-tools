@@ -1,0 +1,26 @@
+{
+  "id": "97db25c5-f282-0db3-2369-7a3b867c70cb",
+  "offset": "1320",
+  "occurred": "2015-11-13T16:53:51.393Z",
+  "processed": "2015-11-13T16:53:51.393Z",
+  "device": {
+    "amazon_channel": "3d35710b-06a3-b5b7-0340-64a2da08f536"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "cowboy_boots",
+        "sweatpants",
+        "startup_tees",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f7988d91-9476-11e5-b1c2-90e2ba213b30",
+  "offset": "0",
+  "occurred": "2015-11-26T19:50:38.569Z",
+  "processed": "2015-11-26T21:05:46.573Z",
+  "device": {
+    "ios_channel": "3e392313-8e79-4f84-9f3f-5377262e2748",
+    "named_user_id": "michael"
+  },
+  "body": {
+    "push_id": "52cc8ac9-0bcb-4e7c-bd02-02ccfa243ecd",
+    "group_id": "11c3299b-17bb-46f3-96bb-12ab066261b3"
+  },
+  "type": "SEND"
+}

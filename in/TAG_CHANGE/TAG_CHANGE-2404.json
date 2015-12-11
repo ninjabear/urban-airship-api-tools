@@ -1,0 +1,23 @@
+{
+  "id": "00000151-1146-1b61-6576-0b120208240a",
+  "offset": "0",
+  "occurred": "2015-11-16T17:09:45.953Z",
+  "processed": "2015-11-16T17:09:50.595Z",
+  "device": {
+    "ios_channel": "f361066b-8f51-462c-a785-406dc7bcc127"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "Donato"
+      ]
+    },
+    "current": {
+      "device": [
+        "Donato",
+        "version_160"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

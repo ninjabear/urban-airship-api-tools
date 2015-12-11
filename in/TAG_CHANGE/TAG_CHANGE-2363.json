@@ -1,0 +1,24 @@
+{
+  "id": "806d2cee-47ba-db72-afd3-6dca0ace63c5",
+  "offset": "2363",
+  "occurred": "2015-11-13T17:11:14.393Z",
+  "processed": "2015-11-13T17:11:14.393Z",
+  "device": {
+    "amazon_channel": "7b0026f2-42a5-6297-ebf5-3c3ceab27581"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "turtlenecks"
+      ]
+    },
+    "current": {
+      "device": [
+        "turtlenecks",
+        "raincoats",
+        "swimsuits"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

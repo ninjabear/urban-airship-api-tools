@@ -1,0 +1,18 @@
+{
+  "id": "4d14e3a0-9d4f-11e5-aebf-90e2ba2730f8",
+  "offset": "0",
+  "occurred": "2015-12-08T01:58:40.336Z",
+  "processed": "2015-12-08T01:59:23.902Z",
+  "device": {
+    "ios_channel": "109dfd99-099d-4000-bf6c-f5507c588e09",
+    "named_user_id": "potato"
+  },
+  "body": {
+    "name": "test",
+    "last_delivered": {
+      "push_id": "915b4b8c-690d-48e0-974e-4468a3609ef3",
+      "time": "2015-12-08T01:55:37.508Z"
+    }
+  },
+  "type": "CUSTOM"
+}

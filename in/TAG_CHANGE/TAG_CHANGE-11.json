@@ -1,26 +1,24 @@
 {
-  "id": "00000151-047c-d7ea-2e39-05126c08100a",
-  "offset": "0",
-  "occurred": "2015-11-14T05:34:29.354Z",
-  "processed": "2015-11-14T07:16:12.076Z",
+  "id": "46a2637f-5b7b-ccb7-dfcb-c39349d38a21",
+  "offset": "11",
+  "occurred": "2015-11-13T16:32:02.394Z",
+  "processed": "2015-11-13T16:32:02.394Z",
   "device": {
-    "ios_channel": "373205f8-da24-4799-8b49-ab36b27677d0",
-    "named_user_id": "juliapdx"
+    "android_channel": "090c00ce-9f75-9e95-4e4a-eaf3366251ce"
   },
   "body": {
     "add": {
-      "ua_ios_version": [
-        "9.1.X"
-      ]
-    },
-    "remove": {
-      "ua_ios_version": [
-        "9.0.X"
+      "device": [
+        "raincoats"
       ]
     },
     "current": {
-      "ua_ios_version": [
-        "9.1.X"
+      "device": [
+        "raincoats",
+        "swimsuits",
+        "dad_jeans",
+        "sombreros",
+        "turtlenecks"
       ]
     }
   },

@@ -1,0 +1,25 @@
+{
+  "id": "fbe039b0-ae3f-1780-68f9-74247868ff9f",
+  "offset": "1532",
+  "occurred": "2015-11-13T16:57:23.394Z",
+  "processed": "2015-11-13T16:57:23.394Z",
+  "device": {
+    "android_channel": "b7a632e8-5a99-e195-708f-87301eea2cc5"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "turtlenecks",
+        "cowboy_boots",
+        "that_one_ratty_tshirt"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

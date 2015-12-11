@@ -1,0 +1,79 @@
+{
+  "id": "00000151-263f-0989-554f-24120208430a",
+  "offset": "0",
+  "occurred": "2015-11-20T18:54:04.169Z",
+  "processed": "2015-11-20T18:54:09.523Z",
+  "device": {
+    "android_channel": "a781e458-ad37-4723-8845-4e023e3a5448",
+    "named_user_id": "willis"
+  },
+  "body": {
+    "remove": {
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_android_sdk_version": [
+        "6.3.X"
+      ],
+      "ua_android_app_version": [
+        "336"
+      ],
+      "ua_locale_language": [
+        "en"
+      ],
+      "timezone": [
+        "America/Los_Angeles"
+      ],
+      "ua_locale_country": [
+        "US"
+      ],
+      "ua_opt_in": [
+        "true"
+      ],
+      "ua_android_version": [
+        "5.1.X"
+      ],
+      "ua_location_enabled": [
+        "true"
+      ],
+      "device": [
+        "OUTLET_COUPON_20-OFF-100-AUTO_151105",
+        "not a weasel",
+        "language_en"
+      ]
+    },
+    "current": {
+      "ua_background_enabled": [
+
+      ],
+      "ua_android_sdk_version": [
+
+      ],
+      "ua_android_app_version": [
+
+      ],
+      "ua_locale_language": [
+
+      ],
+      "timezone": [
+
+      ],
+      "ua_locale_country": [
+
+      ],
+      "ua_opt_in": [
+
+      ],
+      "ua_android_version": [
+
+      ],
+      "ua_location_enabled": [
+
+      ],
+      "device": [
+
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

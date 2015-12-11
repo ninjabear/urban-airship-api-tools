@@ -1,0 +1,14 @@
+{
+  "id": "0c4ef7bd-7b70-20d6-7a07-37bd94f03201",
+  "offset": "1143",
+  "occurred": "2015-11-13T16:50:54.393Z",
+  "processed": "2015-11-13T16:50:54.393Z",
+  "device": {
+    "amazon_channel": "a0bdc100-4854-ee71-bc86-df803097521e"
+  },
+  "body": {
+    "push_id": "9862ed04-006a-d6bd-b531-360a89f4b4ba",
+    "type": "ALREADY_DISPLAYED"
+  },
+  "type": "IN_APP_MESSAGE_EXPIRATION"
+}

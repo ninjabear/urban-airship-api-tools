@@ -1,25 +1,24 @@
 {
-  "id": "00000151-6516-0425-7274-041264080e0a",
-  "offset": "0",
-  "occurred": "2015-12-02T23:45:20.421Z",
-  "processed": "2015-12-02T23:45:26.540Z",
+  "id": "fbcace2c-154d-0007-2c6f-0741c3d21b9c",
+  "offset": "177",
+  "occurred": "2015-11-13T16:34:48.394Z",
+  "processed": "2015-11-13T16:34:48.394Z",
   "device": {
-    "android_channel": "fe5f8858-b1d4-4e45-a9fe-9475dedbe309"
+    "android_channel": "e440cbd6-0bed-a780-42a7-ebe5901875f7"
   },
   "body": {
     "add": {
-      "ua_opt_in": [
-        "true"
-      ]
-    },
-    "remove": {
-      "ua_opt_in": [
-        "false"
+      "device": [
+        "bow_ties"
       ]
     },
     "current": {
-      "ua_opt_in": [
-        "true"
+      "device": [
+        "bow_ties",
+        "turtlenecks",
+        "omg_shoes",
+        "graphic_tees",
+        "dress_shirts"
       ]
     }
   },

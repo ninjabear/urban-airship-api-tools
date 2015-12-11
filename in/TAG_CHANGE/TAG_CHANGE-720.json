@@ -1,0 +1,25 @@
+{
+  "id": "885785fc-d856-a30c-0ed5-682ad7735609",
+  "offset": "720",
+  "occurred": "2015-11-13T16:43:51.394Z",
+  "processed": "2015-11-13T16:43:51.394Z",
+  "device": {
+    "ios_channel": "052efae2-496d-42b0-4b41-7ccea13de59e"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "suspenders"
+      ]
+    },
+    "current": {
+      "device": [
+        "suspenders",
+        "sombreros",
+        "graphic_tees",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "04af541c-0ea3-39bd-aba7-2762d7b68666",
+  "offset": "1837",
+  "occurred": "2015-11-13T17:02:28.393Z",
+  "processed": "2015-11-13T17:02:28.393Z",
+  "device": {
+    "android_channel": "00456d57-9229-bd1b-444c-0ddbc5373204",
+    "named_user_id": "1a194278-f3c8-8ce7-5888-17c94da53851"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_heels"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_heels",
+        "omg_shoes",
+        "high_tops",
+        "turtlenecks",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

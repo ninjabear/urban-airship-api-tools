@@ -1,21 +1,18 @@
 {
-  "id": "a250d8f7-8fb8-11e5-bb19-90e2ba02f390",
-  "offset": "0",
-  "occurred": "2015-11-20T18:57:32.926Z",
-  "processed": "2015-11-20T18:58:07.367Z",
+  "id": "70dafdf1-6462-2f06-c6d6-88a6c3b7fe50",
+  "offset": "115",
+  "occurred": "2015-11-13T16:33:46.393Z",
+  "processed": "2015-11-13T16:33:46.393Z",
   "device": {
-    "ios_channel": "c5043985-0a62-4b0a-87af-57e76284a426",
-    "named_user_id": "jvoorhis"
+    "amazon_channel": "febcceeb-d9f0-f378-365e-5f8d4e64c1f9"
   },
   "body": {
     "triggering_push": {
-      "push_id": "eac3d0c6-ae4a-4817-bd51-a4f545158f95",
-      "time": "2015-11-20T18:57:25.821Z"
+      "push_id": "8ed81442-fcbb-801c-93c3-f4e6afebdb96"
     },
-    "session_id": "75cac3e2-1d19-4081-ba34-1783ab8008b9",
+    "session_id": "da5c7044-c71d-685b-420d-657966b8fbdd",
     "last_delivered": {
-      "push_id": "eac3d0c6-ae4a-4817-bd51-a4f545158f95",
-      "time": "2015-11-20T18:57:25.821Z"
+      "push_id": "f240825b-2445-86b7-7629-71b6efadd963"
     }
   },
   "type": "OPEN"

@@ -1,0 +1,25 @@
+{
+  "id": "f0e06f0c-df1d-9314-aa22-ed1f59836dd2",
+  "offset": "2052",
+  "occurred": "2015-11-13T17:06:03.393Z",
+  "processed": "2015-11-13T17:06:03.393Z",
+  "device": {
+    "amazon_channel": "dc1d3212-6508-8670-f951-ab9fef1a6c35"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "startup_tees",
+        "swimsuits",
+        "high_heels"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

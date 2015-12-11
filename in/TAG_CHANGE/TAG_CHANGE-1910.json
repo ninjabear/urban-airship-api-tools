@@ -1,0 +1,26 @@
+{
+  "id": "d1479090-f288-3a92-0e02-adf38a465f2f",
+  "offset": "1910",
+  "occurred": "2015-11-13T17:03:41.393Z",
+  "processed": "2015-11-13T17:03:41.393Z",
+  "device": {
+    "amazon_channel": "c7d12b17-d04b-0603-3eb3-a7d853d1c7cd"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "turtlenecks",
+        "dad_jeans",
+        "suspenders",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

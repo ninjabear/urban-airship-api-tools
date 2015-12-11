@@ -1,0 +1,26 @@
+{
+  "id": "2f816511-f579-08e7-b9b4-bff6da2c2e9c",
+  "offset": "1701",
+  "occurred": "2015-11-13T17:00:12.393Z",
+  "processed": "2015-11-13T17:00:12.393Z",
+  "device": {
+    "ios_channel": "d0593869-7749-b501-01b6-1f704cf60026"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sweatpants"
+      ]
+    },
+    "current": {
+      "device": [
+        "sweatpants",
+        "turtlenecks",
+        "swimsuits",
+        "suspenders",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

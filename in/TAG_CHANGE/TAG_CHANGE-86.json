@@ -1,25 +1,23 @@
 {
-  "id": "00000151-1e39-5551-3331-031265080c0a",
-  "offset": "0",
-  "occurred": "2015-11-19T05:30:52.625Z",
-  "processed": "2015-11-19T08:34:00.247Z",
+  "id": "7a081e52-c912-75ed-f514-b30ee6e8d0c1",
+  "offset": "86",
+  "occurred": "2015-11-13T16:33:17.394Z",
+  "processed": "2015-11-13T16:33:17.394Z",
   "device": {
-    "ios_channel": "821248dd-7073-4ead-bb88-9df18275c055"
+    "ios_channel": "a7acb80d-ac70-ec17-7d3d-c60bd430ab13"
   },
   "body": {
     "add": {
-      "ua_ios_app_version": [
-        "156"
-      ]
-    },
-    "remove": {
-      "ua_ios_app_version": [
-        "130"
+      "device": [
+        "startup_tees"
       ]
     },
     "current": {
-      "ua_ios_app_version": [
-        "156"
+      "device": [
+        "startup_tees",
+        "high_heels",
+        "suspenders",
+        "sombreros"
       ]
     }
   },

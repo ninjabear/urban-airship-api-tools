@@ -1,0 +1,14 @@
+{
+  "id": "8bb19791-9960-11e5-b6d3-14feb5d3172c",
+  "offset": "0",
+  "occurred": "2015-12-03T01:52:44.425Z",
+  "processed": "2015-12-03T01:52:46.119Z",
+  "device": {
+    "ios_channel": "74856a77-09cf-4ac2-ba3a-0f1329a591c0",
+    "named_user_id": "greg_weinger"
+  },
+  "body": {
+    "session_id": "c8af26c9-b30d-4c21-b289-faaf5051b1c5"
+  },
+  "type": "CLOSE"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "116b19e1-dd45-f08b-ebd0-e5d0e9cfc4b6",
+  "offset": "2289",
+  "occurred": "2015-11-13T17:10:00.393Z",
+  "processed": "2015-11-13T17:10:00.393Z",
+  "device": {
+    "android_channel": "04239fd7-6f95-dd74-7fec-56ecd3624f31"
+  },
+  "body": {
+    "push_id": "2f8559b4-191b-15f4-994e-8460dfc92b53"
+  },
+  "type": "IN_APP_MESSAGE_DISPLAY"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "d38c07ba-b54d-1111-f96b-887f88980d90",
+  "offset": "667",
+  "occurred": "2015-11-13T16:42:58.394Z",
+  "processed": "2015-11-13T16:42:58.394Z",
+  "device": {
+    "android_channel": "31b04863-f184-7a21-538b-68878603c98d"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "graphic_tees",
+        "high_heels",
+        "swimsuits",
+        "turtlenecks"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

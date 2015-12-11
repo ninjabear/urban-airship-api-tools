@@ -1,0 +1,23 @@
+{
+  "id": "00000151-3bdb-71b6-7073-04120208150a",
+  "offset": "0",
+  "occurred": "2015-11-24T23:36:55.990Z",
+  "processed": "2015-11-24T23:37:02.513Z",
+  "device": {
+    "android_channel": "99f0a648-b505-4534-8a1f-5d9d6aec996c"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "lazer"
+      ]
+    },
+    "current": {
+      "device": [
+        "spam",
+        "lazer"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

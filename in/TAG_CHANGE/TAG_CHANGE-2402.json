@@ -1,0 +1,28 @@
+{
+  "id": "00000151-1145-7be0-656d-04120208280a",
+  "offset": "0",
+  "occurred": "2015-11-16T17:09:05.120Z",
+  "processed": "2015-11-16T17:09:09.615Z",
+  "device": {
+    "ios_channel": "a2e9f8fb-9d54-43a0-868a-eafd3cb293fc",
+    "named_user_id": "mele"
+  },
+  "body": {
+    "add": {
+      "ua_opt_in": [
+        "false"
+      ]
+    },
+    "remove": {
+      "ua_opt_in": [
+        "true"
+      ]
+    },
+    "current": {
+      "ua_opt_in": [
+        "false"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

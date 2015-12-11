@@ -1,0 +1,26 @@
+{
+  "id": "44a1357c-1dc2-3ed6-cda4-f00be24212e3",
+  "offset": "2326",
+  "occurred": "2015-11-13T17:10:37.393Z",
+  "processed": "2015-11-13T17:10:37.393Z",
+  "device": {
+    "android_channel": "4db0a650-c488-3575-1ab8-febab0977ca8"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "swimsuits"
+      ]
+    },
+    "current": {
+      "device": [
+        "swimsuits",
+        "bow_ties",
+        "cowboy_boots",
+        "graphic_tees",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "c50997e6-f4a3-9aea-226c-358b11714276",
+  "offset": "2008",
+  "occurred": "2015-11-13T17:05:19.393Z",
+  "processed": "2015-11-13T17:05:19.393Z",
+  "device": {
+    "android_channel": "1ddc797f-12ac-82ea-9f97-90bb00d3dd95"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "omg_shoes"
+      ]
+    },
+    "current": {
+      "device": [
+        "omg_shoes",
+        "graphic_tees",
+        "dad_jeans",
+        "suspenders",
+        "turtlenecks"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

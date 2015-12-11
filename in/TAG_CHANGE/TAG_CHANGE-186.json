@@ -1,26 +1,23 @@
 {
-  "id": "00000151-68d1-644c-6576-0b1202082c0a",
-  "offset": "0",
-  "occurred": "2015-12-03T17:08:51.916Z",
-  "processed": "2015-12-03T17:08:59.376Z",
+  "id": "0c0e0036-3bbb-6ae5-30b6-2c942b0784b6",
+  "offset": "186",
+  "occurred": "2015-11-13T16:34:57.394Z",
+  "processed": "2015-11-13T16:34:57.394Z",
   "device": {
-    "ios_channel": "407755c5-5590-45d6-b35d-5ae7c98183d4",
-    "named_user_id": "kermit"
+    "android_channel": "2da8b91a-082f-9347-a073-4bdc51e551de"
   },
   "body": {
     "add": {
-      "ua_opt_in": [
-        "true"
-      ]
-    },
-    "remove": {
-      "ua_opt_in": [
-        "false"
+      "device": [
+        "dress_shirts"
       ]
     },
     "current": {
-      "ua_opt_in": [
-        "true"
+      "device": [
+        "dress_shirts",
+        "raincoats",
+        "turtlenecks",
+        "swimsuits"
       ]
     }
   },

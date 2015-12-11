@@ -1,0 +1,28 @@
+{
+  "id": "00000151-68f6-b6be-98e2-031202080c0a",
+  "offset": "0",
+  "occurred": "2015-12-03T17:49:37.854Z",
+  "processed": "2015-12-03T17:49:42.351Z",
+  "device": {
+    "android_channel": "5bcd5f42-9d96-4540-a901-3f2cf7a476e7",
+    "named_user_id": "potato"
+  },
+  "body": {
+    "add": {
+      "ua_opt_in": [
+        "false"
+      ]
+    },
+    "remove": {
+      "ua_opt_in": [
+        "true"
+      ]
+    },
+    "current": {
+      "ua_opt_in": [
+        "false"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

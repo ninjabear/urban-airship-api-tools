@@ -1,0 +1,26 @@
+{
+  "id": "754e4804-8cc6-d8c1-1051-c01c8b95c32a",
+  "offset": "2346",
+  "occurred": "2015-11-13T17:10:57.393Z",
+  "processed": "2015-11-13T17:10:57.393Z",
+  "device": {
+    "ios_channel": "3f622faf-637b-a900-2bbe-f801a3a9a153"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "turtlenecks"
+      ]
+    },
+    "current": {
+      "device": [
+        "turtlenecks",
+        "sweatpants",
+        "startup_tees",
+        "raincoats",
+        "dress_shirts"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

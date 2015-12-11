@@ -1,0 +1,28 @@
+{
+  "id": "00000151-0480-a293-2e38-05126c08100a",
+  "offset": "0",
+  "occurred": "2015-11-14T05:38:37.843Z",
+  "processed": "2015-11-14T08:29:22.734Z",
+  "device": {
+    "ios_channel": "e339783b-c710-4395-b7ba-5fd3a6a67746",
+    "named_user_id": "coddingtonbear"
+  },
+  "body": {
+    "add": {
+      "ua_ios_version": [
+        "8.4.X"
+      ]
+    },
+    "remove": {
+      "ua_ios_version": [
+        "8.3.X"
+      ]
+    },
+    "current": {
+      "ua_ios_version": [
+        "8.4.X"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

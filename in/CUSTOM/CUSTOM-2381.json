@@ -1,0 +1,18 @@
+{
+  "id": "67f49865-994e-11e5-bb19-90e2ba02f390",
+  "offset": "0",
+  "occurred": "2015-12-02T23:42:49.189Z",
+  "processed": "2015-12-02T23:42:54.524Z",
+  "device": {
+    "android_channel": "fe5f8858-b1d4-4e45-a9fe-9475dedbe309"
+  },
+  "body": {
+    "name": "ua custom event",
+    "properties": {
+      "ltv": false,
+      "date": "December 2, 2015",
+      "description": "Urban Airship Rocks!"
+    }
+  },
+  "type": "CUSTOM"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "00000151-68d1-644c-6576-0b1202082c0a",
+  "offset": "0",
+  "occurred": "2015-12-03T17:08:51.916Z",
+  "processed": "2015-12-03T17:08:59.376Z",
+  "device": {
+    "ios_channel": "407755c5-5590-45d6-b35d-5ae7c98183d4",
+    "named_user_id": "kermit"
+  },
+  "body": {
+    "add": {
+      "ua_opt_in": [
+        "true"
+      ]
+    },
+    "remove": {
+      "ua_opt_in": [
+        "false"
+      ]
+    },
+    "current": {
+      "ua_opt_in": [
+        "true"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

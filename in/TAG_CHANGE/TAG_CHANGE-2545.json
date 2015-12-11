@@ -1,0 +1,27 @@
+{
+  "id": "00000151-4c81-7362-2e39-05126c08100a",
+  "offset": "0",
+  "occurred": "2015-11-28T05:12:10.850Z",
+  "processed": "2015-11-28T12:38:04.345Z",
+  "device": {
+    "ios_channel": "9089f6a6-ae79-4cae-92ec-3e36f300b2b6"
+  },
+  "body": {
+    "add": {
+      "ua_ios_version": [
+        "9.1.X"
+      ]
+    },
+    "remove": {
+      "ua_ios_version": [
+        "9.0.X"
+      ]
+    },
+    "current": {
+      "ua_ios_version": [
+        "9.1.X"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

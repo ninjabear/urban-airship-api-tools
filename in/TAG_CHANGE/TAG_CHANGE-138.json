@@ -1,21 +1,24 @@
 {
-  "id": "00000151-37eb-382e-2e36-051a6a08090a",
-  "offset": "0",
-  "occurred": "2015-11-24T05:15:40.974Z",
-  "processed": "2015-11-24T05:16:17.459Z",
+  "id": "6cdd1c61-db2f-58df-6a28-0fc350e1e8d8",
+  "offset": "138",
+  "occurred": "2015-11-13T16:34:09.394Z",
+  "processed": "2015-11-13T16:34:09.394Z",
   "device": {
-    "ios_channel": "04a9debb-59d6-4c62-b1ef-2c8e5fcac03e",
-    "named_user_id": "joey_freedman"
+    "android_channel": "425d6711-9fd5-15a2-6d05-4424d45dfdcf"
   },
   "body": {
     "add": {
-      "ua_ios_sdk_version": [
-        "6.3.X"
+      "device": [
+        "sweatpants"
       ]
     },
     "current": {
-      "ua_ios_sdk_version": [
-        "6.3.X"
+      "device": [
+        "sweatpants",
+        "raincoats",
+        "swimsuits",
+        "high_heels",
+        "startup_tees"
       ]
     }
   },

@@ -1,0 +1,28 @@
+{
+  "id": "00000151-1905-ebf9-2e36-05126a08100a",
+  "offset": "0",
+  "occurred": "2015-11-18T05:16:37.241Z",
+  "processed": "2015-11-18T09:06:47.288Z",
+  "device": {
+    "ios_channel": "a946579f-3c31-4ed3-aa39-310240868ca2",
+    "named_user_id": "andreaburton"
+  },
+  "body": {
+    "add": {
+      "ua_ios_sdk_version": [
+        "6.3.X"
+      ]
+    },
+    "remove": {
+      "ua_ios_sdk_version": [
+        "6.1.X"
+      ]
+    },
+    "current": {
+      "ua_ios_sdk_version": [
+        "6.3.X"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

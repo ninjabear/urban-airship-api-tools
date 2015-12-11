@@ -1,0 +1,28 @@
+{
+  "id": "00000151-3d17-4dd6-2e35-05126d08100a",
+  "offset": "0",
+  "occurred": "2015-11-25T05:21:56.182Z",
+  "processed": "2015-11-25T07:29:31.602Z",
+  "device": {
+    "android_channel": "0b878c20-d8ce-4b17-b1ed-66f6437d112d",
+    "named_user_id": "user-id-1234"
+  },
+  "body": {
+    "add": {
+      "ua_android_version": [
+        "6.0.X"
+      ]
+    },
+    "remove": {
+      "ua_android_version": [
+        "5.1.X"
+      ]
+    },
+    "current": {
+      "ua_android_version": [
+        "6.0.X"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

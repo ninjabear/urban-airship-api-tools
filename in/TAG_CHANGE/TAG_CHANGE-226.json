@@ -1,0 +1,27 @@
+{
+  "id": "d0e16fff-1a49-e897-48f9-b970fcba0b3c",
+  "offset": "226",
+  "occurred": "2015-11-13T16:35:37.394Z",
+  "processed": "2015-11-13T16:35:37.394Z",
+  "device": {
+    "ios_channel": "8b9306f4-af6f-c602-19d2-a264dc9d0001",
+    "named_user_id": "67a97999-39f8-c1f7-9909-825bba3eb4b0"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "bow_ties",
+        "sombreros",
+        "startup_tees",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "079860d9-9d41-11e5-aab6-001b21d15758",
+  "offset": "0",
+  "occurred": "2015-12-08T00:17:13.053Z",
+  "processed": "2015-12-08T00:17:13.996Z",
+  "device": {
+    "ios_channel": "514d113d-d02c-49af-9f4d-aa45cc13637c",
+    "named_user_id": "bryan.schlief"
+  },
+  "body": {
+    "push_id": "664d9b31-e3da-41f7-a920-2df1ec0bc724",
+    "group_id": "2f57b9e9-8cb2-42a8-9994-35ce8585f041"
+  },
+  "type": "SEND"
+}

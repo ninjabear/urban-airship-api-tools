@@ -1,25 +1,24 @@
 {
-  "id": "00000151-2642-39ab-6576-0b120208610a",
-  "offset": "0",
-  "occurred": "2015-11-20T18:57:33.099Z",
-  "processed": "2015-11-20T18:57:37.332Z",
+  "id": "b4433d04-a522-7323-2f67-a47c385b2b23",
+  "offset": "95",
+  "occurred": "2015-11-13T16:33:26.394Z",
+  "processed": "2015-11-13T16:33:26.394Z",
   "device": {
-    "ios_channel": "c5043985-0a62-4b0a-87af-57e76284a426",
-    "named_user_id": "jvoorhis"
+    "android_channel": "41d18fd0-bc65-0ece-3307-33673fa011dc"
   },
   "body": {
     "add": {
       "device": [
-        "☃"
+        "sweatpants"
       ]
     },
     "current": {
       "device": [
-        "version_160",
-        "☃",
-        "jvoorhis",
-        "ce_testing",
-        "ruby_lib"
+        "sweatpants",
+        "that_one_ratty_tshirt",
+        "omg_shoes",
+        "turtlenecks",
+        "suspenders"
       ]
     }
   },

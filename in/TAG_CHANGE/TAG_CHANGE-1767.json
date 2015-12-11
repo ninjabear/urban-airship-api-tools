@@ -1,0 +1,26 @@
+{
+  "id": "607666f2-3a59-c56c-0241-804edeedc5a4",
+  "offset": "1767",
+  "occurred": "2015-11-13T17:01:18.394Z",
+  "processed": "2015-11-13T17:01:18.394Z",
+  "device": {
+    "amazon_channel": "a86bf690-11f6-4330-f21d-edd84737e136"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "turtlenecks",
+        "bow_ties",
+        "that_one_ratty_tshirt",
+        "sweatpants"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "b6d21041-9ae0-11e5-a9b0-001018948f58",
+  "offset": "0",
+  "occurred": "2015-12-04T23:41:10.185Z",
+  "processed": "2015-12-04T23:42:46.133Z",
+  "device": {
+    "ios_channel": "109dfd99-099d-4000-bf6c-f5507c588e09",
+    "named_user_id": "potato"
+  },
+  "body": {
+    "session_id": "f136ac64-c438-483f-88cc-34d0c136152e"
+  },
+  "type": "CLOSE"
+}

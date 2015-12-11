@@ -1,0 +1,27 @@
+{
+  "id": "5269643a-189e-24f6-bb25-4ccaa1c93075",
+  "offset": "1042",
+  "occurred": "2015-11-13T16:49:13.393Z",
+  "processed": "2015-11-13T16:49:13.393Z",
+  "device": {
+    "amazon_channel": "c7ec98a0-a9de-7102-cfeb-a50febbb615f",
+    "named_user_id": "0f183b3d-0a84-416d-b657-c09bd109c464"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "turtlenecks"
+      ]
+    },
+    "current": {
+      "device": [
+        "turtlenecks",
+        "sombreros",
+        "dad_jeans",
+        "swimsuits",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

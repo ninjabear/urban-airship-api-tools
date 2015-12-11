@@ -1,20 +1,22 @@
 {
-  "id": "00000151-3d11-0154-6e65-021a6808060a",
-  "offset": "0",
-  "occurred": "2015-11-25T05:15:03.380Z",
-  "processed": "2015-11-25T06:00:40.378Z",
+  "id": "2f082d97-5beb-aa2f-94ad-4e5a137cd753",
+  "offset": "153",
+  "occurred": "2015-11-13T16:34:24.394Z",
+  "processed": "2015-11-13T16:34:24.394Z",
   "device": {
-    "android_channel": "99f0a648-b505-4534-8a1f-5d9d6aec996c"
+    "ios_channel": "190998d7-b1ea-4b0d-c5d4-b0ff0ab52270"
   },
   "body": {
     "add": {
-      "ua_locale_language": [
-        "en"
+      "device": [
+        "high_heels"
       ]
     },
     "current": {
-      "ua_locale_language": [
-        "en"
+      "device": [
+        "high_heels",
+        "turtlenecks",
+        "graphic_tees"
       ]
     }
   },

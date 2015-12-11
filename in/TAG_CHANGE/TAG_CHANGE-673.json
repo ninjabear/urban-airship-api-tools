@@ -1,0 +1,26 @@
+{
+  "id": "a8b714dd-3a11-b84d-8edb-78b445680326",
+  "offset": "673",
+  "occurred": "2015-11-13T16:43:04.393Z",
+  "processed": "2015-11-13T16:43:04.393Z",
+  "device": {
+    "android_channel": "85032c8a-752e-74a3-6162-74417e6a79fb"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "sweatpants",
+        "startup_tees",
+        "raincoats",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

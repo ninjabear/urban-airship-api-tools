@@ -1,0 +1,26 @@
+{
+  "id": "2b896f25-9614-4086-9485-9f7c424852a0",
+  "offset": "1338",
+  "occurred": "2015-11-13T16:54:09.393Z",
+  "processed": "2015-11-13T16:54:09.393Z",
+  "device": {
+    "ios_channel": "16899883-5715-d1cd-c387-60325584f5ac"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "sombreros",
+        "turtlenecks",
+        "graphic_tees",
+        "high_heels"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,21 +1,24 @@
 {
-  "id": "00000151-13e3-18cf-2e39-051a6c08090a",
-  "offset": "0",
-  "occurred": "2015-11-17T05:20:28.879Z",
-  "processed": "2015-11-17T12:44:58.936Z",
+  "id": "fb1181cb-0fcf-4544-ad61-03bdfc78536b",
+  "offset": "49",
+  "occurred": "2015-11-13T16:32:40.394Z",
+  "processed": "2015-11-13T16:32:40.394Z",
   "device": {
-    "ios_channel": "f361066b-8f51-462c-a785-406dc7bcc127",
-    "named_user_id": "Donato"
+    "android_channel": "e635cb57-3a56-41f0-c594-0778e501395d"
   },
   "body": {
     "add": {
-      "ua_ios_version": [
-        "9.1.X"
+      "device": [
+        "high_tops"
       ]
     },
     "current": {
-      "ua_ios_version": [
-        "9.1.X"
+      "device": [
+        "high_tops",
+        "sombreros",
+        "suspenders",
+        "swimsuits",
+        "sweatpants"
       ]
     }
   },

@@ -1,0 +1,26 @@
+{
+  "id": "74110942-84a5-b1a5-bbb1-a9ae600adec6",
+  "offset": "1857",
+  "occurred": "2015-11-13T17:02:48.393Z",
+  "processed": "2015-11-13T17:02:48.393Z",
+  "device": {
+    "amazon_channel": "279c91c3-b672-ed51-0a31-2c17533319f2"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "that_one_ratty_tshirt"
+      ]
+    },
+    "current": {
+      "device": [
+        "that_one_ratty_tshirt",
+        "cowboy_boots",
+        "dress_shirts",
+        "sombreros",
+        "turtlenecks"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

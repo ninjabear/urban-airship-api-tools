@@ -1,0 +1,14 @@
+{
+  "id": "bbed2201-8c84-11e5-a3d3-90e2ba213998",
+  "offset": "0",
+  "occurred": "2015-11-16T17:09:02.112Z",
+  "processed": "2015-11-16T17:09:03.175Z",
+  "device": {
+    "ios_channel": "c08a186b-bd6b-47ff-a5eb-c05ae6fa13aa",
+    "named_user_id": "ck_ios"
+  },
+  "body": {
+    "push_id": "50bc7355-91ef-4e41-8379-ed02cdfe0fee"
+  },
+  "type": "SEND"
+}

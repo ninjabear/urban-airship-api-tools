@@ -1,0 +1,14 @@
+{
+  "id": "df6d6b95-8c84-11e5-84ee-001b21d15598",
+  "offset": "0",
+  "occurred": "2015-11-16T17:10:01.673Z",
+  "processed": "2015-11-16T17:10:03.505Z",
+  "device": {
+    "ios_channel": "74070b62-e678-4f49-bf48-74903de80b15",
+    "named_user_id": "green-hallows-4940"
+  },
+  "body": {
+    "push_id": "1abc8fb2-68af-4879-9672-bed2d6240d7c"
+  },
+  "type": "SEND"
+}

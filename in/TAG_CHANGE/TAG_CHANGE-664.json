@@ -1,0 +1,25 @@
+{
+  "id": "77829e2d-690f-833f-73a9-8a9f01a62251",
+  "offset": "664",
+  "occurred": "2015-11-13T16:42:55.394Z",
+  "processed": "2015-11-13T16:42:55.394Z",
+  "device": {
+    "android_channel": "20bbef67-f050-58a6-2c10-8afe8d4e1a04"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "swimsuits",
+        "suspenders",
+        "graphic_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

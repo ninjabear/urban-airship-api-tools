@@ -1,0 +1,14 @@
+{
+  "id": "be8547e3-946d-11e5-b6d3-14feb5d3172c",
+  "offset": "0",
+  "occurred": "2015-11-26T18:44:21.884Z",
+  "processed": "2015-11-26T18:44:39.094Z",
+  "device": {
+    "android_channel": "c1227887-2683-454e-beae-9018290948a3",
+    "named_user_id": "misty2"
+  },
+  "body": {
+    "session_id": "b6c8615a-8686-498b-b0c0-5c3f2cbecac4"
+  },
+  "type": "CLOSE"
+}

@@ -1,21 +1,22 @@
 {
-  "id": "00000151-37eb-382e-2e39-051a6c08090a",
-  "offset": "0",
-  "occurred": "2015-11-24T05:15:40.974Z",
-  "processed": "2015-11-24T05:16:17.386Z",
+  "id": "cb0d0565-e76e-b1c4-44fe-bc7b2cc73067",
+  "offset": "137",
+  "occurred": "2015-11-13T16:34:08.393Z",
+  "processed": "2015-11-13T16:34:08.393Z",
   "device": {
-    "ios_channel": "04a9debb-59d6-4c62-b1ef-2c8e5fcac03e",
-    "named_user_id": "joey_freedman"
+    "amazon_channel": "3edac437-c992-7713-4239-6162f5e37587"
   },
   "body": {
     "add": {
-      "ua_ios_version": [
-        "9.1.X"
+      "device": [
+        "sweatpants"
       ]
     },
     "current": {
-      "ua_ios_version": [
-        "9.1.X"
+      "device": [
+        "sweatpants",
+        "raincoats",
+        "graphic_tees"
       ]
     }
   },

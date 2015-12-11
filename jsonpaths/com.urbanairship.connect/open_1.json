@@ -16,6 +16,7 @@
         "$.data.body.triggering_push.group_id",
         "$.data.body.triggering_push.push_id",
         "$.data.body.triggering_push.time",
+        "$.data.device.amazon_channel",
         "$.data.device.android_channel",
         "$.data.device.ios_channel",
         "$.data.device.named_user_id",

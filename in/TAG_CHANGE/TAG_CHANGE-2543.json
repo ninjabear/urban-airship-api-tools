@@ -1,0 +1,25 @@
+{
+  "id": "00000151-48e6-0a22-6364-03120208230a",
+  "offset": "0",
+  "occurred": "2015-11-27T12:23:34.178Z",
+  "processed": "2015-11-27T12:23:37.102Z",
+  "device": {
+    "android_channel": "3a8e2cd0-81b2-4559-a559-67eaae7f3c12",
+    "named_user_id": "dj"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "☃"
+      ]
+    },
+    "current": {
+      "device": [
+        "dca",
+        "☃",
+        "DCA>PDX"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

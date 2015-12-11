@@ -1,0 +1,25 @@
+{
+  "id": "00000151-6ded-8ab3-6576-0b120208310a",
+  "offset": "0",
+  "occurred": "2015-12-04T16:57:42.835Z",
+  "processed": "2015-12-04T16:58:41.896Z",
+  "device": {
+    "ios_channel": "10b720bb-db15-4a60-9a2f-f8b2eafad3b2",
+    "named_user_id": "misty"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "☃"
+      ]
+    },
+    "current": {
+      "device": [
+        "version_160",
+        "☃",
+        "misty0"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

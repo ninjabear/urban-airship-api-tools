@@ -1,20 +1,25 @@
 {
-  "id": "00000151-664b-d75d-2e36-051a6b08090a",
-  "offset": "0",
-  "occurred": "2015-12-03T05:23:45.117Z",
-  "processed": "2015-12-03T11:07:08.719Z",
+  "id": "da1a1007-f2e6-84e9-b847-0b37bd27643f",
+  "offset": "185",
+  "occurred": "2015-11-13T16:34:56.394Z",
+  "processed": "2015-11-13T16:34:56.394Z",
   "device": {
-    "android_channel": "fe5f8858-b1d4-4e45-a9fe-9475dedbe309"
+    "amazon_channel": "18475fe0-867f-f197-c626-cd0b53eca219",
+    "named_user_id": "88753593-8298-51f5-6350-516e2f265f23"
   },
   "body": {
     "add": {
-      "ua_android_sdk_version": [
-        "6.3.X"
+      "device": [
+        "sweatpants"
       ]
     },
     "current": {
-      "ua_android_sdk_version": [
-        "6.3.X"
+      "device": [
+        "sweatpants",
+        "bow_ties",
+        "that_one_ratty_tshirt",
+        "graphic_tees",
+        "omg_shoes"
       ]
     }
   },

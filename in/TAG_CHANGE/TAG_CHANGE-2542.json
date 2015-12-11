@@ -1,0 +1,24 @@
+{
+  "id": "00000151-48b6-083e-6576-0b1202083d0a",
+  "offset": "0",
+  "occurred": "2015-11-27T11:31:07.966Z",
+  "processed": "2015-11-27T11:31:12.657Z",
+  "device": {
+    "ios_channel": "9089f6a6-ae79-4cae-92ec-3e36f300b2b6"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "☃"
+      ]
+    },
+    "current": {
+      "device": [
+        "version_160",
+        "☃",
+        "AbandonedBag"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,21 +1,23 @@
 {
-  "id": "00000151-13e3-18cf-6d41-131a0608170a",
-  "offset": "0",
-  "occurred": "2015-11-17T05:20:28.879Z",
-  "processed": "2015-11-17T12:44:58.599Z",
+  "id": "94e272d7-bfda-c759-ec74-feeac8eab669",
+  "offset": "47",
+  "occurred": "2015-11-13T16:32:38.394Z",
+  "processed": "2015-11-13T16:32:38.394Z",
   "device": {
-    "ios_channel": "f361066b-8f51-462c-a785-406dc7bcc127",
-    "named_user_id": "Donato"
+    "ios_channel": "16e6e010-1a99-d782-0b45-e7af593bf1dc"
   },
   "body": {
     "add": {
-      "timezone": [
-        "America/Los_Angeles"
+      "device": [
+        "startup_tees"
       ]
     },
     "current": {
-      "timezone": [
-        "America/Los_Angeles"
+      "device": [
+        "startup_tees",
+        "that_one_ratty_tshirt",
+        "graphic_tees",
+        "dress_shirts"
       ]
     }
   },

@@ -1,0 +1,26 @@
+{
+  "id": "eca1ef78-ebdc-861c-3d84-f4b3be3dfa09",
+  "offset": "1726",
+  "occurred": "2015-11-13T17:00:37.393Z",
+  "processed": "2015-11-13T17:00:37.393Z",
+  "device": {
+    "amazon_channel": "a185f57d-3e7d-0068-8937-9e29c2673477"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_heels"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_heels",
+        "that_one_ratty_tshirt",
+        "sombreros",
+        "startup_tees",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

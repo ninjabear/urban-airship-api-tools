@@ -1,0 +1,26 @@
+{
+  "id": "91034e37-e9cb-510d-df6c-9195d4fc3e69",
+  "offset": "1436",
+  "occurred": "2015-11-13T16:55:47.393Z",
+  "processed": "2015-11-13T16:55:47.393Z",
+  "device": {
+    "android_channel": "755797ea-341d-91cb-ab80-81be88451232"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "cowboy_boots",
+        "graphic_tees",
+        "dress_shirts",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

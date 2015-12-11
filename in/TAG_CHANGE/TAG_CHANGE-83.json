@@ -1,22 +1,24 @@
 {
-  "id": "00000151-21f6-43d3-6576-0b120208230a",
-  "offset": "0",
-  "occurred": "2015-11-19T22:56:06.099Z",
-  "processed": "2015-11-19T22:56:11.351Z",
+  "id": "2e67631f-b8be-ed2c-24e3-fdad3e0db3cf",
+  "offset": "83",
+  "occurred": "2015-11-13T16:33:14.394Z",
+  "processed": "2015-11-13T16:33:14.394Z",
   "device": {
-    "ios_channel": "821248dd-7073-4ead-bb88-9df18275c055",
-    "named_user_id": "bryanschlief"
+    "android_channel": "e536d6f7-34eb-c718-0f49-6aa8a1b4e6b3"
   },
   "body": {
     "add": {
       "device": [
-        "bryan"
+        "bow_ties"
       ]
     },
     "current": {
       "device": [
-        "bryan",
-        "version_156"
+        "bow_ties",
+        "that_one_ratty_tshirt",
+        "sombreros",
+        "turtlenecks",
+        "high_tops"
       ]
     }
   },

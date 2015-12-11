@@ -1,21 +1,24 @@
 {
-  "id": "00000151-1903-6bff-2e36-051a6a08090a",
-  "offset": "0",
-  "occurred": "2015-11-18T05:13:53.407Z",
-  "processed": "2015-11-18T06:04:47.328Z",
+  "id": "cc70d80d-757a-19d2-46df-567152e10ffa",
+  "offset": "68",
+  "occurred": "2015-11-13T16:32:59.394Z",
+  "processed": "2015-11-13T16:32:59.394Z",
   "device": {
-    "ios_channel": "11087c5c-dc24-441e-ab63-5099a69d691e",
-    "named_user_id": "adam"
+    "ios_channel": "0d09e951-ec2e-21a8-f5a9-2eed0b31b619"
   },
   "body": {
     "add": {
-      "ua_ios_sdk_version": [
-        "6.3.X"
+      "device": [
+        "high_tops"
       ]
     },
     "current": {
-      "ua_ios_sdk_version": [
-        "6.3.X"
+      "device": [
+        "high_tops",
+        "raincoats",
+        "dad_jeans",
+        "startup_tees",
+        "that_one_ratty_tshirt"
       ]
     }
   },

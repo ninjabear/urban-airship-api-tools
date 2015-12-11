@@ -1,0 +1,27 @@
+{
+  "id": "00000151-7e73-61a0-6206-1a07f2081a0a",
+  "offset": "0",
+  "occurred": "2015-12-07T21:57:49.600Z",
+  "processed": "2015-12-07T21:57:52.399Z",
+  "device": {
+    "ios_channel": "4f4665ca-0e90-454d-9e22-934ddbe4b036",
+    "named_user_id": "johngreene"
+  },
+  "body": {
+    "add": {
+      "i15729": [
+        "blagga",
+        "flagga",
+        "blarf"
+      ]
+    },
+    "current": {
+      "i15729": [
+        "blagga",
+        "flagga",
+        "blarf"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

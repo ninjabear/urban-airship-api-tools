@@ -1,0 +1,15 @@
+{
+  "id": "62346871-90aa-11e5-abfe-001018957618",
+  "offset": "0",
+  "occurred": "2015-11-21T23:48:37.111Z",
+  "processed": "2015-11-21T23:48:39.660Z",
+  "device": {
+    "android_channel": "fa77078a-be36-4bcd-8e86-e1081d588834",
+    "named_user_id": "supportbackup"
+  },
+  "body": {
+    "push_id": "d5a49aff-8418-4be1-b2f6-12040c638e53",
+    "group_id": "7ba0f91a-bb67-4c57-b568-873268c82fc9"
+  },
+  "type": "SEND"
+}

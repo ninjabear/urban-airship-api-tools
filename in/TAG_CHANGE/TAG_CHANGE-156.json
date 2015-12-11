@@ -1,20 +1,22 @@
 {
-  "id": "00000151-3d11-0154-2e36-051a6b08090a",
-  "offset": "0",
-  "occurred": "2015-11-25T05:15:03.380Z",
-  "processed": "2015-11-25T06:00:40.640Z",
+  "id": "2e19ad36-4b90-278d-194f-d3428e2873a8",
+  "offset": "156",
+  "occurred": "2015-11-13T16:34:27.393Z",
+  "processed": "2015-11-13T16:34:27.393Z",
   "device": {
-    "android_channel": "99f0a648-b505-4534-8a1f-5d9d6aec996c"
+    "android_channel": "4a30dde6-67cd-2039-4e77-9f65a80d2a30"
   },
   "body": {
     "add": {
-      "ua_android_sdk_version": [
-        "6.3.X"
+      "device": [
+        "sweatpants"
       ]
     },
     "current": {
-      "ua_android_sdk_version": [
-        "6.3.X"
+      "device": [
+        "sweatpants",
+        "cowboy_boots",
+        "high_tops"
       ]
     }
   },

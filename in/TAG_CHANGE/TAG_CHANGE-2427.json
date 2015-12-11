@@ -1,0 +1,35 @@
+{
+  "id": "00000151-16b3-1a07-6e02-12020801800a",
+  "offset": "0",
+  "occurred": "2015-11-17T18:26:55.111Z",
+  "processed": "2015-11-17T18:26:59.950Z",
+  "device": {
+    "ios_channel": "a946579f-3c31-4ed3-aa39-310240868ca2",
+    "named_user_id": "andreaburton"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "version_160"
+      ]
+    },
+    "remove": {
+      "device": [
+        "version_115"
+      ]
+    },
+    "current": {
+      "device": [
+        "no",
+        "version_160",
+        "andrea",
+        "gregtest",
+        "yes",
+        "weasel",
+        "kermit",
+        "hater"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

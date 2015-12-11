@@ -1,23 +1,18 @@
 {
-  "id": "93e67184-9d91-11e5-90dd-90e2ba025ad8",
-  "offset": "0",
-  "occurred": "2015-12-08T09:53:38.186Z",
-  "processed": "2015-12-08T09:53:48.669Z",
+  "id": "c7b18dbc-71e7-9dbe-7b6e-cba73aecf2ce",
+  "offset": "413",
+  "occurred": "2015-11-13T16:38:44.392Z",
+  "processed": "2015-11-13T16:38:44.392Z",
   "device": {
-    "android_channel": "1d984322-0fca-4c61-9ca3-9fcc34a5ab54",
-    "named_user_id": "CyMon"
+    "amazon_channel": "a3923a86-ab96-19aa-5acd-f919130c1d9d"
   },
   "body": {
     "triggering_push": {
-      "push_id": "8c6cba37-35de-496e-8faa-5dd31091af1d",
-      "group_id": "2f57b9e9-8cb2-42a8-9994-35ce8585f041",
-      "time": "2015-12-08T00:17:13.240Z"
+      "push_id": "c3c07734-a1ab-386d-575d-cddd988c57bf"
     },
-    "session_id": "4c955c76-9404-439c-a242-2506713f48b4",
+    "session_id": "232ca86a-71b2-a25c-7584-5572960e117d",
     "last_delivered": {
-      "push_id": "8c6cba37-35de-496e-8faa-5dd31091af1d",
-      "group_id": "2f57b9e9-8cb2-42a8-9994-35ce8585f041",
-      "time": "2015-12-08T00:17:13.240Z"
+      "push_id": "a524a742-2e58-9a20-e33f-1b2766a34d91"
     }
   },
   "type": "OPEN"

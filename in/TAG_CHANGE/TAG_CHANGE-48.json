@@ -1,21 +1,24 @@
 {
-  "id": "00000151-13e3-18cf-6e65-021a6808060a",
-  "offset": "0",
-  "occurred": "2015-11-17T05:20:28.879Z",
-  "processed": "2015-11-17T12:44:58.924Z",
+  "id": "1edce747-27a5-d691-476e-424f2e4e0c37",
+  "offset": "48",
+  "occurred": "2015-11-13T16:32:39.394Z",
+  "processed": "2015-11-13T16:32:39.394Z",
   "device": {
-    "ios_channel": "f361066b-8f51-462c-a785-406dc7bcc127",
-    "named_user_id": "Donato"
+    "android_channel": "8ca9a5da-b43d-a18e-a261-6ffb4b277153"
   },
   "body": {
     "add": {
-      "ua_locale_language": [
-        "en"
+      "device": [
+        "high_heels"
       ]
     },
     "current": {
-      "ua_locale_language": [
-        "en"
+      "device": [
+        "high_heels",
+        "bow_ties",
+        "dress_shirts",
+        "omg_shoes",
+        "dad_jeans"
       ]
     }
   },

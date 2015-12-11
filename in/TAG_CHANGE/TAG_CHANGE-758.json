@@ -1,0 +1,26 @@
+{
+  "id": "c9f4803f-e014-55ef-1dea-06e277d638a0",
+  "offset": "758",
+  "occurred": "2015-11-13T16:44:29.394Z",
+  "processed": "2015-11-13T16:44:29.394Z",
+  "device": {
+    "amazon_channel": "abf1f543-7a7f-196a-6699-22e43c91b40c"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "cowboy_boots",
+        "turtlenecks",
+        "bow_ties",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

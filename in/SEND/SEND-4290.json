@@ -1,0 +1,15 @@
+{
+  "id": "26e137f1-9a30-11e5-b1c2-90e2ba213b30",
+  "offset": "0",
+  "occurred": "2015-12-04T02:38:50.607Z",
+  "processed": "2015-12-04T02:38:50.869Z",
+  "device": {
+    "ios_channel": "583b9c45-1ccc-43a4-96ff-f871c71cabea",
+    "named_user_id": "dick_heydet"
+  },
+  "body": {
+    "push_id": "94cfa1e2-3590-4eaf-9fe0-528cb9b9137f",
+    "group_id": "ae3383a3-64c3-456c-ae25-08766ee43c5f"
+  },
+  "type": "SEND"
+}

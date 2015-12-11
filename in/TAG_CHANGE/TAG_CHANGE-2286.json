@@ -1,0 +1,26 @@
+{
+  "id": "bd30953e-4b95-edcc-49e2-e52ae44517aa",
+  "offset": "2286",
+  "occurred": "2015-11-13T17:09:57.394Z",
+  "processed": "2015-11-13T17:09:57.394Z",
+  "device": {
+    "amazon_channel": "158e90e0-834c-4c53-308e-4ab138ddc873"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "that_one_ratty_tshirt"
+      ]
+    },
+    "current": {
+      "device": [
+        "that_one_ratty_tshirt",
+        "high_tops",
+        "sombreros",
+        "bow_ties",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

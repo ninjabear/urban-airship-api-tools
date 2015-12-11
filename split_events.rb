@@ -34,9 +34,14 @@ end
 
 Dir.chdir './in'
 
+count = 0
 jsons.keys.each do |key|
   Dir.mkdir key
   jsons[key].each_with_index do |itm, idx|
     File.write("#{key}/#{key}-#{idx}.json", JSON.pretty_generate(itm))
+    count += 1
   end
 end
+
+puts
+puts "generated #{count} sample files"

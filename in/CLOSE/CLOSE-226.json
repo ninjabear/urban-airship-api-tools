@@ -1,13 +1,13 @@
 {
-  "id": "f0a781d0-9304-11e5-aebf-90e2ba2730f8",
-  "offset": "0",
-  "occurred": "2015-11-24T23:41:04.745Z",
-  "processed": "2015-11-24T23:41:54.212Z",
+  "id": "ccaef984-eb0b-6ea8-0c46-682820e70cf6",
+  "offset": "226",
+  "occurred": "2015-11-13T16:35:37.393Z",
+  "processed": "2015-11-13T16:35:37.393Z",
   "device": {
-    "android_channel": "6a0435bb-8ed7-43d5-9319-4e66528088d7"
+    "ios_channel": "83a0fbff-2a54-b3ca-70bb-42b7e183c956"
   },
   "body": {
-    "session_id": "6055730c-0ed6-4f7d-b7b9-aa2b2f867605"
+    "session_id": "7c01e24c-2284-78ca-197a-e1952dcbbf40"
   },
   "type": "CLOSE"
 }

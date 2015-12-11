@@ -1,21 +1,24 @@
 {
-  "id": "00000151-8005-40da-6d41-131a0608170a",
-  "offset": "0",
-  "occurred": "2015-12-08T05:16:46.682Z",
-  "processed": "2015-12-08T06:21:07.666Z",
+  "id": "e3d4dc4f-c413-1612-7414-84f03fc7ad98",
+  "offset": "222",
+  "occurred": "2015-11-13T16:35:33.393Z",
+  "processed": "2015-11-13T16:35:33.393Z",
   "device": {
-    "ios_channel": "109dfd99-099d-4000-bf6c-f5507c588e09",
-    "named_user_id": "potato"
+    "android_channel": "a4f25bb3-7659-2105-0041-b548052ee324"
   },
   "body": {
     "add": {
-      "timezone": [
-        "America/Los_Angeles"
+      "device": [
+        "raincoats"
       ]
     },
     "current": {
-      "timezone": [
-        "America/Los_Angeles"
+      "device": [
+        "raincoats",
+        "that_one_ratty_tshirt",
+        "sweatpants",
+        "omg_shoes",
+        "high_tops"
       ]
     }
   },

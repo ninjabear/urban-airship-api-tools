@@ -1,0 +1,25 @@
+{
+  "id": "edb7e4e6-058b-f209-cb8f-0a312826ae3c",
+  "offset": "1813",
+  "occurred": "2015-11-13T17:02:04.393Z",
+  "processed": "2015-11-13T17:02:04.393Z",
+  "device": {
+    "amazon_channel": "8148b7f3-33ee-6732-77dc-4f35db38e22d"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "suspenders"
+      ]
+    },
+    "current": {
+      "device": [
+        "suspenders",
+        "that_one_ratty_tshirt",
+        "high_heels",
+        "dad_jeans"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

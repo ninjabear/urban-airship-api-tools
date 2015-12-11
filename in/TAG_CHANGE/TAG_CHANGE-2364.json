@@ -1,0 +1,25 @@
+{
+  "id": "0e082a79-b088-6179-6338-c1c41711ac90",
+  "offset": "2364",
+  "occurred": "2015-11-13T17:11:15.393Z",
+  "processed": "2015-11-13T17:11:15.393Z",
+  "device": {
+    "android_channel": "625d843c-3862-5463-9cd0-4f3e2bf22cde"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_heels"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_heels",
+        "graphic_tees",
+        "suspenders",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

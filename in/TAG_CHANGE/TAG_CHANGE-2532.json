@@ -1,0 +1,22 @@
+{
+  "id": "00000151-3d13-df9a-5355-021a6708060a",
+  "offset": "0",
+  "occurred": "2015-11-25T05:18:11.354Z",
+  "processed": "2015-11-25T06:24:19.477Z",
+  "device": {
+    "android_channel": "c850f8e8-30ce-4106-a956-d86093e688d7"
+  },
+  "body": {
+    "add": {
+      "ua_locale_country": [
+        "US"
+      ]
+    },
+    "current": {
+      "ua_locale_country": [
+        "US"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

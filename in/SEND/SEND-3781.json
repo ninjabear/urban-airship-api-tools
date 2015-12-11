@@ -1,0 +1,14 @@
+{
+  "id": "522c06a5-94fa-11e5-abfe-001018957618",
+  "offset": "0",
+  "occurred": "2015-11-27T11:30:54.602Z",
+  "processed": "2015-11-27T11:30:55.317Z",
+  "device": {
+    "android_channel": "ed79ace3-f7cf-4500-a6ad-c917f83f6e4e",
+    "named_user_id": "wilburtz"
+  },
+  "body": {
+    "push_id": "11b50ff6-8ed6-49d9-a69e-48020741ad59"
+  },
+  "type": "SEND"
+}

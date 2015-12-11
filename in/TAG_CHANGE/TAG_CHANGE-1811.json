@@ -1,0 +1,26 @@
+{
+  "id": "8ab22486-0164-3453-409a-c06e7e4ef50f",
+  "offset": "1811",
+  "occurred": "2015-11-13T17:02:02.393Z",
+  "processed": "2015-11-13T17:02:02.393Z",
+  "device": {
+    "amazon_channel": "159cc0c3-1899-4105-90a8-480eb01c02c0",
+    "named_user_id": "cc4b287f-9c1d-5f69-b185-9625ed3cefa0"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "turtlenecks",
+        "cowboy_boots",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

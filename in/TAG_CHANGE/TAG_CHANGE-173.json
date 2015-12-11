@@ -1,26 +1,23 @@
 {
-  "id": "00000151-4c80-4534-6d41-13120608290a",
-  "offset": "0",
-  "occurred": "2015-11-28T05:10:53.492Z",
-  "processed": "2015-11-28T06:57:18.821Z",
+  "id": "114f6067-5d93-2a7d-dbba-34ca263c42cc",
+  "offset": "173",
+  "occurred": "2015-11-13T16:34:44.394Z",
+  "processed": "2015-11-13T16:34:44.394Z",
   "device": {
-    "android_channel": "3a8e2cd0-81b2-4559-a559-67eaae7f3c12",
-    "named_user_id": "dj"
+    "ios_channel": "24b81b57-93a2-720b-79bb-c95217e8c39a",
+    "named_user_id": "c9ff605d-5548-c468-2345-84c765d57c3c"
   },
   "body": {
     "add": {
-      "timezone": [
-        "America/New_York"
-      ]
-    },
-    "remove": {
-      "timezone": [
-        "America/Los_Angeles"
+      "device": [
+        "cowboy_boots"
       ]
     },
     "current": {
-      "timezone": [
-        "America/New_York"
+      "device": [
+        "cowboy_boots",
+        "high_heels",
+        "startup_tees"
       ]
     }
   },

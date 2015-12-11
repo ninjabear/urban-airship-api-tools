@@ -1,0 +1,25 @@
+{
+  "id": "48177c8d-e6f3-0f6f-37bc-0542ff64f93d",
+  "offset": "2151",
+  "occurred": "2015-11-13T17:07:42.393Z",
+  "processed": "2015-11-13T17:07:42.393Z",
+  "device": {
+    "android_channel": "66dc0321-3a07-a65e-ab6a-344b5267938f"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "graphic_tees",
+        "cowboy_boots",
+        "dress_shirts"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

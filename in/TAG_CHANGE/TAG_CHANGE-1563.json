@@ -1,0 +1,25 @@
+{
+  "id": "7a6d8678-053f-ecc5-83a7-34cb4f23c870",
+  "offset": "1563",
+  "occurred": "2015-11-13T16:57:54.394Z",
+  "processed": "2015-11-13T16:57:54.394Z",
+  "device": {
+    "ios_channel": "a8622fa5-c321-2f6d-10bf-e050568676f8"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "bow_ties",
+        "that_one_ratty_tshirt",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

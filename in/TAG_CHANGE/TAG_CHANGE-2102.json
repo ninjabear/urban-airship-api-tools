@@ -1,0 +1,26 @@
+{
+  "id": "4e857623-df76-e8a2-6ced-a6ba4368ebf0",
+  "offset": "2102",
+  "occurred": "2015-11-13T17:06:53.394Z",
+  "processed": "2015-11-13T17:06:53.394Z",
+  "device": {
+    "ios_channel": "f504ffac-cf70-6c11-ef68-86a88f6bc386"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "suspenders"
+      ]
+    },
+    "current": {
+      "device": [
+        "suspenders",
+        "raincoats",
+        "cowboy_boots",
+        "bow_ties",
+        "high_tops"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

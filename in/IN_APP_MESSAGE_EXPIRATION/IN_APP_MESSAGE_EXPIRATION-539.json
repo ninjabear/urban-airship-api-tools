@@ -1,0 +1,14 @@
+{
+  "id": "a46c11c5-de1d-6e83-f89b-5a5774ee85b9",
+  "offset": "2096",
+  "occurred": "2015-11-13T17:06:47.394Z",
+  "processed": "2015-11-13T17:06:47.394Z",
+  "device": {
+    "android_channel": "a1f168fb-019e-b589-9cb6-50c5630f0b4e"
+  },
+  "body": {
+    "push_id": "a339e011-558d-c507-621f-f10576c28f9c",
+    "type": "ALREADY_DISPLAYED"
+  },
+  "type": "IN_APP_MESSAGE_EXPIRATION"
+}

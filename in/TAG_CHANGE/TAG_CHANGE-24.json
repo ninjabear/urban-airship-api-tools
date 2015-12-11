@@ -1,26 +1,23 @@
 {
-  "id": "00000151-047e-187d-2e38-05126c08100a",
-  "offset": "0",
-  "occurred": "2015-11-14T05:35:51.421Z",
-  "processed": "2015-11-14T09:15:13.432Z",
+  "id": "9dc8f3e8-1625-e0d0-56bb-a0c59d2de29c",
+  "offset": "24",
+  "occurred": "2015-11-13T16:32:15.394Z",
+  "processed": "2015-11-13T16:32:15.394Z",
   "device": {
-    "ios_channel": "c5043985-0a62-4b0a-87af-57e76284a426",
-    "named_user_id": "jvoorhis"
+    "amazon_channel": "92c6e88d-be85-2e09-62cb-7b4a07a10844"
   },
   "body": {
     "add": {
-      "ua_ios_version": [
-        "9.1.X"
-      ]
-    },
-    "remove": {
-      "ua_ios_version": [
-        "8.0.X"
+      "device": [
+        "suspenders"
       ]
     },
     "current": {
-      "ua_ios_version": [
-        "9.1.X"
+      "device": [
+        "suspenders",
+        "high_tops",
+        "raincoats",
+        "omg_shoes"
       ]
     }
   },

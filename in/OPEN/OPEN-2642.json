@@ -1,0 +1,18 @@
+{
+  "id": "8d5f8681-99e0-11e5-a094-90e2ba211bf8",
+  "offset": "0",
+  "occurred": "2015-11-14T06:00:09.651Z",
+  "processed": "2015-12-03T17:09:03.724Z",
+  "device": {
+    "ios_channel": "407755c5-5590-45d6-b35d-5ae7c98183d4",
+    "named_user_id": "kermit"
+  },
+  "body": {
+    "session_id": "b9499515-495f-4ad3-b12d-5c312a5383ad",
+    "last_delivered": {
+      "push_id": "908dd9e2-eb4d-48a8-a2be-a3790cc87bb3",
+      "time": "2015-11-13T20:16:46.862Z"
+    }
+  },
+  "type": "OPEN"
+}

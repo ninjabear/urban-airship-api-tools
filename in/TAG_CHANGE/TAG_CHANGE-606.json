@@ -1,0 +1,26 @@
+{
+  "id": "00d023fe-99aa-70fc-2489-91cd12930820",
+  "offset": "606",
+  "occurred": "2015-11-13T16:41:57.394Z",
+  "processed": "2015-11-13T16:41:57.394Z",
+  "device": {
+    "ios_channel": "295526fa-565a-cf74-1300-649b2ace539c",
+    "named_user_id": "9c4b2ece-cc73-52d0-2320-a9f50fe79efb"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sweatpants"
+      ]
+    },
+    "current": {
+      "device": [
+        "sweatpants",
+        "raincoats",
+        "high_heels",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

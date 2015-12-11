@@ -53,6 +53,7 @@
         "$.data.body.remove.ua_locale_language",
         "$.data.body.remove.ua_location_enabled",
         "$.data.body.remove.ua_opt_in",
+        "$.data.device.amazon_channel",
         "$.data.device.android_channel",
         "$.data.device.ios_channel",
         "$.data.device.named_user_id",

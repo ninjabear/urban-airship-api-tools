@@ -1,0 +1,25 @@
+{
+  "id": "661473fc-aa92-f30d-448f-15bc1e309a4d",
+  "offset": "1891",
+  "occurred": "2015-11-13T17:03:22.393Z",
+  "processed": "2015-11-13T17:03:22.393Z",
+  "device": {
+    "amazon_channel": "9120f8f5-cda3-0616-aca4-bd77e7afdf68"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_heels"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_heels",
+        "dad_jeans",
+        "bow_ties",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

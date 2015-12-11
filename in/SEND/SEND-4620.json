@@ -1,0 +1,15 @@
+{
+  "id": "079c0a53-9d41-11e5-82b5-001b21ce44e0",
+  "offset": "0",
+  "occurred": "2015-12-08T00:17:13.077Z",
+  "processed": "2015-12-08T00:17:14.796Z",
+  "device": {
+    "ios_channel": "04a9debb-59d6-4c62-b1ef-2c8e5fcac03e",
+    "named_user_id": "joey_freedman"
+  },
+  "body": {
+    "push_id": "664d9b31-e3da-41f7-a920-2df1ec0bc724",
+    "group_id": "2f57b9e9-8cb2-42a8-9994-35ce8585f041"
+  },
+  "type": "SEND"
+}

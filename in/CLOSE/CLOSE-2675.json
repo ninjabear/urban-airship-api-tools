@@ -1,0 +1,14 @@
+{
+  "id": "190f2963-99e6-11e5-a094-90e2ba211bf8",
+  "offset": "0",
+  "occurred": "2015-12-03T17:48:44.662Z",
+  "processed": "2015-12-03T17:48:45.664Z",
+  "device": {
+    "ios_channel": "407755c5-5590-45d6-b35d-5ae7c98183d4",
+    "named_user_id": "kermit"
+  },
+  "body": {
+    "session_id": "3a43af62-d806-4f44-907f-80add18acbc2"
+  },
+  "type": "CLOSE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "23ac3b99-01c4-9303-917e-e35d95e3fccc",
+  "offset": "1860",
+  "occurred": "2015-11-13T17:02:51.393Z",
+  "processed": "2015-11-13T17:02:51.393Z",
+  "device": {
+    "amazon_channel": "f8e36a2c-c399-8332-cece-34e2bc712e89"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "turtlenecks"
+      ]
+    },
+    "current": {
+      "device": [
+        "turtlenecks",
+        "dad_jeans",
+        "sombreros",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

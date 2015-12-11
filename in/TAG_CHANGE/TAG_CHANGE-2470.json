@@ -1,0 +1,88 @@
+{
+  "id": "00000151-2676-e5dd-5069-06120208490a",
+  "offset": "0",
+  "occurred": "2015-11-20T19:55:05.053Z",
+  "processed": "2015-11-20T19:55:10.079Z",
+  "device": {
+    "ios_channel": "ecf0b08b-806f-47b6-95cc-246129521461",
+    "named_user_id": "Ryan_Goff"
+  },
+  "body": {
+    "remove": {
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_locale_language": [
+        "en"
+      ],
+      "ua_ios_version": [
+        "8.0.X"
+      ],
+      "timezone": [
+        "America/Los_Angeles"
+      ],
+      "ua_locale_country": [
+        "US"
+      ],
+      "ua_opt_in": [
+        "true"
+      ],
+      "ua_ios_sdk_version": [
+        "6.0.X"
+      ],
+      "ua_location_enabled": [
+        "false"
+      ],
+      "device": [
+        "iPhone",
+        "Ryan_Goff",
+        "version_109",
+        "language_en",
+        "AbandonedBag",
+        "country_US"
+      ],
+      "ua_ios_model": [
+        "iPhone4,1"
+      ],
+      "ua_ios_app_version": [
+        "109"
+      ]
+    },
+    "current": {
+      "ua_background_enabled": [
+
+      ],
+      "ua_locale_language": [
+
+      ],
+      "ua_ios_version": [
+
+      ],
+      "timezone": [
+
+      ],
+      "ua_locale_country": [
+
+      ],
+      "ua_opt_in": [
+
+      ],
+      "ua_ios_sdk_version": [
+
+      ],
+      "ua_location_enabled": [
+
+      ],
+      "device": [
+
+      ],
+      "ua_ios_model": [
+
+      ],
+      "ua_ios_app_version": [
+
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "d1516c5d-dd2a-66b4-7972-f1eded514714",
+  "offset": "849",
+  "occurred": "2015-11-13T16:46:00.393Z",
+  "processed": "2015-11-13T16:46:00.393Z",
+  "device": {
+    "amazon_channel": "a5e7da79-087b-cad5-be09-a2055810fabd"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "dress_shirts",
+        "swimsuits",
+        "cowboy_boots",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

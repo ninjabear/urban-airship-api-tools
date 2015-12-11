@@ -1,0 +1,26 @@
+{
+  "id": "48bd0969-b3ff-982e-4dab-80f33fd633fe",
+  "offset": "1041",
+  "occurred": "2015-11-13T16:49:12.394Z",
+  "processed": "2015-11-13T16:49:12.394Z",
+  "device": {
+    "amazon_channel": "1a695f0a-f743-7d5d-f879-7d91ec3b2c00"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "that_one_ratty_tshirt"
+      ]
+    },
+    "current": {
+      "device": [
+        "that_one_ratty_tshirt",
+        "high_heels",
+        "turtlenecks",
+        "swimsuits",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

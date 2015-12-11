@@ -1,14 +1,13 @@
 {
-  "id": "9add5971-946a-11e5-abfe-001018957618",
-  "offset": "0",
-  "occurred": "2015-11-26T18:22:09.031Z",
-  "processed": "2015-11-26T18:22:09.893Z",
+  "id": "9019a010-3213-be22-5572-efd1f1b5550d",
+  "offset": "1363",
+  "occurred": "2015-11-13T16:54:34.393Z",
+  "processed": "2015-11-13T16:54:34.393Z",
   "device": {
-    "android_channel": "c1227887-2683-454e-beae-9018290948a3",
-    "named_user_id": "misty2"
+    "ios_channel": "9cee6e30-8d23-90e9-58d0-a415aa4c1c9a"
   },
   "body": {
-    "push_id": "75ac9fac-4dfc-4894-bb9d-aeb7bac95cd8"
+    "push_id": "e0bd5df6-d8be-0807-96d5-12f897b4ee4d"
   },
   "type": "SEND"
 }

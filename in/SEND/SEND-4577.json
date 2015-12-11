@@ -1,0 +1,15 @@
+{
+  "id": "07b51097-9d41-11e5-98bd-d4bed9a886a2",
+  "offset": "0",
+  "occurred": "2015-12-08T00:17:13.241Z",
+  "processed": "2015-12-08T00:17:14.221Z",
+  "device": {
+    "android_channel": "3a8e2cd0-81b2-4559-a559-67eaae7f3c12",
+    "named_user_id": "dj"
+  },
+  "body": {
+    "push_id": "8c6cba37-35de-496e-8faa-5dd31091af1d",
+    "group_id": "2f57b9e9-8cb2-42a8-9994-35ce8585f041"
+  },
+  "type": "SEND"
+}

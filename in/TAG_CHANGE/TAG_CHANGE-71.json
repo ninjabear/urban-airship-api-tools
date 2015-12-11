@@ -1,21 +1,23 @@
 {
-  "id": "00000151-1903-6bff-5069-091a69080d0a",
-  "offset": "0",
-  "occurred": "2015-11-18T05:13:53.407Z",
-  "processed": "2015-11-18T06:04:47.349Z",
+  "id": "924308b7-58e1-ffa0-c648-fc6eb1a7eb2d",
+  "offset": "71",
+  "occurred": "2015-11-13T16:33:02.394Z",
+  "processed": "2015-11-13T16:33:02.394Z",
   "device": {
-    "ios_channel": "11087c5c-dc24-441e-ab63-5099a69d691e",
-    "named_user_id": "adam"
+    "ios_channel": "32798863-6bff-68f6-0334-50423f07fa2f"
   },
   "body": {
     "add": {
-      "ua_ios_model": [
-        "iPhone8,1"
+      "device": [
+        "that_one_ratty_tshirt"
       ]
     },
     "current": {
-      "ua_ios_model": [
-        "iPhone8,1"
+      "device": [
+        "that_one_ratty_tshirt",
+        "swimsuits",
+        "dress_shirts",
+        "sweatpants"
       ]
     }
   },

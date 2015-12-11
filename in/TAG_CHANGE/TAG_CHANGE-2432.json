@@ -1,0 +1,23 @@
+{
+  "id": "00000151-13e1-8f3a-5355-021a6708060a",
+  "offset": "0",
+  "occurred": "2015-11-17T05:18:48.122Z",
+  "processed": "2015-11-17T09:07:32.767Z",
+  "device": {
+    "ios_channel": "62ccb785-adf7-4cdc-872a-4226a22be31a",
+    "named_user_id": "gatlin"
+  },
+  "body": {
+    "add": {
+      "ua_locale_country": [
+        "US"
+      ]
+    },
+    "current": {
+      "ua_locale_country": [
+        "US"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

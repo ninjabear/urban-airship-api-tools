@@ -1,0 +1,25 @@
+{
+  "id": "fc555a7d-13c0-db05-0b2d-f1dc7e1cb8c9",
+  "offset": "1156",
+  "occurred": "2015-11-13T16:51:07.393Z",
+  "processed": "2015-11-13T16:51:07.393Z",
+  "device": {
+    "amazon_channel": "7d3bc13a-3ed2-bba6-453c-a0192661b441"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "swimsuits"
+      ]
+    },
+    "current": {
+      "device": [
+        "swimsuits",
+        "raincoats",
+        "graphic_tees",
+        "dad_jeans"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

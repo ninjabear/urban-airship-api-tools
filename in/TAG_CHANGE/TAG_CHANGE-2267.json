@@ -1,0 +1,26 @@
+{
+  "id": "ae852e1c-aa55-db2e-be87-438d36cea067",
+  "offset": "2267",
+  "occurred": "2015-11-13T17:09:38.394Z",
+  "processed": "2015-11-13T17:09:38.394Z",
+  "device": {
+    "android_channel": "515e5162-7aad-3da7-a442-51c417999fdd"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "that_one_ratty_tshirt",
+        "dad_jeans",
+        "swimsuits",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

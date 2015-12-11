@@ -1,0 +1,27 @@
+{
+  "id": "48af8ffd-70d2-0097-aca4-f54b20105380",
+  "offset": "291",
+  "occurred": "2015-11-13T16:36:42.393Z",
+  "processed": "2015-11-13T16:36:42.393Z",
+  "device": {
+    "amazon_channel": "6a56e592-c11e-4220-a374-cb6db797094a",
+    "named_user_id": "47fd9515-07de-579a-f13a-8c6a908da484"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "swimsuits"
+      ]
+    },
+    "current": {
+      "device": [
+        "swimsuits",
+        "high_tops",
+        "bow_ties",
+        "raincoats",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

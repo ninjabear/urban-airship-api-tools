@@ -1,21 +1,22 @@
 {
-  "id": "00000151-13e1-8f3a-2e36-051a6a08090a",
-  "offset": "0",
-  "occurred": "2015-11-17T05:18:48.122Z",
-  "processed": "2015-11-17T09:07:32.816Z",
+  "id": "79e52814-c2e7-733e-1ddc-69233af3bb00",
+  "offset": "62",
+  "occurred": "2015-11-13T16:32:53.394Z",
+  "processed": "2015-11-13T16:32:53.394Z",
   "device": {
-    "ios_channel": "62ccb785-adf7-4cdc-872a-4226a22be31a",
-    "named_user_id": "gatlin"
+    "android_channel": "fdfc3e08-ae04-50ef-064e-017795003408"
   },
   "body": {
     "add": {
-      "ua_ios_sdk_version": [
-        "6.3.X"
+      "device": [
+        "omg_shoes"
       ]
     },
     "current": {
-      "ua_ios_sdk_version": [
-        "6.3.X"
+      "device": [
+        "omg_shoes",
+        "suspenders",
+        "graphic_tees"
       ]
     }
   },

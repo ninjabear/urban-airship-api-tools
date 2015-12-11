@@ -1,0 +1,25 @@
+{
+  "id": "d276c813-affa-6082-ec82-eb94f130be7a",
+  "offset": "1893",
+  "occurred": "2015-11-13T17:03:24.393Z",
+  "processed": "2015-11-13T17:03:24.393Z",
+  "device": {
+    "amazon_channel": "6df8ddc5-5599-fc70-7591-730eadf5bcb1"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sweatpants"
+      ]
+    },
+    "current": {
+      "device": [
+        "sweatpants",
+        "bow_ties",
+        "graphic_tees",
+        "cowboy_boots"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

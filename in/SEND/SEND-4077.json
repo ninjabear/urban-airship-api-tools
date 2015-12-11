@@ -1,0 +1,14 @@
+{
+  "id": "b0b85a11-9960-11e5-b1c2-90e2ba213b30",
+  "offset": "0",
+  "occurred": "2015-12-03T01:53:46.545Z",
+  "processed": "2015-12-03T01:53:47.815Z",
+  "device": {
+    "ios_channel": "a946579f-3c31-4ed3-aa39-310240868ca2",
+    "named_user_id": "andreaburton"
+  },
+  "body": {
+    "push_id": "d7f9ac5c-6a33-4801-b805-7eb8d2bb49af"
+  },
+  "type": "SEND"
+}

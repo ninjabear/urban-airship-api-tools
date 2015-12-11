@@ -1,20 +1,24 @@
 {
-  "id": "00000151-13e2-21e7-6e65-021a6808060a",
-  "offset": "0",
-  "occurred": "2015-11-17T05:19:25.671Z",
-  "processed": "2015-11-17T10:03:31.031Z",
+  "id": "28d33b19-9ae2-5105-b313-f5a579a03a94",
+  "offset": "41",
+  "occurred": "2015-11-13T16:32:32.394Z",
+  "processed": "2015-11-13T16:32:32.394Z",
   "device": {
-    "ios_channel": "693aaecb-c773-4155-8d8d-5ad15cb4370d"
+    "amazon_channel": "7c876dc0-9f0e-7696-027b-b299e616f5af"
   },
   "body": {
     "add": {
-      "ua_locale_language": [
-        "en"
+      "device": [
+        "sombreros"
       ]
     },
     "current": {
-      "ua_locale_language": [
-        "en"
+      "device": [
+        "sombreros",
+        "that_one_ratty_tshirt",
+        "startup_tees",
+        "cowboy_boots",
+        "high_tops"
       ]
     }
   },

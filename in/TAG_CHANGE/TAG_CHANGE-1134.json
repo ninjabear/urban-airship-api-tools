@@ -1,0 +1,26 @@
+{
+  "id": "442beb79-fc8c-4222-ab9e-8f98f4f0b844",
+  "offset": "1134",
+  "occurred": "2015-11-13T16:50:45.393Z",
+  "processed": "2015-11-13T16:50:45.393Z",
+  "device": {
+    "ios_channel": "5381a592-2be3-8bb3-aff8-d435932cae0b"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "sombreros",
+        "bow_ties",
+        "high_tops",
+        "high_heels"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

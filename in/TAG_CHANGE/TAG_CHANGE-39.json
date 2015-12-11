@@ -1,20 +1,24 @@
 {
-  "id": "00000151-13e2-21e7-2e36-051a6a08090a",
-  "offset": "0",
-  "occurred": "2015-11-17T05:19:25.671Z",
-  "processed": "2015-11-17T10:03:31.003Z",
+  "id": "fc2d17d6-460a-43d6-c22d-35e0b5376f16",
+  "offset": "39",
+  "occurred": "2015-11-13T16:32:30.394Z",
+  "processed": "2015-11-13T16:32:30.394Z",
   "device": {
-    "ios_channel": "693aaecb-c773-4155-8d8d-5ad15cb4370d"
+    "amazon_channel": "bcde6bd6-d66b-6f83-2d10-824d6f85ec31"
   },
   "body": {
     "add": {
-      "ua_ios_sdk_version": [
-        "6.0.X"
+      "device": [
+        "omg_shoes"
       ]
     },
     "current": {
-      "ua_ios_sdk_version": [
-        "6.0.X"
+      "device": [
+        "omg_shoes",
+        "dad_jeans",
+        "graphic_tees",
+        "swimsuits",
+        "bow_ties"
       ]
     }
   },

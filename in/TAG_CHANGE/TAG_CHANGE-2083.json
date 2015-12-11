@@ -1,0 +1,25 @@
+{
+  "id": "00ffdc2b-a02d-7b64-fcbf-ba3a0d69d346",
+  "offset": "2083",
+  "occurred": "2015-11-13T17:06:34.394Z",
+  "processed": "2015-11-13T17:06:34.394Z",
+  "device": {
+    "amazon_channel": "d911f8b4-598b-b4a5-54d3-1fe78f631b3a"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "omg_shoes",
+        "dress_shirts",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

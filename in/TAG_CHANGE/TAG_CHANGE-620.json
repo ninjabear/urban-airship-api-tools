@@ -1,0 +1,25 @@
+{
+  "id": "11b731cb-426f-7564-d2e9-f801e2cfd4e0",
+  "offset": "620",
+  "occurred": "2015-11-13T16:42:11.393Z",
+  "processed": "2015-11-13T16:42:11.393Z",
+  "device": {
+    "ios_channel": "db6b66e4-54db-1d41-9482-68db4c5058e7"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "cowboy_boots",
+        "raincoats",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

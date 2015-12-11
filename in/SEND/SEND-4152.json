@@ -1,0 +1,15 @@
+{
+  "id": "25ef84f1-9a30-11e5-abfe-001018957618",
+  "offset": "0",
+  "occurred": "2015-12-04T02:38:49.023Z",
+  "processed": "2015-12-04T02:38:49.716Z",
+  "device": {
+    "amazon_channel": "0d0dd0ed-dcc4-46fa-b90c-e02fa43e9d07",
+    "named_user_id": "neel"
+  },
+  "body": {
+    "push_id": "d6c64029-e075-4916-bf03-a9714ec2912b",
+    "group_id": "ae3383a3-64c3-456c-ae25-08766ee43c5f"
+  },
+  "type": "SEND"
+}

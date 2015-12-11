@@ -1,0 +1,14 @@
+{
+  "id": "42238d51-91c1-11e5-82b5-001b21ce44e0",
+  "offset": "0",
+  "occurred": "2015-11-23T09:04:52.901Z",
+  "processed": "2015-11-23T09:04:54.209Z",
+  "device": {
+    "ios_channel": "e339783b-c710-4395-b7ba-5fd3a6a67746",
+    "named_user_id": "coddingtonbear"
+  },
+  "body": {
+    "push_id": "e617112e-aa95-4cce-9a1c-ba3dc4fbc5a9"
+  },
+  "type": "SEND"
+}

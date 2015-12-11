@@ -1,0 +1,14 @@
+{
+  "id": "df856061-8c84-11e5-9a04-90e2ba02f4f8",
+  "offset": "0",
+  "occurred": "2015-11-16T17:10:01.830Z",
+  "processed": "2015-11-16T17:10:02.976Z",
+  "device": {
+    "ios_channel": "c5043985-0a62-4b0a-87af-57e76284a426",
+    "named_user_id": "jvoorhis"
+  },
+  "body": {
+    "push_id": "1abc8fb2-68af-4879-9672-bed2d6240d7c"
+  },
+  "type": "SEND"
+}

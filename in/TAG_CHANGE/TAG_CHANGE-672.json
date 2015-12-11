@@ -1,0 +1,24 @@
+{
+  "id": "090badfe-8767-a01a-e2e2-db68d0e244f1",
+  "offset": "672",
+  "occurred": "2015-11-13T16:43:03.393Z",
+  "processed": "2015-11-13T16:43:03.393Z",
+  "device": {
+    "ios_channel": "87a5b8d9-cb64-a538-ea6e-f9497b40adf3"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sweatpants"
+      ]
+    },
+    "current": {
+      "device": [
+        "sweatpants",
+        "graphic_tees",
+        "cowboy_boots"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

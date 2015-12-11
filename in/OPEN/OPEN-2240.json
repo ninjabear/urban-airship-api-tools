@@ -1,0 +1,19 @@
+{
+  "id": "f86fcb27-3fa1-f1de-c226-9f581487a62e",
+  "offset": "2240",
+  "occurred": "2015-11-13T17:09:11.393Z",
+  "processed": "2015-11-13T17:09:11.393Z",
+  "device": {
+    "amazon_channel": "771b9790-8f7c-fc3b-dec5-a4e3e06c4849"
+  },
+  "body": {
+    "triggering_push": {
+      "push_id": "0c655aac-7459-f79b-8009-89a2527dac7b"
+    },
+    "session_id": "3f3bb4a7-e595-c66b-b4d6-91d4956e256d",
+    "last_delivered": {
+      "push_id": "9b47367d-1acf-265b-4203-1abd44491ef7"
+    }
+  },
+  "type": "OPEN"
+}

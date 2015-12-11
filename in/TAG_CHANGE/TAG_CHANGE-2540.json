@@ -1,0 +1,23 @@
+{
+  "id": "00000151-450c-4a20-696d-051a0208090a",
+  "offset": "0",
+  "occurred": "2015-11-26T18:26:52.064Z",
+  "processed": "2015-11-26T18:26:58.226Z",
+  "device": {
+    "android_channel": "c1227887-2683-454e-beae-9018290948a3",
+    "named_user_id": "misty2"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "misty"
+      ]
+    },
+    "current": {
+      "device": [
+        "misty"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "df463487-8c84-11e5-a7be-001122334455",
+  "offset": "0",
+  "occurred": "2015-11-16T17:10:01.416Z",
+  "processed": "2015-11-16T17:10:02.259Z",
+  "device": {
+    "ios_channel": "373205f8-da24-4799-8b49-ab36b27677d0",
+    "named_user_id": "juliapdx"
+  },
+  "body": {
+    "push_id": "1abc8fb2-68af-4879-9672-bed2d6240d7c"
+  },
+  "type": "SEND"
+}

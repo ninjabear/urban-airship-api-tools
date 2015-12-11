@@ -1,0 +1,15 @@
+{
+  "id": "26e110e5-9a30-11e5-b1c2-90e2ba213b30",
+  "offset": "0",
+  "occurred": "2015-12-04T02:38:50.606Z",
+  "processed": "2015-12-04T02:38:51.905Z",
+  "device": {
+    "ios_channel": "519be14b-a55e-4bd1-8ea1-a688b219401f",
+    "named_user_id": "kevino"
+  },
+  "body": {
+    "push_id": "94cfa1e2-3590-4eaf-9fe0-528cb9b9137f",
+    "group_id": "ae3383a3-64c3-456c-ae25-08766ee43c5f"
+  },
+  "type": "SEND"
+}

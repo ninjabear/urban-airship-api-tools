@@ -1,0 +1,28 @@
+{
+  "id": "00000151-664b-827d-2e39-05126c08100a",
+  "offset": "0",
+  "occurred": "2015-12-03T05:23:23.389Z",
+  "processed": "2015-12-03T23:33:12.798Z",
+  "device": {
+    "ios_channel": "dfaeb5a0-8bd8-43e9-ac2d-3985bfcde0bc",
+    "named_user_id": "Disco_Turkey"
+  },
+  "body": {
+    "add": {
+      "ua_ios_version": [
+        "9.2.X"
+      ]
+    },
+    "remove": {
+      "ua_ios_version": [
+        "9.1.X"
+      ]
+    },
+    "current": {
+      "ua_ios_version": [
+        "9.2.X"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

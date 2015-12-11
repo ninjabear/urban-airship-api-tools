@@ -1,0 +1,24 @@
+{
+  "id": "e68ac1df-8085-887f-0b0f-d8e781df6d5f",
+  "offset": "722",
+  "occurred": "2015-11-13T16:43:53.393Z",
+  "processed": "2015-11-13T16:43:53.393Z",
+  "device": {
+    "amazon_channel": "faa0eb4f-7b38-a283-a6ce-7a84bb10461b"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "omg_shoes"
+      ]
+    },
+    "current": {
+      "device": [
+        "omg_shoes",
+        "that_one_ratty_tshirt",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

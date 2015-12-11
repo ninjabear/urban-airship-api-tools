@@ -1,0 +1,35 @@
+{
+  "id": "00000151-3c10-948a-7073-041202080f0a",
+  "offset": "0",
+  "occurred": "2015-11-25T00:34:58.314Z",
+  "processed": "2015-11-25T00:35:06.868Z",
+  "device": {
+    "android_channel": "99f0a648-b505-4534-8a1f-5d9d6aec996c"
+  },
+  "body": {
+    "remove": {
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_opt_in": [
+        "true"
+      ],
+      "device": [
+        "spam",
+        "lazer"
+      ]
+    },
+    "current": {
+      "ua_background_enabled": [
+
+      ],
+      "ua_opt_in": [
+
+      ],
+      "device": [
+
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "14173ec9-9243-11e5-abfe-001018957618",
+  "offset": "0",
+  "occurred": "2015-11-24T00:34:10.220Z",
+  "processed": "2015-11-24T00:51:07.692Z",
+  "device": {
+    "android_channel": "1d984322-0fca-4c61-9ca3-9fcc34a5ab54",
+    "named_user_id": "CyMon"
+  },
+  "body": {
+    "push_id": "8777c315-e6a5-43cf-94a6-50e225aed3e2"
+  },
+  "type": "SEND"
+}

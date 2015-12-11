@@ -1,21 +1,18 @@
 {
-  "id": "71055ae0-8c8a-11e5-94fc-001018948f58",
-  "offset": "0",
-  "occurred": "2015-11-16T17:49:38.698Z",
-  "processed": "2015-11-16T17:49:54.575Z",
+  "id": "d4e13f31-ef11-83b6-491a-445ff1649cd3",
+  "offset": "25",
+  "occurred": "2015-11-13T16:32:16.393Z",
+  "processed": "2015-11-13T16:32:16.393Z",
   "device": {
-    "ios_channel": "f361066b-8f51-462c-a785-406dc7bcc127",
-    "named_user_id": "Donato"
+    "ios_channel": "ab5d4d11-a9c2-4e80-4f13-df42f820d7f6"
   },
   "body": {
     "triggering_push": {
-      "push_id": "de9ca378-793f-4226-9384-ee45ad516719",
-      "time": "2015-11-16T17:49:34.824Z"
+      "push_id": "72f619a8-7c4e-eac2-ada6-b01f50ccf45f"
     },
-    "session_id": "818592e4-83cc-4a94-bf26-eaf02fc9314c",
+    "session_id": "a2929d7a-db8e-0466-2da6-dbf35e4f736f",
     "last_delivered": {
-      "push_id": "de9ca378-793f-4226-9384-ee45ad516719",
-      "time": "2015-11-16T17:49:34.824Z"
+      "push_id": "506b8545-d399-8796-9676-38dfd2d2cce1"
     }
   },
   "type": "OPEN"

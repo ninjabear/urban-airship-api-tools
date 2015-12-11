@@ -1,0 +1,14 @@
+{
+  "id": "de32ccd1-8fb2-11e5-aebf-90e2ba2730f8",
+  "offset": "0",
+  "occurred": "2015-11-20T18:15:20.792Z",
+  "processed": "2015-11-20T18:16:51.440Z",
+  "device": {
+    "android_channel": "cd02f5ee-3034-430c-97fc-5d18f7536881",
+    "named_user_id": "andypikul"
+  },
+  "body": {
+    "session_id": "fcd76096-2e96-477c-9684-3839a44668d0"
+  },
+  "type": "CLOSE"
+}

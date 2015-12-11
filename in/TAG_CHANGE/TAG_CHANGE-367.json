@@ -1,0 +1,25 @@
+{
+  "id": "15501454-7a2f-9bff-e9d3-9d0db2f03671",
+  "offset": "367",
+  "occurred": "2015-11-13T16:37:58.394Z",
+  "processed": "2015-11-13T16:37:58.394Z",
+  "device": {
+    "ios_channel": "76511f18-f25e-7ea8-494e-f7bfea2e0585"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "dress_shirts",
+        "omg_shoes",
+        "that_one_ratty_tshirt"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

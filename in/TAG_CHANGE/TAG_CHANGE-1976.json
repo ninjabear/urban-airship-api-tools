@@ -1,0 +1,25 @@
+{
+  "id": "14645e86-9278-2f08-acdd-8f3619dcdebf",
+  "offset": "1976",
+  "occurred": "2015-11-13T17:04:47.393Z",
+  "processed": "2015-11-13T17:04:47.393Z",
+  "device": {
+    "ios_channel": "42512bbe-9b8b-eabd-29dc-193774c9c950"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "suspenders",
+        "dress_shirts",
+        "swimsuits"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "00000151-354c-3932-6b75-0a1202086f0a",
+  "offset": "0",
+  "occurred": "2015-11-23T17:02:46.578Z",
+  "processed": "2015-11-23T17:03:51.624Z",
+  "device": {
+    "ios_channel": "bec05bf3-8689-469e-a3c6-a64def381230",
+    "named_user_id": "martinfgoat"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "☃"
+      ]
+    },
+    "current": {
+      "device": [
+        "uk_ia_test",
+        "martinf",
+        "version_160",
+        "add_tag_300",
+        "☃",
+        "nup"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

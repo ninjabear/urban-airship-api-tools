@@ -1,0 +1,25 @@
+{
+  "id": "b797b967-f2cb-359c-7ea3-1feda6c12486",
+  "offset": "1710",
+  "occurred": "2015-11-13T17:00:21.393Z",
+  "processed": "2015-11-13T17:00:21.393Z",
+  "device": {
+    "android_channel": "5a998679-b553-a84d-660d-e26cdefb5b3f"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "sombreros",
+        "suspenders",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

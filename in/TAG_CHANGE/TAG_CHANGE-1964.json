@@ -1,0 +1,25 @@
+{
+  "id": "ecbc992d-7e54-b3d1-ac6d-5dc973782ff8",
+  "offset": "1964",
+  "occurred": "2015-11-13T17:04:35.393Z",
+  "processed": "2015-11-13T17:04:35.393Z",
+  "device": {
+    "amazon_channel": "57f250fb-e345-8a03-f88e-8e0e78580271"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "omg_shoes"
+      ]
+    },
+    "current": {
+      "device": [
+        "omg_shoes",
+        "dress_shirts",
+        "swimsuits",
+        "that_one_ratty_tshirt"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

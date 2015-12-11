@@ -1,0 +1,14 @@
+{
+  "id": "5a49ef69-3ba9-184c-a737-bbe82a6a52cb",
+  "offset": "763",
+  "occurred": "2015-11-13T16:44:34.393Z",
+  "processed": "2015-11-13T16:44:34.393Z",
+  "device": {
+    "android_channel": "1f384428-adbc-91ad-9437-9793efff230d",
+    "named_user_id": "86123461-7142-60fe-7806-f4fd90b058d2"
+  },
+  "body": {
+    "push_id": "abf95c7c-36ee-388d-6aff-1b8c1086a2e9"
+  },
+  "type": "RICH_DELETE"
+}

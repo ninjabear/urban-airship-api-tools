@@ -1,0 +1,26 @@
+{
+  "id": "c7c03888-2faa-72f0-e2e4-39e3ace1376b",
+  "offset": "1429",
+  "occurred": "2015-11-13T16:55:40.393Z",
+  "processed": "2015-11-13T16:55:40.393Z",
+  "device": {
+    "amazon_channel": "1b99bfdd-c47b-8d2f-bb81-a6a5660e04a3"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "swimsuits",
+        "omg_shoes",
+        "turtlenecks",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

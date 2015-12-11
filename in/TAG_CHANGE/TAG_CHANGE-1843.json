@@ -1,0 +1,26 @@
+{
+  "id": "87bde446-52f0-278e-d6fd-2f832e1ba879",
+  "offset": "1843",
+  "occurred": "2015-11-13T17:02:34.393Z",
+  "processed": "2015-11-13T17:02:34.393Z",
+  "device": {
+    "amazon_channel": "8f9ad47e-b073-4f24-39e5-4071102fef5b"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "high_tops",
+        "cowboy_boots",
+        "dad_jeans",
+        "high_heels"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

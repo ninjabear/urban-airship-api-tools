@@ -1,0 +1,18 @@
+{
+  "id": "ca38f417-8c84-11e5-8730-90e2ba02f390",
+  "offset": "0",
+  "occurred": "2015-11-14T00:13:24.334Z",
+  "processed": "2015-11-16T17:09:27.135Z",
+  "device": {
+    "ios_channel": "dfaeb5a0-8bd8-43e9-ac2d-3985bfcde0bc",
+    "named_user_id": "Disco_Turkey"
+  },
+  "body": {
+    "session_id": "66a61272-1b47-4b85-b13f-53c2635b84d1",
+    "last_delivered": {
+      "push_id": "908dd9e2-eb4d-48a8-a2be-a3790cc87bb3",
+      "time": "2015-11-13T20:16:46.770Z"
+    }
+  },
+  "type": "OPEN"
+}

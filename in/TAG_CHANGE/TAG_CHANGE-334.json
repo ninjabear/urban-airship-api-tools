@@ -1,0 +1,25 @@
+{
+  "id": "c98f398b-364a-bcf5-0290-571c20efe0d3",
+  "offset": "334",
+  "occurred": "2015-11-13T16:37:25.394Z",
+  "processed": "2015-11-13T16:37:25.394Z",
+  "device": {
+    "ios_channel": "5216e1bf-2f6f-eab3-ab90-37d7b75a247b"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sombreros"
+      ]
+    },
+    "current": {
+      "device": [
+        "sombreros",
+        "graphic_tees",
+        "high_tops",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

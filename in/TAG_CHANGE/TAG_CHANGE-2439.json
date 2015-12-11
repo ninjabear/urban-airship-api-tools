@@ -1,0 +1,23 @@
+{
+  "id": "00000151-1903-6bff-5355-021a6708060a",
+  "offset": "0",
+  "occurred": "2015-11-18T05:13:53.407Z",
+  "processed": "2015-11-18T06:04:47.252Z",
+  "device": {
+    "ios_channel": "11087c5c-dc24-441e-ab63-5099a69d691e",
+    "named_user_id": "adam"
+  },
+  "body": {
+    "add": {
+      "ua_locale_country": [
+        "US"
+      ]
+    },
+    "current": {
+      "ua_locale_country": [
+        "US"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ee51e07e-91ff-e947-5a87-18fafe4473fe",
+  "offset": "444",
+  "occurred": "2015-11-13T16:39:15.394Z",
+  "processed": "2015-11-13T16:39:15.394Z",
+  "device": {
+    "amazon_channel": "4bdd9587-c25a-11fd-40f5-17add8953d14",
+    "named_user_id": "3c36810e-ec6f-0964-5b47-672bbca682a4"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dress_shirts"
+      ]
+    },
+    "current": {
+      "device": [
+        "dress_shirts",
+        "graphic_tees",
+        "sombreros",
+        "that_one_ratty_tshirt",
+        "sweatpants"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

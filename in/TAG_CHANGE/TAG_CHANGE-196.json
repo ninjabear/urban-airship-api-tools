@@ -1,20 +1,24 @@
 {
-  "id": "00000151-7095-f112-6564-031a6608070a",
-  "offset": "0",
-  "occurred": "2015-12-05T05:20:53.522Z",
-  "processed": "2015-12-05T13:56:03.172Z",
+  "id": "c6418553-10ab-aaa8-4077-fb7751b5c94b",
+  "offset": "196",
+  "occurred": "2015-11-13T16:35:07.393Z",
+  "processed": "2015-11-13T16:35:07.393Z",
   "device": {
-    "android_channel": "d6a4fea4-d5c6-4a0c-b9fd-bee11d19eed7"
+    "ios_channel": "d3353294-4186-458b-7bb4-3a80c60b1a11"
   },
   "body": {
     "add": {
-      "ua_android_app_version": [
-        "dev"
+      "device": [
+        "sweatpants"
       ]
     },
     "current": {
-      "ua_android_app_version": [
-        "dev"
+      "device": [
+        "sweatpants",
+        "graphic_tees",
+        "dress_shirts",
+        "omg_shoes",
+        "bow_ties"
       ]
     }
   },

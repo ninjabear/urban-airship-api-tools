@@ -1,0 +1,15 @@
+{
+  "id": "4ed5efe3-8b0c-11e5-9a04-90e2ba02f4f8",
+  "offset": "0",
+  "occurred": "2015-11-14T20:14:28.318Z",
+  "processed": "2015-11-14T20:14:31.333Z",
+  "device": {
+    "ios_channel": "7502f1d4-aefb-456e-8466-3be8b0ef1f33",
+    "named_user_id": "david_currie"
+  },
+  "body": {
+    "push_id": "6d3da8b3-fe07-4e8b-b4b9-a0b004bede3e",
+    "group_id": "11c3299b-17bb-46f3-96bb-12ab066261b3"
+  },
+  "type": "SEND"
+}

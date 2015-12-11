@@ -1,26 +1,24 @@
 {
-  "id": "00000151-48b4-6bf3-6241-0c120208380a",
-  "offset": "0",
-  "occurred": "2015-11-27T11:29:22.419Z",
-  "processed": "2015-11-27T11:29:27.302Z",
+  "id": "83153814-2c19-4740-4a19-ebb491cd2b1e",
+  "offset": "167",
+  "occurred": "2015-11-13T16:34:38.394Z",
+  "processed": "2015-11-13T16:34:38.394Z",
   "device": {
-    "ios_channel": "9089f6a6-ae79-4cae-92ec-3e36f300b2b6"
+    "android_channel": "4d9a1b2a-1fd7-dc0a-6aec-55180eb4beca"
   },
   "body": {
     "add": {
       "device": [
-        "version_160"
-      ]
-    },
-    "remove": {
-      "device": [
-        "version_156"
+        "swimsuits"
       ]
     },
     "current": {
       "device": [
-        "version_160",
-        "AbandonedBag"
+        "swimsuits",
+        "turtlenecks",
+        "startup_tees",
+        "omg_shoes",
+        "high_tops"
       ]
     }
   },

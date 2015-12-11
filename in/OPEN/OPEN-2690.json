@@ -1,0 +1,22 @@
+{
+  "id": "10d28211-9aa9-11e5-a094-90e2ba211bf8",
+  "offset": "0",
+  "occurred": "2015-12-04T17:04:08.033Z",
+  "processed": "2015-12-04T17:04:23.644Z",
+  "device": {
+    "ios_channel": "407755c5-5590-45d6-b35d-5ae7c98183d4",
+    "named_user_id": "kermit"
+  },
+  "body": {
+    "triggering_push": {
+      "push_id": "100b46b6-d1f2-4531-913b-0bb02c1103ab",
+      "time": "2015-12-04T17:03:59.503Z"
+    },
+    "session_id": "bb338d1a-42e4-4809-85fa-985839debefe",
+    "last_delivered": {
+      "push_id": "100b46b6-d1f2-4531-913b-0bb02c1103ab",
+      "time": "2015-12-04T17:03:59.503Z"
+    }
+  },
+  "type": "OPEN"
+}

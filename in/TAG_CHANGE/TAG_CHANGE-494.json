@@ -1,0 +1,26 @@
+{
+  "id": "9d9f495e-9e5b-57af-7198-eccc4506e370",
+  "offset": "494",
+  "occurred": "2015-11-13T16:40:05.393Z",
+  "processed": "2015-11-13T16:40:05.393Z",
+  "device": {
+    "amazon_channel": "82b748fb-4778-ed3b-f37f-7156c40ea7fe"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "dress_shirts",
+        "graphic_tees",
+        "raincoats",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

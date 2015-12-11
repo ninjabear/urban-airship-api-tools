@@ -1,10 +1,10 @@
 {
-  "id": "e8fc2f01-930c-11e5-a1e2-d4bed9a829d2",
-  "offset": "0",
-  "occurred": "2015-11-25T00:38:56.243Z",
-  "processed": "2015-11-25T00:38:56.523Z",
+  "id": "d16b51cd-20bc-f412-9ff3-48c1b4b11203",
+  "offset": "4",
+  "occurred": "2015-11-13T16:31:55.394Z",
+  "processed": "2015-11-13T16:31:55.394Z",
   "device": {
-    "android_channel": "c850f8e8-30ce-4106-a956-d86093e688d7"
+    "amazon_channel": "c4853c94-b16a-54b7-4ffa-44aeaf3bd860"
   },
   "type": "UNINSTALL"
 }

@@ -1,0 +1,25 @@
+{
+  "id": "bb1dfd46-c079-2e6b-4f02-2a5ab9859fc2",
+  "offset": "843",
+  "occurred": "2015-11-13T16:45:54.393Z",
+  "processed": "2015-11-13T16:45:54.393Z",
+  "device": {
+    "amazon_channel": "a713b2f5-8209-cce7-601e-85d7adf38df9",
+    "named_user_id": "5631c334-b0c8-9988-80bc-d1ad806c79d2"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "startup_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "startup_tees",
+        "high_heels",
+        "turtlenecks"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2c31c677-13b9-2649-32f7-e49104d263b5",
+  "offset": "796",
+  "occurred": "2015-11-13T16:45:07.393Z",
+  "processed": "2015-11-13T16:45:07.393Z",
+  "device": {
+    "ios_channel": "ebe1c3f2-169d-6f65-b236-456ce7bb7194"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "startup_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "startup_tees",
+        "suspenders",
+        "sweatpants",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

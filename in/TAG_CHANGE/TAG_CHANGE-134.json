@@ -1,21 +1,23 @@
 {
-  "id": "00000151-37eb-382e-6d41-131a0608170a",
-  "offset": "0",
-  "occurred": "2015-11-24T05:15:40.974Z",
-  "processed": "2015-11-24T05:16:16.766Z",
+  "id": "b0b5b116-d9a6-cbf9-bd8b-33f58d69055e",
+  "offset": "134",
+  "occurred": "2015-11-13T16:34:05.394Z",
+  "processed": "2015-11-13T16:34:05.394Z",
   "device": {
-    "ios_channel": "04a9debb-59d6-4c62-b1ef-2c8e5fcac03e",
-    "named_user_id": "joey_freedman"
+    "amazon_channel": "e6df2141-b66d-f253-6afd-83adb5eb8b84"
   },
   "body": {
     "add": {
-      "timezone": [
-        "America/Los_Angeles"
+      "device": [
+        "dress_shirts"
       ]
     },
     "current": {
-      "timezone": [
-        "America/Los_Angeles"
+      "device": [
+        "dress_shirts",
+        "high_heels",
+        "bow_ties",
+        "graphic_tees"
       ]
     }
   },

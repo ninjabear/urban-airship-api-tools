@@ -1,0 +1,26 @@
+{
+  "id": "dcd427bf-a85b-1f46-b362-5b74a373bb93",
+  "offset": "1147",
+  "occurred": "2015-11-13T16:50:58.393Z",
+  "processed": "2015-11-13T16:50:58.393Z",
+  "device": {
+    "amazon_channel": "09ae76f0-f50b-dae7-0c5f-378a4e607463"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "raincoats",
+        "sombreros",
+        "suspenders",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

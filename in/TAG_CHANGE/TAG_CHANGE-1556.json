@@ -1,0 +1,25 @@
+{
+  "id": "e7c7c07e-e58a-7acf-2449-6fcfb944cc0d",
+  "offset": "1556",
+  "occurred": "2015-11-13T16:57:47.393Z",
+  "processed": "2015-11-13T16:57:47.393Z",
+  "device": {
+    "android_channel": "0dec7955-036c-d87a-4c78-1d7ee0fd83ad"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sweatpants"
+      ]
+    },
+    "current": {
+      "device": [
+        "sweatpants",
+        "dad_jeans",
+        "suspenders",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

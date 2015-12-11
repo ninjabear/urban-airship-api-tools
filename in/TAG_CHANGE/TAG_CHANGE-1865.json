@@ -1,0 +1,25 @@
+{
+  "id": "7a59ac53-db26-cc52-f62d-ca89b83daf8f",
+  "offset": "1865",
+  "occurred": "2015-11-13T17:02:56.393Z",
+  "processed": "2015-11-13T17:02:56.393Z",
+  "device": {
+    "ios_channel": "c2f7f74e-827b-b83c-b0df-3788ac1a105a"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "high_heels",
+        "turtlenecks",
+        "that_one_ratty_tshirt"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

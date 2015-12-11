@@ -1,0 +1,25 @@
+{
+  "id": "eff7ac19-baaf-904a-33a5-d59d8642cfad",
+  "offset": "1831",
+  "occurred": "2015-11-13T17:02:22.393Z",
+  "processed": "2015-11-13T17:02:22.393Z",
+  "device": {
+    "ios_channel": "dc469a71-c3b3-0206-cbb9-b91171fcafd4"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "startup_tees",
+        "suspenders",
+        "dress_shirts"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

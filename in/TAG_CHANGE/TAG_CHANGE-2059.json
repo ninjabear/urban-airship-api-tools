@@ -1,0 +1,26 @@
+{
+  "id": "99f744a4-0fc6-dd10-153d-13cd0aaed58a",
+  "offset": "2059",
+  "occurred": "2015-11-13T17:06:10.394Z",
+  "processed": "2015-11-13T17:06:10.394Z",
+  "device": {
+    "android_channel": "4e01a1a4-3a31-6392-dcdd-1698d499643d"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "swimsuits",
+        "dress_shirts",
+        "high_tops",
+        "graphic_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

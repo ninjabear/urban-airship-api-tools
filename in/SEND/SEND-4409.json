@@ -1,0 +1,14 @@
+{
+  "id": "12c80d81-9d3b-11e5-a3d4-d4bed9a8866c",
+  "offset": "0",
+  "occurred": "2015-12-07T23:34:34.840Z",
+  "processed": "2015-12-07T23:34:35.967Z",
+  "device": {
+    "android_channel": "5bcd5f42-9d96-4540-a901-3f2cf7a476e7",
+    "named_user_id": "potato"
+  },
+  "body": {
+    "push_id": "29df137c-dd02-41f5-be99-2c9e05d9bf4f"
+  },
+  "type": "SEND"
+}

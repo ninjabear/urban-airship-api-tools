@@ -1,0 +1,26 @@
+{
+  "id": "df77daf5-a7b6-519d-6acb-28d734f5045f",
+  "offset": "255",
+  "occurred": "2015-11-13T16:36:06.394Z",
+  "processed": "2015-11-13T16:36:06.394Z",
+  "device": {
+    "android_channel": "6a0465c0-345b-9cd2-e220-8fbdd06f2fb3"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "startup_tees",
+        "sombreros",
+        "graphic_tees",
+        "dad_jeans"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

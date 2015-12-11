@@ -1,21 +1,23 @@
 {
-  "id": "00000151-37eb-382e-3631-031a6508070a",
-  "offset": "0",
-  "occurred": "2015-11-24T05:15:40.974Z",
-  "processed": "2015-11-24T05:16:16.595Z",
+  "id": "44cb96c4-f50e-c81a-ddb2-e6eb312ab9fd",
+  "offset": "133",
+  "occurred": "2015-11-13T16:34:04.393Z",
+  "processed": "2015-11-13T16:34:04.393Z",
   "device": {
-    "ios_channel": "04a9debb-59d6-4c62-b1ef-2c8e5fcac03e",
-    "named_user_id": "joey_freedman"
+    "amazon_channel": "a7aa185c-5efe-4fac-321f-38d2d708a964"
   },
   "body": {
     "add": {
-      "ua_ios_app_version": [
-        "160"
+      "device": [
+        "that_one_ratty_tshirt"
       ]
     },
     "current": {
-      "ua_ios_app_version": [
-        "160"
+      "device": [
+        "that_one_ratty_tshirt",
+        "bow_ties",
+        "omg_shoes",
+        "turtlenecks"
       ]
     }
   },

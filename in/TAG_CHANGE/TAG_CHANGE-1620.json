@@ -1,0 +1,25 @@
+{
+  "id": "3f21623f-a097-3af5-57c6-f88784dd5777",
+  "offset": "1620",
+  "occurred": "2015-11-13T16:58:51.393Z",
+  "processed": "2015-11-13T16:58:51.393Z",
+  "device": {
+    "amazon_channel": "2f92080e-2a49-0a1c-c7f2-425ef416ebb1"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "that_one_ratty_tshirt"
+      ]
+    },
+    "current": {
+      "device": [
+        "that_one_ratty_tshirt",
+        "bow_ties",
+        "dress_shirts",
+        "high_tops"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

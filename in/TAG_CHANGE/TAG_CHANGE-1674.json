@@ -1,0 +1,25 @@
+{
+  "id": "f438591b-5375-e7a9-63b5-3127af06d5b9",
+  "offset": "1674",
+  "occurred": "2015-11-13T16:59:45.393Z",
+  "processed": "2015-11-13T16:59:45.393Z",
+  "device": {
+    "amazon_channel": "02b40882-4c9d-794a-872e-9831e69bab16"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "high_heels",
+        "dad_jeans",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,14 +1,13 @@
 {
-  "id": "11b90245-8fb8-11e5-98bd-d4bed9a886a2",
-  "offset": "0",
-  "occurred": "2015-11-20T18:54:03.876Z",
-  "processed": "2015-11-20T19:49:46.236Z",
+  "id": "6f88aeb8-1c75-144d-ae6d-418831c640c7",
+  "offset": "416",
+  "occurred": "2015-11-13T16:38:47.393Z",
+  "processed": "2015-11-13T16:38:47.393Z",
   "device": {
-    "android_channel": "ed79ace3-f7cf-4500-a6ad-c917f83f6e4e",
-    "named_user_id": "wilburtz"
+    "amazon_channel": "410cf502-72cf-e2d9-8fe7-56067b27acc5"
   },
   "body": {
-    "push_id": "e753d530-2279-4f55-b83a-5e2da7472c12"
+    "push_id": "b4b76372-e349-5fbb-e0e5-648979d0102e"
   },
   "type": "SEND"
 }

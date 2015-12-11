@@ -1,0 +1,26 @@
+{
+  "id": "4cc50cee-b4d7-a240-957a-9571b63a39fa",
+  "offset": "1773",
+  "occurred": "2015-11-13T17:01:24.393Z",
+  "processed": "2015-11-13T17:01:24.393Z",
+  "device": {
+    "amazon_channel": "39589a8f-55fb-fdd3-3c47-1b8a47857fa4"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "startup_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "startup_tees",
+        "dress_shirts",
+        "high_heels",
+        "raincoats",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

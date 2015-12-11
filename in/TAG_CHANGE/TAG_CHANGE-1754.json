@@ -1,0 +1,26 @@
+{
+  "id": "4ea1c77e-f0e0-32b0-0c9e-f269b5fa3917",
+  "offset": "1754",
+  "occurred": "2015-11-13T17:01:05.394Z",
+  "processed": "2015-11-13T17:01:05.394Z",
+  "device": {
+    "ios_channel": "ea2419b6-1437-43ca-a02a-d1aae2db8643"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "swimsuits",
+        "sombreros",
+        "high_heels",
+        "cowboy_boots"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

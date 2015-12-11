@@ -1,21 +1,24 @@
 {
-  "id": "00000151-1903-6bff-6d41-131a0608170a",
-  "offset": "0",
-  "occurred": "2015-11-18T05:13:53.407Z",
-  "processed": "2015-11-18T06:04:47.286Z",
+  "id": "b8361a99-8f50-e27c-84b0-0ce7f6226a9b",
+  "offset": "67",
+  "occurred": "2015-11-13T16:32:58.394Z",
+  "processed": "2015-11-13T16:32:58.394Z",
   "device": {
-    "ios_channel": "11087c5c-dc24-441e-ab63-5099a69d691e",
-    "named_user_id": "adam"
+    "amazon_channel": "b226aeb7-a9a7-b835-66f3-01ebde428b22"
   },
   "body": {
     "add": {
-      "timezone": [
-        "America/Los_Angeles"
+      "device": [
+        "high_heels"
       ]
     },
     "current": {
-      "timezone": [
-        "America/Los_Angeles"
+      "device": [
+        "high_heels",
+        "that_one_ratty_tshirt",
+        "dress_shirts",
+        "graphic_tees",
+        "turtlenecks"
       ]
     }
   },

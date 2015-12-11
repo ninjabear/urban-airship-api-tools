@@ -1,0 +1,23 @@
+{
+  "id": "00000151-2693-b8a6-7262-05120208230a",
+  "offset": "0",
+  "occurred": "2015-11-20T20:26:34.022Z",
+  "processed": "2015-11-20T20:26:38.182Z",
+  "device": {
+    "ios_channel": "821248dd-7073-4ead-bb88-9df18275c055",
+    "named_user_id": "bryanschlief"
+  },
+  "body": {
+    "remove": {
+      "device": [
+        "bryan"
+      ]
+    },
+    "current": {
+      "device": [
+        "version_156"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

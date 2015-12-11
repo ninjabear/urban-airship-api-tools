@@ -1,0 +1,25 @@
+{
+  "id": "04d68008-1a4f-31c5-175d-3590a6312704",
+  "offset": "1802",
+  "occurred": "2015-11-13T17:01:53.394Z",
+  "processed": "2015-11-13T17:01:53.394Z",
+  "device": {
+    "ios_channel": "6e6043d7-36d3-c52b-a445-78cf67131414"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_heels"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_heels",
+        "swimsuits",
+        "sombreros",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

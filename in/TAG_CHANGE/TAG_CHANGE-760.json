@@ -1,0 +1,24 @@
+{
+  "id": "2a1f2559-ba7a-2b11-d539-275932a04267",
+  "offset": "760",
+  "occurred": "2015-11-13T16:44:31.394Z",
+  "processed": "2015-11-13T16:44:31.394Z",
+  "device": {
+    "android_channel": "ea5a1aa4-3650-08ba-ff75-066b9ce17713"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "dress_shirts",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

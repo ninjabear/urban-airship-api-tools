@@ -1,0 +1,26 @@
+{
+  "id": "6605f5a1-197b-9c66-94b9-913eb02d2a7c",
+  "offset": "1585",
+  "occurred": "2015-11-13T16:58:16.394Z",
+  "processed": "2015-11-13T16:58:16.394Z",
+  "device": {
+    "android_channel": "6238ba84-e9e7-fb95-a5c0-1d056e97f4dd"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "startup_tees",
+        "bow_ties",
+        "dad_jeans",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

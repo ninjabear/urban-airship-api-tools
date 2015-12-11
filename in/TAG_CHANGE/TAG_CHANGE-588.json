@@ -1,0 +1,26 @@
+{
+  "id": "506c2e01-03b0-56d5-3eee-1e4598ae677f",
+  "offset": "588",
+  "occurred": "2015-11-13T16:41:39.394Z",
+  "processed": "2015-11-13T16:41:39.394Z",
+  "device": {
+    "ios_channel": "2a60fec8-a4eb-fcbd-af11-ba39672ba2bf"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sweatpants"
+      ]
+    },
+    "current": {
+      "device": [
+        "sweatpants",
+        "dad_jeans",
+        "suspenders",
+        "that_one_ratty_tshirt",
+        "cowboy_boots"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

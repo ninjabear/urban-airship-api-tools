@@ -1,21 +1,24 @@
 {
-  "id": "00000151-13e1-8f3a-3631-031a6508070a",
-  "offset": "0",
-  "occurred": "2015-11-17T05:18:48.122Z",
-  "processed": "2015-11-17T09:07:32.781Z",
+  "id": "1661365c-58ac-d9e8-c9ba-4b699091a110",
+  "offset": "60",
+  "occurred": "2015-11-13T16:32:51.394Z",
+  "processed": "2015-11-13T16:32:51.394Z",
   "device": {
-    "ios_channel": "62ccb785-adf7-4cdc-872a-4226a22be31a",
-    "named_user_id": "gatlin"
+    "ios_channel": "a1b3eccb-ff33-52d6-dc99-0709da398bd5"
   },
   "body": {
     "add": {
-      "ua_ios_app_version": [
-        "160"
+      "device": [
+        "turtlenecks"
       ]
     },
     "current": {
-      "ua_ios_app_version": [
-        "160"
+      "device": [
+        "turtlenecks",
+        "startup_tees",
+        "graphic_tees",
+        "sombreros",
+        "dad_jeans"
       ]
     }
   },

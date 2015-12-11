@@ -1,35 +1,24 @@
 {
-  "id": "00000151-1148-3056-6f44-061202082c0a",
-  "offset": "0",
-  "occurred": "2015-11-16T17:12:02.390Z",
-  "processed": "2015-11-16T17:12:07.587Z",
+  "id": "3bbdece3-0d83-7324-1b23-c47a36052ff7",
+  "offset": "31",
+  "occurred": "2015-11-13T16:32:22.394Z",
+  "processed": "2015-11-13T16:32:22.394Z",
   "device": {
-    "ios_channel": "f361066b-8f51-462c-a785-406dc7bcc127",
-    "named_user_id": "Donato"
+    "android_channel": "29da3807-7d63-5142-6bb6-b1ee1e379dd6"
   },
   "body": {
     "add": {
-      "ua_background_enabled": [
-        "true"
-      ],
-      "ua_opt_in": [
-        "true"
-      ]
-    },
-    "remove": {
-      "ua_background_enabled": [
-        "false"
-      ],
-      "ua_opt_in": [
-        "false"
+      "device": [
+        "turtlenecks"
       ]
     },
     "current": {
-      "ua_background_enabled": [
-        "true"
-      ],
-      "ua_opt_in": [
-        "true"
+      "device": [
+        "turtlenecks",
+        "sombreros",
+        "graphic_tees",
+        "dress_shirts",
+        "cowboy_boots"
       ]
     }
   },

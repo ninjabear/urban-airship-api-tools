@@ -1,0 +1,24 @@
+{
+  "id": "6fac8de1-2faf-370f-56a4-7c638432dd28",
+  "offset": "1335",
+  "occurred": "2015-11-13T16:54:06.394Z",
+  "processed": "2015-11-13T16:54:06.394Z",
+  "device": {
+    "android_channel": "cdd569d1-9b54-45c0-cf97-ffc1c39d470e"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "sweatpants",
+        "omg_shoes"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

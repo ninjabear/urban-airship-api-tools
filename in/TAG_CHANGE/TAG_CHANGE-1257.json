@@ -1,0 +1,26 @@
+{
+  "id": "438b52a1-a45b-9376-f4be-64553bbac2af",
+  "offset": "1257",
+  "occurred": "2015-11-13T16:52:48.393Z",
+  "processed": "2015-11-13T16:52:48.393Z",
+  "device": {
+    "amazon_channel": "8df7212f-9afc-d1a8-cb69-3b65be2f1630"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "startup_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "startup_tees",
+        "bow_ties",
+        "suspenders",
+        "cowboy_boots",
+        "sombreros"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

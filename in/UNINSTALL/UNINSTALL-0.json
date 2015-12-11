@@ -1,10 +1,11 @@
 {
-  "id": "92f73b57-8bd1-11e5-9b50-d4bed9a82873",
+  "id": "d54a4ab4-7116-9c33-b9d0-e6b5498ee80a",
   "offset": "0",
-  "occurred": "2015-11-15T19:46:33.476Z",
-  "processed": "2015-11-15T19:46:34.879Z",
+  "occurred": "2015-11-13T16:31:51.395Z",
+  "processed": "2015-11-13T16:31:51.395Z",
   "device": {
-    "ios_channel": "684ca529-c61e-4551-be19-b31895a03522"
+    "android_channel": "f60a7582-be22-f95b-5f77-4a7125c825de",
+    "named_user_id": "a08c9dc3-9d10-1d50-e23b-348516ff16da"
   },
   "type": "UNINSTALL"
 }

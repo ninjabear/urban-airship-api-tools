@@ -1,0 +1,27 @@
+{
+  "id": "a5903562-1176-74b3-4243-8857f5b67110",
+  "offset": "2305",
+  "occurred": "2015-11-13T17:10:16.394Z",
+  "processed": "2015-11-13T17:10:16.394Z",
+  "device": {
+    "amazon_channel": "b04b7b0b-92cd-2401-3734-233628ae37d3",
+    "named_user_id": "13838564-251b-439d-1142-65d6511e76ef"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "dress_shirts",
+        "high_heels",
+        "startup_tees",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

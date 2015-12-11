@@ -1,0 +1,23 @@
+{
+  "id": "00000151-8005-40da-6e65-021a6808060a",
+  "offset": "0",
+  "occurred": "2015-12-08T05:16:46.682Z",
+  "processed": "2015-12-08T06:21:06.995Z",
+  "device": {
+    "ios_channel": "109dfd99-099d-4000-bf6c-f5507c588e09",
+    "named_user_id": "potato"
+  },
+  "body": {
+    "add": {
+      "ua_locale_language": [
+        "en"
+      ]
+    },
+    "current": {
+      "ua_locale_language": [
+        "en"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

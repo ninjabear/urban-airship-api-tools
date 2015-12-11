@@ -1,0 +1,25 @@
+{
+  "id": "23d86859-c722-0b3e-c03f-9280d52556ea",
+  "offset": "780",
+  "occurred": "2015-11-13T16:44:51.394Z",
+  "processed": "2015-11-13T16:44:51.394Z",
+  "device": {
+    "android_channel": "bbfbf33d-164f-4785-9b05-59135ee81a1c"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sweatpants"
+      ]
+    },
+    "current": {
+      "device": [
+        "sweatpants",
+        "high_tops",
+        "sombreros",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

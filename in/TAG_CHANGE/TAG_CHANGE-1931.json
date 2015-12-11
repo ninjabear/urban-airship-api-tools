@@ -1,0 +1,25 @@
+{
+  "id": "48435340-1016-c7f9-8a3b-130c53381300",
+  "offset": "1931",
+  "occurred": "2015-11-13T17:04:02.394Z",
+  "processed": "2015-11-13T17:04:02.394Z",
+  "device": {
+    "ios_channel": "3c663de6-84f8-c2ae-2039-ef1019a0bd3f"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "omg_shoes"
+      ]
+    },
+    "current": {
+      "device": [
+        "omg_shoes",
+        "cowboy_boots",
+        "graphic_tees",
+        "dress_shirts"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

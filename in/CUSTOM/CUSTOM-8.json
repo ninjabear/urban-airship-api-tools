@@ -1,17 +1,23 @@
 {
-  "id": "4d14e3a0-9d4f-11e5-aebf-90e2ba2730f8",
-  "offset": "0",
-  "occurred": "2015-12-08T01:58:40.336Z",
-  "processed": "2015-12-08T01:59:23.902Z",
+  "id": "7a6a83da-2948-852e-0a2d-8cef35e7fe6c",
+  "offset": "8",
+  "occurred": "2015-11-13T16:31:59.394Z",
+  "processed": "2015-11-13T16:31:59.394Z",
   "device": {
-    "ios_channel": "109dfd99-099d-4000-bf6c-f5507c588e09",
-    "named_user_id": "potato"
+    "amazon_channel": "ee381063-40db-b963-21cd-381b509106ef"
   },
   "body": {
-    "name": "test",
+    "name": "Al5aacUKqj6qX46B1olj0gGmWA1fad3TaAVh",
+    "customer_id": "zweHga8lXNpmbzX1RvJCEVCRBJB0Sg70JK0n",
+    "interaction_type": "4SO4bVBXdShFHsq22XZxsj8oLDeAXADUqvWw",
+    "interaction_id": "cic3wPGwnXyWHxdfib6S00sSPzkoRB4Wqrwm",
+    "transaction": "vbzzW0OkgpbCZ7vsDnkJW8v8wZDPT8rirhxs",
+    "value": -2741326121581.474,
     "last_delivered": {
-      "push_id": "915b4b8c-690d-48e0-974e-4468a3609ef3",
-      "time": "2015-12-08T01:55:37.508Z"
+      "push_id": "ffe73ad6-d88f-7a05-ed71-56aa24901329"
+    },
+    "triggering_push": {
+      "push_id": "14627e79-3d28-d94d-1d72-2498db31e16c"
     }
   },
   "type": "CUSTOM"

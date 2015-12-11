@@ -1,0 +1,28 @@
+{
+  "id": "00000151-235d-764f-6166-05126f080f0a",
+  "offset": "0",
+  "occurred": "2015-11-20T05:28:26.447Z",
+  "processed": "2015-11-20T06:24:20.019Z",
+  "device": {
+    "ios_channel": "821248dd-7073-4ead-bb88-9df18275c055",
+    "named_user_id": "bryanschlief"
+  },
+  "body": {
+    "add": {
+      "ua_location_enabled": [
+        "true"
+      ]
+    },
+    "remove": {
+      "ua_location_enabled": [
+        "false"
+      ]
+    },
+    "current": {
+      "ua_location_enabled": [
+        "true"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

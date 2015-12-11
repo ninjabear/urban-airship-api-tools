@@ -1,0 +1,25 @@
+{
+  "id": "90b9f620-1552-6356-ba15-33689ee0e5ab",
+  "offset": "594",
+  "occurred": "2015-11-13T16:41:45.394Z",
+  "processed": "2015-11-13T16:41:45.394Z",
+  "device": {
+    "ios_channel": "5b7c10d2-eb7d-feb5-b067-bac04e81bce4"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "that_one_ratty_tshirt",
+        "raincoats",
+        "swimsuits"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

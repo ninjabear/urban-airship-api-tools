@@ -1,0 +1,25 @@
+{
+  "id": "300e639f-49a2-6475-a624-d12cf32c6e4b",
+  "offset": "893",
+  "occurred": "2015-11-13T16:46:44.393Z",
+  "processed": "2015-11-13T16:46:44.393Z",
+  "device": {
+    "android_channel": "3c84ad05-1acc-1c55-7547-306ce0665ad3"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "cowboy_boots"
+      ]
+    },
+    "current": {
+      "device": [
+        "cowboy_boots",
+        "high_heels",
+        "dad_jeans",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

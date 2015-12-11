@@ -1,0 +1,26 @@
+{
+  "id": "22ffd662-aa22-94fb-4890-dc86a8cca129",
+  "offset": "1245",
+  "occurred": "2015-11-13T16:52:36.393Z",
+  "processed": "2015-11-13T16:52:36.393Z",
+  "device": {
+    "android_channel": "172c8244-fc08-7fbb-2383-d1731ff7ef3e"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "suspenders"
+      ]
+    },
+    "current": {
+      "device": [
+        "suspenders",
+        "swimsuits",
+        "turtlenecks",
+        "cowboy_boots",
+        "high_tops"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

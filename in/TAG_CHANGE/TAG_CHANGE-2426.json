@@ -1,0 +1,23 @@
+{
+  "id": "00000151-13e3-18cf-5069-091a69080d0a",
+  "offset": "0",
+  "occurred": "2015-11-17T05:20:28.879Z",
+  "processed": "2015-11-17T12:44:59.013Z",
+  "device": {
+    "ios_channel": "f361066b-8f51-462c-a785-406dc7bcc127",
+    "named_user_id": "Donato"
+  },
+  "body": {
+    "add": {
+      "ua_ios_model": [
+        "iPhone7,2"
+      ]
+    },
+    "current": {
+      "ua_ios_model": [
+        "iPhone7,2"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

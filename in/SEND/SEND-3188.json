@@ -1,0 +1,15 @@
+{
+  "id": "6225c279-90aa-11e5-a3d4-d4bed9a8866c",
+  "offset": "0",
+  "occurred": "2015-11-21T23:48:37.015Z",
+  "processed": "2015-11-21T23:48:39.930Z",
+  "device": {
+    "android_channel": "a68cbc36-027a-4db6-8365-63d1c6333a13",
+    "named_user_id": "duncanwork"
+  },
+  "body": {
+    "push_id": "d5a49aff-8418-4be1-b2f6-12040c638e53",
+    "group_id": "7ba0f91a-bb67-4c57-b568-873268c82fc9"
+  },
+  "type": "SEND"
+}

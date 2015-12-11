@@ -1,0 +1,15 @@
+{
+  "id": "d2104f11-9302-11e5-82b5-001b21ce44e0",
+  "offset": "0",
+  "occurred": "2015-11-24T23:26:42.817Z",
+  "processed": "2015-11-24T23:28:51.661Z",
+  "device": {
+    "ios_channel": "04a9debb-59d6-4c62-b1ef-2c8e5fcac03e",
+    "named_user_id": "joey_freedman"
+  },
+  "body": {
+    "push_id": "8a3ba7f6-9a14-4bfd-b1bf-27f4893e7b27",
+    "group_id": "11c3299b-17bb-46f3-96bb-12ab066261b3"
+  },
+  "type": "SEND"
+}

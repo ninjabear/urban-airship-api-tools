@@ -1,0 +1,18 @@
+{
+  "id": "69666d90-8e26-11e5-90dd-90e2ba025ad8",
+  "offset": "0",
+  "occurred": "2015-11-09T17:27:21.573Z",
+  "processed": "2015-11-18T18:58:54.248Z",
+  "device": {
+    "ios_channel": "9c9aa757-b941-4d56-993b-fe0289b33deb",
+    "named_user_id": "higa"
+  },
+  "body": {
+    "session_id": "a0a44c93-5dae-4f8d-b4d5-72a60e5cdaac",
+    "last_delivered": {
+      "push_id": "25e72543-064c-4c61-a385-ace7cf62920b",
+      "time": "2015-11-09T17:27:15.089Z"
+    }
+  },
+  "type": "OPEN"
+}

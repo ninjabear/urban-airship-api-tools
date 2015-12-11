@@ -1,0 +1,15 @@
+{
+  "id": "6228cfb1-90aa-11e5-9a04-90e2ba02f4f8",
+  "offset": "0",
+  "occurred": "2015-11-21T23:48:37.035Z",
+  "processed": "2015-11-21T23:48:38.582Z",
+  "device": {
+    "ios_channel": "eb0f24e9-d2c8-4ec0-a901-1f814f5173e5",
+    "named_user_id": "Egle"
+  },
+  "body": {
+    "push_id": "6a4d776b-f86c-4c2e-9aab-966766bb6bab",
+    "group_id": "7ba0f91a-bb67-4c57-b568-873268c82fc9"
+  },
+  "type": "SEND"
+}

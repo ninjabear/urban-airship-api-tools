@@ -1,0 +1,14 @@
+{
+  "id": "11e93a03-8fb8-11e5-bf31-14feb5d26827",
+  "offset": "0",
+  "occurred": "2015-11-20T18:54:04.192Z",
+  "processed": "2015-11-20T19:57:22.262Z",
+  "device": {
+    "android_channel": "5a6d7ffb-225c-4e53-a69d-734b63457ed4",
+    "named_user_id": "alyssa"
+  },
+  "body": {
+    "push_id": "e753d530-2279-4f55-b83a-5e2da7472c12"
+  },
+  "type": "SEND"
+}

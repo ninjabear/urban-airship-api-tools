@@ -1,0 +1,26 @@
+{
+  "id": "097863ed-7265-15ee-e1d7-443cc518ea57",
+  "offset": "2237",
+  "occurred": "2015-11-13T17:09:08.393Z",
+  "processed": "2015-11-13T17:09:08.393Z",
+  "device": {
+    "ios_channel": "ee3e0d60-e82c-cbbd-e1ab-8c0cf01838ff"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "suspenders"
+      ]
+    },
+    "current": {
+      "device": [
+        "suspenders",
+        "that_one_ratty_tshirt",
+        "sombreros",
+        "startup_tees",
+        "cowboy_boots"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

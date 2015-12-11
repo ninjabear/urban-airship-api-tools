@@ -1,0 +1,15 @@
+{
+  "id": "075a948d-9d41-11e5-a3d4-d4bed9a8866c",
+  "offset": "0",
+  "occurred": "2015-12-08T00:17:12.648Z",
+  "processed": "2015-12-08T00:17:14.218Z",
+  "device": {
+    "android_channel": "be8e06d9-93bb-4c7f-aac4-1d5e074533a3",
+    "named_user_id": "duncangoatandroid"
+  },
+  "body": {
+    "push_id": "8c6cba37-35de-496e-8faa-5dd31091af1d",
+    "group_id": "2f57b9e9-8cb2-42a8-9994-35ce8585f041"
+  },
+  "type": "SEND"
+}

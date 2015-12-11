@@ -1,0 +1,26 @@
+{
+  "id": "d7ea7559-e856-a70b-cbef-c895b6cc9bae",
+  "offset": "598",
+  "occurred": "2015-11-13T16:41:49.394Z",
+  "processed": "2015-11-13T16:41:49.394Z",
+  "device": {
+    "android_channel": "9e7b4f8e-49e6-51bd-cc04-5b3a2c05d2f0"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_tops"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_tops",
+        "turtlenecks",
+        "startup_tees",
+        "sweatpants",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

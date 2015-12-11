@@ -1,0 +1,34 @@
+{
+  "id": "00000151-16b3-61a1-6576-0b1a02080f0a",
+  "offset": "0",
+  "occurred": "2015-11-17T18:27:13.441Z",
+  "processed": "2015-11-17T18:27:19.047Z",
+  "device": {
+    "ios_channel": "11087c5c-dc24-441e-ab63-5099a69d691e"
+  },
+  "body": {
+    "add": {
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_opt_in": [
+        "true"
+      ],
+      "device": [
+        "version_160"
+      ]
+    },
+    "current": {
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_opt_in": [
+        "true"
+      ],
+      "device": [
+        "version_160"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

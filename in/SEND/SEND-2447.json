@@ -1,0 +1,14 @@
+{
+  "id": "bbf00837-8c84-11e5-8ae2-d4bed9af9426",
+  "offset": "0",
+  "occurred": "2015-11-16T17:09:02.131Z",
+  "processed": "2015-11-16T17:09:03.380Z",
+  "device": {
+    "ios_channel": "2dbbe186-e499-41b9-8631-ca5199b2fb63",
+    "named_user_id": "CyMon"
+  },
+  "body": {
+    "push_id": "50bc7355-91ef-4e41-8379-ed02cdfe0fee"
+  },
+  "type": "SEND"
+}

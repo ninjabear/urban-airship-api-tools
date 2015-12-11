@@ -1,0 +1,24 @@
+{
+  "id": "cd903af4-8825-3fd7-9aab-2380f7840954",
+  "offset": "1230",
+  "occurred": "2015-11-13T16:52:21.393Z",
+  "processed": "2015-11-13T16:52:21.393Z",
+  "device": {
+    "android_channel": "6b3bed9a-3e33-50e9-2444-4a8aeb83bc21"
+  },
+  "body": {
+    "name": "T1acc06shCXLicEIvpgMwi6Sxe6pk7OzaX8y",
+    "customer_id": "Pwtmku6O2cJDgVaUqjJnpsTnqBA0HlNaBHk3",
+    "interaction_type": "XxnDcYaUwipJpFtkGheg1AG8XoPePGfohaE9",
+    "interaction_id": "4h4AkVbNlZwogZIVIECf4A2dxj7uuoSpw3dj",
+    "transaction": "TCirSuh2q6eYcqYvcrE3lcqVXlo9zltw2AFW",
+    "value": -6360869920743.835,
+    "last_delivered": {
+      "push_id": "1ce0e9ab-b61a-4448-38be-5bb5fda0239a"
+    },
+    "triggering_push": {
+      "push_id": "0b1e0e0a-b7df-dadf-72d4-af44664c554d"
+    }
+  },
+  "type": "CUSTOM"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "00000151-13e2-21e7-6e65-021a6808060a",
+  "offset": "0",
+  "occurred": "2015-11-17T05:19:25.671Z",
+  "processed": "2015-11-17T10:03:31.031Z",
+  "device": {
+    "ios_channel": "693aaecb-c773-4155-8d8d-5ad15cb4370d"
+  },
+  "body": {
+    "add": {
+      "ua_locale_language": [
+        "en"
+      ]
+    },
+    "current": {
+      "ua_locale_language": [
+        "en"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

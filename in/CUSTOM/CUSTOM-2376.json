@@ -1,0 +1,18 @@
+{
+  "id": "12066890-8c8f-11e5-9706-90e2ba025ad8",
+  "offset": "0",
+  "occurred": "2015-11-16T18:22:57.008Z",
+  "processed": "2015-11-16T18:23:02.373Z",
+  "device": {
+    "ios_channel": "3e392313-8e79-4f84-9f3f-5377262e2748",
+    "named_user_id": "michael"
+  },
+  "body": {
+    "name": "purchased_cart",
+    "last_delivered": {
+      "push_id": "e8638023-a7f0-4c59-b9c9-e5e32422bad4",
+      "time": "2015-11-16T18:22:21.328Z"
+    }
+  },
+  "type": "CUSTOM"
+}

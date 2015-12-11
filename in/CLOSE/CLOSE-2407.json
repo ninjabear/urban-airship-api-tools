@@ -1,0 +1,14 @@
+{
+  "id": "7a8bdcb3-8c8a-11e5-9818-14feb5d3172c",
+  "offset": "0",
+  "occurred": "2015-11-16T17:50:09.403Z",
+  "processed": "2015-11-16T17:50:11.040Z",
+  "device": {
+    "ios_channel": "f361066b-8f51-462c-a785-406dc7bcc127",
+    "named_user_id": "Donato"
+  },
+  "body": {
+    "session_id": "818592e4-83cc-4a94-bf26-eaf02fc9314c"
+  },
+  "type": "CLOSE"
+}

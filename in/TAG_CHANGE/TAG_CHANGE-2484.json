@@ -1,0 +1,28 @@
+{
+  "id": "00000151-2877-dbc5-2e39-05126c08100a",
+  "offset": "0",
+  "occurred": "2015-11-21T05:15:22.437Z",
+  "processed": "2015-11-21T07:39:11.351Z",
+  "device": {
+    "ios_channel": "bab2dbe0-255e-449d-a5b1-fb4029f35098",
+    "named_user_id": "willis"
+  },
+  "body": {
+    "add": {
+      "ua_ios_version": [
+        "9.1.X"
+      ]
+    },
+    "remove": {
+      "ua_ios_version": [
+        "9.0.X"
+      ]
+    },
+    "current": {
+      "ua_ios_version": [
+        "9.1.X"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

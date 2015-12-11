@@ -1,0 +1,26 @@
+{
+  "id": "027affdf-47b0-5b2a-36d3-2bd86fa9de0a",
+  "offset": "559",
+  "occurred": "2015-11-13T16:41:10.394Z",
+  "processed": "2015-11-13T16:41:10.394Z",
+  "device": {
+    "ios_channel": "7352c903-43f0-3c97-24f4-ca1bebb77d75"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "startup_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "startup_tees",
+        "turtlenecks",
+        "high_heels",
+        "high_tops",
+        "graphic_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

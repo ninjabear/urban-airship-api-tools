@@ -1,0 +1,29 @@
+{
+  "id": "00000151-0caf-3fb7-6576-0d120208210a",
+  "offset": "0",
+  "occurred": "2015-11-15T19:46:30.455Z",
+  "processed": "2015-11-15T19:46:37.290Z",
+  "device": {
+    "ios_channel": "684ca529-c61e-4551-be19-b31895a03522"
+  },
+  "body": {
+    "remove": {
+      "timezone": [
+        "America/Los_Angeles"
+      ],
+      "device": [
+        "version_1.5.0",
+        "allidoisnguyen"
+      ]
+    },
+    "current": {
+      "timezone": [
+
+      ],
+      "device": [
+
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "76cbd07c-ccf1-d988-30ec-51d83e72226e",
+  "offset": "1917",
+  "occurred": "2015-11-13T17:03:48.394Z",
+  "processed": "2015-11-13T17:03:48.394Z",
+  "device": {
+    "amazon_channel": "eca18f48-bc22-77ee-8b99-48239080f119"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "that_one_ratty_tshirt"
+      ]
+    },
+    "current": {
+      "device": [
+        "that_one_ratty_tshirt",
+        "sombreros",
+        "high_tops",
+        "sweatpants"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

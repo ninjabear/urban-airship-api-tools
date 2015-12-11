@@ -1,0 +1,14 @@
+{
+  "id": "63ec4975-8f30-11e5-a9b0-001018948f58",
+  "offset": "0",
+  "occurred": "2015-11-06T17:44:32.477Z",
+  "processed": "2015-11-20T02:42:52.054Z",
+  "device": {
+    "ios_channel": "bab2dbe0-255e-449d-a5b1-fb4029f35098",
+    "named_user_id": "willis"
+  },
+  "body": {
+    "session_id": "b33fdf0e-6115-4e66-a9bb-caf9a5ce857a"
+  },
+  "type": "CLOSE"
+}

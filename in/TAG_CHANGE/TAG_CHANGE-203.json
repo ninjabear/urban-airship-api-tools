@@ -1,26 +1,24 @@
 {
-  "id": "00000151-7094-6c9d-3331-031265080c0a",
-  "offset": "0",
-  "occurred": "2015-12-05T05:19:14.077Z",
-  "processed": "2015-12-05T08:36:39.550Z",
+  "id": "63836a76-0789-83b0-3cf3-c380d831124a",
+  "offset": "203",
+  "occurred": "2015-11-13T16:35:14.394Z",
+  "processed": "2015-11-13T16:35:14.394Z",
   "device": {
-    "ios_channel": "109dfd99-099d-4000-bf6c-f5507c588e09",
-    "named_user_id": "potato"
+    "amazon_channel": "34dfe39e-c606-d504-4ad9-ebc6bee99c21"
   },
   "body": {
     "add": {
-      "ua_ios_app_version": [
-        "160"
-      ]
-    },
-    "remove": {
-      "ua_ios_app_version": [
-        "130"
+      "device": [
+        "omg_shoes"
       ]
     },
     "current": {
-      "ua_ios_app_version": [
-        "160"
+      "device": [
+        "omg_shoes",
+        "high_tops",
+        "that_one_ratty_tshirt",
+        "raincoats",
+        "startup_tees"
       ]
     }
   },

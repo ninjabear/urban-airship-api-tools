@@ -1,0 +1,25 @@
+{
+  "id": "965886ec-10dc-c7fe-cca4-40afa529d576",
+  "offset": "1148",
+  "occurred": "2015-11-13T16:50:59.393Z",
+  "processed": "2015-11-13T16:50:59.393Z",
+  "device": {
+    "amazon_channel": "7cab2b61-71c9-735e-51f7-2051f73a107e"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "high_heels"
+      ]
+    },
+    "current": {
+      "device": [
+        "high_heels",
+        "cowboy_boots",
+        "high_tops",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

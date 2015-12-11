@@ -1,0 +1,18 @@
+{
+  "id": "ba88db3a-8fb2-11e5-bb19-90e2ba02f390",
+  "offset": "0",
+  "occurred": "2015-11-20T18:14:45.618Z",
+  "processed": "2015-11-20T18:15:51.934Z",
+  "device": {
+    "android_channel": "cd02f5ee-3034-430c-97fc-5d18f7536881",
+    "named_user_id": "andypikul"
+  },
+  "body": {
+    "session_id": "fcd76096-2e96-477c-9684-3839a44668d0",
+    "last_delivered": {
+      "push_id": "aa91661e-4384-4a46-8a2b-adb5077188af",
+      "time": "2015-11-20T18:14:24.437Z"
+    }
+  },
+  "type": "OPEN"
+}

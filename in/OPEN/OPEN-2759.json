@@ -1,0 +1,24 @@
+{
+  "id": "46d46d41-9d1c-11e5-a9b0-001018948f58",
+  "offset": "0",
+  "occurred": "2015-12-07T19:54:03.224Z",
+  "processed": "2015-12-07T19:54:09.561Z",
+  "device": {
+    "android_channel": "998e554c-761d-42e7-b5a2-faf1fb491764",
+    "named_user_id": "lisahewusfresh"
+  },
+  "body": {
+    "triggering_push": {
+      "push_id": "9bbb7c1d-b42b-4e43-9356-826a74272aef",
+      "group_id": "9f2c2168-40bc-47dd-becf-235b788cb625",
+      "time": "2015-12-07T19:46:26.399Z"
+    },
+    "session_id": "9fc12421-6ef9-4add-ae48-84be5680635f",
+    "last_delivered": {
+      "push_id": "9bbb7c1d-b42b-4e43-9356-826a74272aef",
+      "group_id": "9f2c2168-40bc-47dd-becf-235b788cb625",
+      "time": "2015-12-07T19:46:26.399Z"
+    }
+  },
+  "type": "OPEN"
+}

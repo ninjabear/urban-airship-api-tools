@@ -1,26 +1,24 @@
 {
-  "id": "00000151-1905-ebf9-3131-031265080c0a",
-  "offset": "0",
-  "occurred": "2015-11-18T05:16:37.241Z",
-  "processed": "2015-11-18T09:06:47.268Z",
+  "id": "493fce1f-5e81-c90d-92f9-298deed36414",
+  "offset": "73",
+  "occurred": "2015-11-13T16:33:04.394Z",
+  "processed": "2015-11-13T16:33:04.394Z",
   "device": {
-    "ios_channel": "a946579f-3c31-4ed3-aa39-310240868ca2",
-    "named_user_id": "andreaburton"
+    "android_channel": "7e2ffc04-4897-e8bd-7987-ba23e06231d7"
   },
   "body": {
     "add": {
-      "ua_ios_app_version": [
-        "160"
-      ]
-    },
-    "remove": {
-      "ua_ios_app_version": [
-        "115"
+      "device": [
+        "graphic_tees"
       ]
     },
     "current": {
-      "ua_ios_app_version": [
-        "160"
+      "device": [
+        "graphic_tees",
+        "sweatpants",
+        "dress_shirts",
+        "suspenders",
+        "high_tops"
       ]
     }
   },

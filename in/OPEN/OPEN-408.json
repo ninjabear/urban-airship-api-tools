@@ -1,23 +1,18 @@
 {
-  "id": "a9b06420-9d42-11e5-a094-90e2ba211bf8",
-  "offset": "0",
-  "occurred": "2015-12-08T00:28:49.884Z",
-  "processed": "2015-12-08T00:28:56.005Z",
+  "id": "cc204cec-f065-56b5-cfe8-a3c095852dba",
+  "offset": "408",
+  "occurred": "2015-11-13T16:38:39.392Z",
+  "processed": "2015-11-13T16:38:39.392Z",
   "device": {
-    "ios_channel": "3e392313-8e79-4f84-9f3f-5377262e2748",
-    "named_user_id": "michael"
+    "ios_channel": "04c452f6-a389-eeca-4201-f6d9d48ff9c1"
   },
   "body": {
     "triggering_push": {
-      "push_id": "664d9b31-e3da-41f7-a920-2df1ec0bc724",
-      "group_id": "2f57b9e9-8cb2-42a8-9994-35ce8585f041",
-      "time": "2015-12-08T00:17:13.051Z"
+      "push_id": "1738f8f5-111d-8648-4be0-19cd64b6cf61"
     },
-    "session_id": "c8cd9346-0c68-48c9-a158-b7bc9a063b1a",
+    "session_id": "4d35d1c7-51c7-e54f-3138-3009061ce842",
     "last_delivered": {
-      "push_id": "664d9b31-e3da-41f7-a920-2df1ec0bc724",
-      "group_id": "2f57b9e9-8cb2-42a8-9994-35ce8585f041",
-      "time": "2015-12-08T00:17:13.051Z"
+      "push_id": "f5b2d234-a05b-dc57-8377-695c350944d1"
     }
   },
   "type": "OPEN"

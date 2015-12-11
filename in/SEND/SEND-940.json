@@ -1,14 +1,13 @@
 {
-  "id": "002447f7-9243-11e5-bf31-14feb5d26827",
-  "offset": "0",
-  "occurred": "2015-11-24T00:33:36.751Z",
-  "processed": "2015-11-24T00:53:33.509Z",
+  "id": "d5a4f4a1-e881-8906-5e65-0c52faeecc7f",
+  "offset": "940",
+  "occurred": "2015-11-13T16:47:31.393Z",
+  "processed": "2015-11-13T16:47:31.393Z",
   "device": {
-    "android_channel": "b99d52b3-7ca3-4590-8d62-27399f72e254",
-    "named_user_id": "JonesLOL"
+    "ios_channel": "01f6afbd-c4af-e3c9-bb3a-66602cf74ef2"
   },
   "body": {
-    "push_id": "c0920e21-f995-4a8b-9b55-51628f5de042"
+    "push_id": "21518e52-7372-8f85-ad32-b63c463d412b"
   },
   "type": "SEND"
 }

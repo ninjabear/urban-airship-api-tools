@@ -1,20 +1,24 @@
 {
-  "id": "00000151-0483-2844-6e65-021a6808060a",
-  "offset": "0",
-  "occurred": "2015-11-14T05:41:23.140Z",
-  "processed": "2015-11-14T12:49:22.315Z",
+  "id": "c0e0b31e-43a6-1cc6-a3a7-24f8dcdc23a9",
+  "offset": "5",
+  "occurred": "2015-11-13T16:31:56.394Z",
+  "processed": "2015-11-13T16:31:56.394Z",
   "device": {
-    "ios_channel": "639520b9-c47b-4470-9657-a86df63fa2d3"
+    "android_channel": "a57adac8-1be5-c335-c35a-6fd06a6fbd06",
+    "named_user_id": "42edc846-4068-b79d-ac41-04b710f62db9"
   },
   "body": {
     "add": {
-      "ua_locale_language": [
-        "en"
+      "device": [
+        "omg_shoes"
       ]
     },
     "current": {
-      "ua_locale_language": [
-        "en"
+      "device": [
+        "omg_shoes",
+        "raincoats",
+        "dress_shirts",
+        "that_one_ratty_tshirt"
       ]
     }
   },

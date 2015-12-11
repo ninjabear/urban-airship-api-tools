@@ -76,14 +76,18 @@
     "device": {
       "type": "object",
       "properties": {
-        "android_channel": {
+        "ios_channel": {
           "type": "string",
           "format": "uuid"
         },
         "named_user_id": {
           "type": "string"
         },
-        "ios_channel": {
+        "android_channel": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "amazon_channel": {
           "type": "string",
           "format": "uuid"
         }

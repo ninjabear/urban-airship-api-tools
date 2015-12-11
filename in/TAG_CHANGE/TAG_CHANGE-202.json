@@ -1,26 +1,24 @@
 {
-  "id": "00000151-7435-6171-7274-041a6408080a",
-  "offset": "0",
-  "occurred": "2015-12-05T22:13:54.161Z",
-  "processed": "2015-12-05T22:13:58.304Z",
+  "id": "85fca73c-0b6d-d511-bad9-09e76870dff7",
+  "offset": "202",
+  "occurred": "2015-11-13T16:35:13.393Z",
+  "processed": "2015-11-13T16:35:13.393Z",
   "device": {
-    "android_channel": "16775b36-2291-4387-9e92-1ef5c93882a1"
+    "amazon_channel": "71ccf70b-f9b9-8bc6-4311-0f2970f8096e"
   },
   "body": {
     "add": {
-      "ua_background_enabled": [
-        "true"
-      ],
-      "ua_opt_in": [
-        "false"
+      "device": [
+        "turtlenecks"
       ]
     },
     "current": {
-      "ua_background_enabled": [
-        "true"
-      ],
-      "ua_opt_in": [
-        "false"
+      "device": [
+        "turtlenecks",
+        "sweatpants",
+        "high_heels",
+        "startup_tees",
+        "sombreros"
       ]
     }
   },

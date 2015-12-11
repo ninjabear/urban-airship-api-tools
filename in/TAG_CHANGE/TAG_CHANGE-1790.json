@@ -1,0 +1,25 @@
+{
+  "id": "ab7920d2-afe6-0429-f6d2-1e3560d1169b",
+  "offset": "1790",
+  "occurred": "2015-11-13T17:01:41.393Z",
+  "processed": "2015-11-13T17:01:41.393Z",
+  "device": {
+    "android_channel": "09b0dad5-2f52-6e94-6d0c-6a0e374f3b4f"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "bow_ties"
+      ]
+    },
+    "current": {
+      "device": [
+        "bow_ties",
+        "turtlenecks",
+        "sweatpants",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

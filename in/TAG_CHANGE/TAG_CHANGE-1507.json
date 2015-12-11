@@ -1,0 +1,27 @@
+{
+  "id": "9ec851cd-32ab-0a2d-b1ca-41052e689478",
+  "offset": "1507",
+  "occurred": "2015-11-13T16:56:58.394Z",
+  "processed": "2015-11-13T16:56:58.394Z",
+  "device": {
+    "ios_channel": "408a55e9-add8-5977-3eb1-be3463f733e5",
+    "named_user_id": "da6f94e1-d1c1-2da0-6767-f53ae5a63ffd"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "turtlenecks"
+      ]
+    },
+    "current": {
+      "device": [
+        "turtlenecks",
+        "dress_shirts",
+        "bow_ties",
+        "cowboy_boots",
+        "suspenders"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

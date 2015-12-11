@@ -1,0 +1,22 @@
+{
+  "id": "00000151-6516-1544-6564-041a0208080a",
+  "offset": "0",
+  "occurred": "2015-12-02T23:45:24.804Z",
+  "processed": "2015-12-02T23:45:29.238Z",
+  "device": {
+    "android_channel": "fe5f8858-b1d4-4e45-a9fe-9475dedbe309"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dec2"
+      ]
+    },
+    "current": {
+      "device": [
+        "dec2"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "00000151-269a-ee26-98e2-031a0208070a",
+  "offset": "0",
+  "occurred": "2015-11-20T20:34:26.470Z",
+  "processed": "2015-11-20T20:34:30.161Z",
+  "device": {
+    "android_channel": "5bcd5f42-9d96-4540-a901-3f2cf7a476e7",
+    "named_user_id": "potato"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "☃"
+      ]
+    },
+    "current": {
+      "device": [
+        "☃"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

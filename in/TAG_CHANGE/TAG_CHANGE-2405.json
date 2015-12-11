@@ -1,0 +1,37 @@
+{
+  "id": "00000151-1148-3056-6f44-061202082c0a",
+  "offset": "0",
+  "occurred": "2015-11-16T17:12:02.390Z",
+  "processed": "2015-11-16T17:12:07.587Z",
+  "device": {
+    "ios_channel": "f361066b-8f51-462c-a785-406dc7bcc127",
+    "named_user_id": "Donato"
+  },
+  "body": {
+    "add": {
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_opt_in": [
+        "true"
+      ]
+    },
+    "remove": {
+      "ua_background_enabled": [
+        "false"
+      ],
+      "ua_opt_in": [
+        "false"
+      ]
+    },
+    "current": {
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_opt_in": [
+        "true"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

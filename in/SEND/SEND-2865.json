@@ -1,0 +1,15 @@
+{
+  "id": "ae39d3b1-8f27-11e5-84ee-001b21d15598",
+  "offset": "0",
+  "occurred": "2015-11-20T01:40:29.419Z",
+  "processed": "2015-11-20T01:40:31.200Z",
+  "device": {
+    "ios_channel": "8b6eb386-281f-420f-95df-695a18c8215e",
+    "named_user_id": "wistfully"
+  },
+  "body": {
+    "push_id": "ba7e193f-ceb3-46e3-926d-8cf45121527b",
+    "group_id": "11c3299b-17bb-46f3-96bb-12ab066261b3"
+  },
+  "type": "SEND"
+}

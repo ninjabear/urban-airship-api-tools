@@ -1,0 +1,27 @@
+{
+  "id": "6f7a046f-28ff-0224-19dc-8e03a3086306",
+  "offset": "619",
+  "occurred": "2015-11-13T16:42:10.394Z",
+  "processed": "2015-11-13T16:42:10.394Z",
+  "device": {
+    "android_channel": "7981d535-970e-28a8-875a-d5e1dab2f58e",
+    "named_user_id": "2aa86d81-78a8-a8f1-e019-5e040703c78f"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "sweatpants"
+      ]
+    },
+    "current": {
+      "device": [
+        "sweatpants",
+        "dad_jeans",
+        "turtlenecks",
+        "graphic_tees",
+        "startup_tees"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

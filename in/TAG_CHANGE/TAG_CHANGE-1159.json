@@ -1,0 +1,26 @@
+{
+  "id": "bacdf492-16c0-77ce-da5b-6408cafa0800",
+  "offset": "1159",
+  "occurred": "2015-11-13T16:51:10.394Z",
+  "processed": "2015-11-13T16:51:10.394Z",
+  "device": {
+    "ios_channel": "00dbfa77-66a3-803d-65e0-5cec998c5e86"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "startup_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "startup_tees",
+        "raincoats",
+        "dress_shirts",
+        "turtlenecks",
+        "high_heels"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

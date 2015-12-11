@@ -1,0 +1,25 @@
+{
+  "id": "00000151-36da-3684-7573-0c120208310a",
+  "offset": "0",
+  "occurred": "2015-11-24T00:17:29.220Z",
+  "processed": "2015-11-24T00:17:35.292Z",
+  "device": {
+    "android_channel": "0b878c20-d8ce-4b17-b1ed-66f6437d112d",
+    "named_user_id": "user-id-1234"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "☃"
+      ]
+    },
+    "current": {
+      "device": [
+        "support_test",
+        "☃",
+        "devin"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

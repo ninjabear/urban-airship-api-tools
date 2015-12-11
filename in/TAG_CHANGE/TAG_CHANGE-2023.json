@@ -1,0 +1,26 @@
+{
+  "id": "3c2ec270-ef67-6aca-d31a-f5abff1dfc28",
+  "offset": "2023",
+  "occurred": "2015-11-13T17:05:34.393Z",
+  "processed": "2015-11-13T17:05:34.393Z",
+  "device": {
+    "android_channel": "50f03aa3-a735-b556-e9d9-d9d6eb853edf"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "suspenders"
+      ]
+    },
+    "current": {
+      "device": [
+        "suspenders",
+        "that_one_ratty_tshirt",
+        "omg_shoes",
+        "startup_tees",
+        "cowboy_boots"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

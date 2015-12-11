@@ -1,0 +1,27 @@
+{
+  "id": "00000151-3bdc-bdad-7274-041264080e0a",
+  "offset": "0",
+  "occurred": "2015-11-24T23:38:20.973Z",
+  "processed": "2015-11-24T23:38:24.471Z",
+  "device": {
+    "android_channel": "c850f8e8-30ce-4106-a956-d86093e688d7"
+  },
+  "body": {
+    "add": {
+      "ua_opt_in": [
+        "true"
+      ]
+    },
+    "remove": {
+      "ua_opt_in": [
+        "false"
+      ]
+    },
+    "current": {
+      "ua_opt_in": [
+        "true"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,14 +1,19 @@
 {
-  "id": "8f98fc62-8d56-11e5-90dd-90e2ba025ad8",
-  "offset": "0",
-  "occurred": "2015-11-17T18:11:01.096Z",
-  "processed": "2015-11-17T18:11:03.516Z",
+  "id": "46f2fde4-aebf-8ff8-4188-bd8b330b2505",
+  "offset": "45",
+  "occurred": "2015-11-13T16:32:36.393Z",
+  "processed": "2015-11-13T16:32:36.393Z",
   "device": {
-    "ios_channel": "8b6eb386-281f-420f-95df-695a18c8215e",
-    "named_user_id": "fall-flannel"
+    "ios_channel": "88c6323f-f5c3-61ac-0472-508ca780313a"
   },
   "body": {
-    "session_id": "6b6a6581-8ba0-40be-a25d-622c9ef08b18"
+    "triggering_push": {
+      "push_id": "0692d5fd-50b7-e72b-cac4-62edb894a29c"
+    },
+    "session_id": "5a108e29-49ba-97b3-9ef4-456024b4c0e1",
+    "last_delivered": {
+      "push_id": "1d3f16f7-b61a-d805-63e3-3a910f442be1"
+    }
   },
   "type": "OPEN"
 }

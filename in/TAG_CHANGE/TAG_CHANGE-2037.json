@@ -1,0 +1,25 @@
+{
+  "id": "f6d05410-dc11-5aaa-31fe-28b63c512180",
+  "offset": "2037",
+  "occurred": "2015-11-13T17:05:48.393Z",
+  "processed": "2015-11-13T17:05:48.393Z",
+  "device": {
+    "amazon_channel": "63ed1da6-8e5d-2ac9-004b-3fcc469aba58"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "graphic_tees"
+      ]
+    },
+    "current": {
+      "device": [
+        "graphic_tees",
+        "high_tops",
+        "dad_jeans",
+        "bow_ties"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

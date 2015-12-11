@@ -1,0 +1,13 @@
+{
+  "id": "00000151-7dfb-1658-1db4-2b4e4309120a",
+  "offset": "0",
+  "occurred": "2015-12-07T19:46:26.008Z",
+  "processed": "2015-12-07T19:46:26.688Z",
+  "body": {
+    "payload": "eyJ0aW1lX3pvbmUiOiJBbWVyaWNhL0xvc19BbmdlbGVzIiwicHVzaF9zdGF0dXMiOiJzZW50In0=",
+    "push_id": "9bbb7c1d-b42b-4e43-9356-826a74272aef",
+    "group_id": "9f2c2168-40bc-47dd-becf-235b788cb625",
+    "trimmed": false
+  },
+  "type": "PUSH_BODY"
+}

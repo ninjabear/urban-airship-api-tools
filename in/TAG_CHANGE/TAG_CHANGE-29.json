@@ -1,32 +1,23 @@
 {
-  "id": "00000151-1145-d26a-6576-0b1a02080f0a",
-  "offset": "0",
-  "occurred": "2015-11-16T17:09:27.274Z",
-  "processed": "2015-11-16T17:09:31.967Z",
+  "id": "6a8ee1ce-c66d-41e0-77b3-4ad4ef85c203",
+  "offset": "29",
+  "occurred": "2015-11-13T16:32:20.394Z",
+  "processed": "2015-11-13T16:32:20.394Z",
   "device": {
-    "ios_channel": "f361066b-8f51-462c-a785-406dc7bcc127"
+    "amazon_channel": "cf528dfd-0edd-54c7-9642-de9b0db938ae"
   },
   "body": {
     "add": {
-      "ua_background_enabled": [
-        "false"
-      ],
-      "ua_opt_in": [
-        "false"
-      ],
       "device": [
-        "version_160"
+        "turtlenecks"
       ]
     },
     "current": {
-      "ua_background_enabled": [
-        "false"
-      ],
-      "ua_opt_in": [
-        "false"
-      ],
       "device": [
-        "version_160"
+        "turtlenecks",
+        "dad_jeans",
+        "suspenders",
+        "raincoats"
       ]
     }
   },

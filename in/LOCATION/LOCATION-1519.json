@@ -1,0 +1,17 @@
+{
+  "id": "f5fb8995-1aed-4362-682c-80aee5ebf543",
+  "offset": "1519",
+  "occurred": "2015-11-13T16:57:10.393Z",
+  "processed": "2015-11-13T16:57:10.393Z",
+  "device": {
+    "ios_channel": "ad9192dc-6fd0-057b-ab7d-52682102d0b3",
+    "named_user_id": "fa70c281-5533-b16f-3bdc-8d3f3005a8e9"
+  },
+  "body": {
+    "latitude": "0.22828688426059496",
+    "longitude": "0.972652256842776",
+    "foreground": true,
+    "session_id": "8ba26d0a-196c-d2b8-7958-2653520d1c20"
+  },
+  "type": "LOCATION"
+}

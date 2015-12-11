@@ -1,0 +1,18 @@
+{
+  "id": "4e48b1d0-8cbe-11e5-90dd-90e2ba025ad8",
+  "offset": "0",
+  "occurred": "2015-11-17T00:01:08.911Z",
+  "processed": "2015-11-17T00:01:10.964Z",
+  "device": {
+    "ios_channel": "62ccb785-adf7-4cdc-872a-4226a22be31a",
+    "named_user_id": "gatlin"
+  },
+  "body": {
+    "session_id": "33065e7c-cedd-49c4-9c6e-78087f249a78",
+    "last_delivered": {
+      "push_id": "8b04ad86-299c-46ca-a9af-d0b05ad70149",
+      "time": "2015-11-17T00:00:22.391Z"
+    }
+  },
+  "type": "OPEN"
+}

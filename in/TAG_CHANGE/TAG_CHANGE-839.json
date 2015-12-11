@@ -1,0 +1,26 @@
+{
+  "id": "e2de2389-89b4-6e8a-5730-14cd6d97f65f",
+  "offset": "839",
+  "occurred": "2015-11-13T16:45:50.394Z",
+  "processed": "2015-11-13T16:45:50.394Z",
+  "device": {
+    "android_channel": "206448cc-c46c-fea3-d1c7-6e3b76416f2b",
+    "named_user_id": "e83ba2e2-5a51-2a7a-3d44-8351b31a4085"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dad_jeans"
+      ]
+    },
+    "current": {
+      "device": [
+        "dad_jeans",
+        "high_tops",
+        "bow_ties",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

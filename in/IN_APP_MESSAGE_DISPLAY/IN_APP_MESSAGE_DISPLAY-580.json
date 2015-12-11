@@ -1,0 +1,13 @@
+{
+  "id": "307bee3f-1df6-684b-dd0a-ba0a7edcf726",
+  "offset": "2290",
+  "occurred": "2015-11-13T17:10:01.393Z",
+  "processed": "2015-11-13T17:10:01.393Z",
+  "device": {
+    "ios_channel": "d00e6f32-ae57-debb-d1ae-5a283bd2ba75"
+  },
+  "body": {
+    "push_id": "cb7e4ce6-af7f-6f59-e7d1-184cc8f35ff3"
+  },
+  "type": "IN_APP_MESSAGE_DISPLAY"
+}

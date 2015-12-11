@@ -1,0 +1,26 @@
+{
+  "id": "b3de8738-eaf0-62ed-1dca-87bbd0654646",
+  "offset": "232",
+  "occurred": "2015-11-13T16:35:43.394Z",
+  "processed": "2015-11-13T16:35:43.394Z",
+  "device": {
+    "android_channel": "27f6298f-7517-9f2e-e280-e009693031d7"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "cowboy_boots"
+      ]
+    },
+    "current": {
+      "device": [
+        "cowboy_boots",
+        "high_heels",
+        "raincoats",
+        "graphic_tees",
+        "turtlenecks"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

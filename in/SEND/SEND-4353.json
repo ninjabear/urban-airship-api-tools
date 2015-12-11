@@ -1,0 +1,15 @@
+{
+  "id": "141e9cc3-9b8e-11e5-98bd-d4bed9a886a2",
+  "offset": "0",
+  "occurred": "2015-12-05T20:23:42.988Z",
+  "processed": "2015-12-05T20:23:44.000Z",
+  "device": {
+    "android_channel": "998e554c-761d-42e7-b5a2-faf1fb491764",
+    "named_user_id": "lisahewusfresh"
+  },
+  "body": {
+    "push_id": "7cc46b44-4354-4004-ab72-bbf585390287",
+    "group_id": "9efacd54-b563-460d-8377-d13f51510ede"
+  },
+  "type": "SEND"
+}

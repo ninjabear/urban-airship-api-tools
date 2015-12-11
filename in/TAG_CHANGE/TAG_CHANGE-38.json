@@ -1,20 +1,25 @@
 {
-  "id": "00000151-13e2-21e7-2e39-051a6c08090a",
-  "offset": "0",
-  "occurred": "2015-11-17T05:19:25.671Z",
-  "processed": "2015-11-17T10:03:30.998Z",
+  "id": "eef8d829-7bad-3afd-5cf8-a1079b9caa36",
+  "offset": "38",
+  "occurred": "2015-11-13T16:32:29.394Z",
+  "processed": "2015-11-13T16:32:29.394Z",
   "device": {
-    "ios_channel": "693aaecb-c773-4155-8d8d-5ad15cb4370d"
+    "android_channel": "8b7ec8b4-672d-9320-332d-e7663ad9e03f",
+    "named_user_id": "93a6b9e5-f756-8c2e-8c8c-bc2258ef41cf"
   },
   "body": {
     "add": {
-      "ua_ios_version": [
-        "9.1.X"
+      "device": [
+        "cowboy_boots"
       ]
     },
     "current": {
-      "ua_ios_version": [
-        "9.1.X"
+      "device": [
+        "cowboy_boots",
+        "bow_ties",
+        "graphic_tees",
+        "raincoats",
+        "dress_shirts"
       ]
     }
   },

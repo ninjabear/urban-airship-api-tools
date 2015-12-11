@@ -1,0 +1,26 @@
+{
+  "id": "216df9af-85b4-6389-b1d5-7c2372eada4d",
+  "offset": "1904",
+  "occurred": "2015-11-13T17:03:35.393Z",
+  "processed": "2015-11-13T17:03:35.393Z",
+  "device": {
+    "amazon_channel": "6322e3d7-dd1c-f06a-f1d9-b9c6a12d3337"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "turtlenecks"
+      ]
+    },
+    "current": {
+      "device": [
+        "turtlenecks",
+        "high_tops",
+        "high_heels",
+        "bow_ties",
+        "cowboy_boots"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

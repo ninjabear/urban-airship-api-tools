@@ -1,0 +1,25 @@
+{
+  "id": "b7e57f76-e87d-62ea-e8d0-1473b350e1ce",
+  "offset": "1975",
+  "occurred": "2015-11-13T17:04:46.393Z",
+  "processed": "2015-11-13T17:04:46.393Z",
+  "device": {
+    "ios_channel": "1067880b-3324-e11f-5eba-3010ef56a6c4"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "dad_jeans"
+      ]
+    },
+    "current": {
+      "device": [
+        "dad_jeans",
+        "bow_ties",
+        "sweatpants",
+        "raincoats"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

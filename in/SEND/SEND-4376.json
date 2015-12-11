@@ -1,0 +1,15 @@
+{
+  "id": "041366a1-9bbe-11e5-a7be-001122334455",
+  "offset": "0",
+  "occurred": "2015-12-06T02:06:51.914Z",
+  "processed": "2015-12-06T02:06:52.614Z",
+  "device": {
+    "ios_channel": "407755c5-5590-45d6-b35d-5ae7c98183d4",
+    "named_user_id": "kermit"
+  },
+  "body": {
+    "push_id": "68e1ecc6-eb1c-4d4b-958c-009851d4d1d2",
+    "group_id": "11c3299b-17bb-46f3-96bb-12ab066261b3"
+  },
+  "type": "SEND"
+}

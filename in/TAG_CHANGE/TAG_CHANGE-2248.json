@@ -1,0 +1,26 @@
+{
+  "id": "d4b01868-8116-1c9d-db06-7346b09e6f07",
+  "offset": "2248",
+  "occurred": "2015-11-13T17:09:19.393Z",
+  "processed": "2015-11-13T17:09:19.393Z",
+  "device": {
+    "amazon_channel": "e3093b14-6607-8ff5-e416-7aa67850c463",
+    "named_user_id": "fd9686f2-c6ad-81f0-6c4d-3c6db500412a"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "omg_shoes"
+      ]
+    },
+    "current": {
+      "device": [
+        "omg_shoes",
+        "raincoats",
+        "sombreros",
+        "sweatpants"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

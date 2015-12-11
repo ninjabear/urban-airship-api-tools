@@ -1,0 +1,24 @@
+{
+  "id": "2234c204-6675-fbe2-c227-4daee39cbe9d",
+  "offset": "2003",
+  "occurred": "2015-11-13T17:05:14.393Z",
+  "processed": "2015-11-13T17:05:14.393Z",
+  "device": {
+    "amazon_channel": "4ecbaff5-b4ba-f8f0-3393-3e5b99d5b723"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "that_one_ratty_tshirt"
+      ]
+    },
+    "current": {
+      "device": [
+        "that_one_ratty_tshirt",
+        "dad_jeans",
+        "dress_shirts"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c11a237f-3488-038b-0015-bb26848e255a",
+  "offset": "2066",
+  "occurred": "2015-11-13T17:06:17.393Z",
+  "processed": "2015-11-13T17:06:17.393Z",
+  "device": {
+    "android_channel": "00d973c9-89e3-1ff4-fecd-c102c05cb6d2"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "raincoats"
+      ]
+    },
+    "current": {
+      "device": [
+        "raincoats",
+        "turtlenecks",
+        "suspenders",
+        "dress_shirts"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}

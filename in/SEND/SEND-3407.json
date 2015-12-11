@@ -1,0 +1,14 @@
+{
+  "id": "00344d83-9243-11e5-98bd-d4bed9a886a2",
+  "offset": "0",
+  "occurred": "2015-11-24T00:33:36.856Z",
+  "processed": "2015-11-24T00:59:11.811Z",
+  "device": {
+    "android_channel": "088fd60e-46f6-42be-a353-69b4a685c18a",
+    "named_user_id": "nwittstock"
+  },
+  "body": {
+    "push_id": "c0920e21-f995-4a8b-9b55-51628f5de042"
+  },
+  "type": "SEND"
+}

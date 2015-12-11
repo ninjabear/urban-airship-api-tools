@@ -1,0 +1,26 @@
+{
+  "id": "1aa8cb25-5fd0-8937-4d04-328b8af3e5af",
+  "offset": "1193",
+  "occurred": "2015-11-13T16:51:44.393Z",
+  "processed": "2015-11-13T16:51:44.393Z",
+  "device": {
+    "amazon_channel": "21b17d44-530b-9244-9bcf-7ee27b1312b2"
+  },
+  "body": {
+    "add": {
+      "device": [
+        "cowboy_boots"
+      ]
+    },
+    "current": {
+      "device": [
+        "cowboy_boots",
+        "suspenders",
+        "high_tops",
+        "omg_shoes",
+        "dad_jeans"
+      ]
+    }
+  },
+  "type": "TAG_CHANGE"
+}
