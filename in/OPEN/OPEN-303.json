@@ -1,18 +1,21 @@
 {
-  "id": "f6893147-1c0c-1bd1-d0f4-db950d88071e",
-  "offset": "303",
-  "occurred": "2015-11-13T16:36:54.392Z",
-  "processed": "2015-11-13T16:36:54.392Z",
+  "id": "bcd5b450-9a19-11e5-a9b0-001018948f58",
+  "offset": "0",
+  "occurred": "2015-12-03T23:58:01.591Z",
+  "processed": "2015-12-03T23:58:24.857Z",
   "device": {
-    "amazon_channel": "6c8a32b7-1b06-6039-825e-cf87bcda98ba"
+    "ios_channel": "4f4665ca-0e90-454d-9e22-934ddbe4b036",
+    "named_user_id": "johngreene"
   },
   "body": {
     "triggering_push": {
-      "push_id": "dffb5a3e-e76e-a926-ef32-93074904ad88"
+      "push_id": "7574a72b-f3dc-4a4b-8503-74c39fe3a1f0",
+      "time": "2015-12-03T23:57:53.675Z"
     },
-    "session_id": "47297026-563b-ba8f-f35b-2f7e315a9f79",
+    "session_id": "419c256d-f5b2-4231-9585-b51df73d6a99",
     "last_delivered": {
-      "push_id": "aa9a7a7a-cc8c-205f-16b2-98c0aebdf77e"
+      "push_id": "7574a72b-f3dc-4a4b-8503-74c39fe3a1f0",
+      "time": "2015-12-03T23:57:53.675Z"
     }
   },
   "type": "OPEN"

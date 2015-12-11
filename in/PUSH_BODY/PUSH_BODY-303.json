@@ -1,11 +1,12 @@
 {
-  "id": "25a59794-05a5-e9b9-abad-a0cbc1383339",
-  "offset": "303",
-  "occurred": "2015-11-13T16:36:54.394Z",
-  "processed": "2015-11-13T16:36:54.394Z",
+  "id": "00000151-7dfb-1658-1db4-2b4e4309120a",
+  "offset": "0",
+  "occurred": "2015-12-07T19:46:26.008Z",
+  "processed": "2015-12-07T19:46:26.688Z",
   "body": {
-    "payload": "eyJkZXZpY2VfdHlwZXMiOiJpb3MiLCJhdWRpZW5jZSI6ImFsbCIsIm5vdGlmaWNhdGlvbiI6eyJhbGVydCI6ImhlaXJsb29tLiBCYW5rc3kgbmFyd2hhbCBhcnQgcGFydHksIHR3ZWUgZm9vZCB0cnVjayB2aXJhbCBsb2Nhdm9yZSIsImlvcyI6IkFtZXJpY2FuIEFwcGFyZWwgTWFyZmEuIFBvdXItb3ZlciBwdWcgbXVtYmxlY29yZSBFY2hvIFBhcmssIGtlZmZpeWVoIn19",
-    "push_id": "d7d2bfbd-cc97-a124-36f0-a6a83d9b73ec",
+    "payload": "eyJ0aW1lX3pvbmUiOiJBbWVyaWNhL0xvc19BbmdlbGVzIiwicHVzaF9zdGF0dXMiOiJzZW50In0=",
+    "push_id": "9bbb7c1d-b42b-4e43-9356-826a74272aef",
+    "group_id": "9f2c2168-40bc-47dd-becf-235b788cb625",
     "trimmed": false
   },
   "type": "PUSH_BODY"

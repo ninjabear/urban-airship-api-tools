@@ -12,30 +12,7 @@
       "type": "object",
       "properties": {
         "name": {
-          "type": "string",
-          "pattern": "^([A-Za-z0-9+/]{4})*([A-Za-z0-9+/]{4}|[A-Za-z0-9+/]{3}=|[A-Za-z0-9+/]{2}==)$"
-        },
-        "interaction_type": {
-          "type": "string",
-          "pattern": "^([A-Za-z0-9+/]{4})*([A-Za-z0-9+/]{4}|[A-Za-z0-9+/]{3}=|[A-Za-z0-9+/]{2}==)$"
-        },
-        "customer_id": {
-          "type": "string",
-          "pattern": "^([A-Za-z0-9+/]{4})*([A-Za-z0-9+/]{4}|[A-Za-z0-9+/]{3}=|[A-Za-z0-9+/]{2}==)$"
-        },
-        "interaction_id": {
-          "type": "string",
-          "pattern": "^([A-Za-z0-9+/]{4})*([A-Za-z0-9+/]{4}|[A-Za-z0-9+/]{3}=|[A-Za-z0-9+/]{2}==)$"
-        },
-        "triggering_push": {
-          "type": "object",
-          "properties": {
-            "push_id": {
-              "type": "string",
-              "format": "uuid"
-            }
-          },
-          "additionalProperties": true
+          "type": "string"
         },
         "last_delivered": {
           "type": "object",
@@ -43,16 +20,36 @@
             "push_id": {
               "type": "string",
               "format": "uuid"
+            },
+            "group_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "time": {
+              "type": "string",
+              "format": "date-time"
             }
           },
           "additionalProperties": true
         },
-        "transaction": {
-          "type": "string",
-          "pattern": "^([A-Za-z0-9+/]{4})*([A-Za-z0-9+/]{4}|[A-Za-z0-9+/]{3}=|[A-Za-z0-9+/]{2}==)$"
+        "properties": {
+          "type": "object",
+          "properties": {
+            "ltv": {
+              "type": "boolean"
+            },
+            "date": {
+              "type": "string"
+            },
+            "description": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": true
         },
         "value": {
-          "type": "number"
+          "type": "number",
+          "minimum": 0
         }
       },
       "additionalProperties": true
@@ -83,12 +80,7 @@
           "format": "uuid"
         },
         "named_user_id": {
-          "type": "string",
-          "format": "uuid"
-        },
-        "amazon_channel": {
-          "type": "string",
-          "format": "uuid"
+          "type": "string"
         },
         "android_channel": {
           "type": "string",

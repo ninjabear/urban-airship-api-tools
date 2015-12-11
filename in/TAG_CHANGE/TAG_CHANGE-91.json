@@ -1,24 +1,24 @@
 {
-  "id": "4c4089c9-c31f-3a9c-e8e9-50bbd4867a79",
-  "offset": "91",
-  "occurred": "2015-11-13T16:33:22.394Z",
-  "processed": "2015-11-13T16:33:22.394Z",
+  "id": "00000151-263f-5b75-6576-0b120208650a",
+  "offset": "0",
+  "occurred": "2015-11-20T18:54:25.141Z",
+  "processed": "2015-11-20T18:54:30.226Z",
   "device": {
-    "ios_channel": "add618da-6443-098d-71b9-c846a299e3f4"
+    "ios_channel": "0b208a50-e1d7-4aa3-b76b-430041487fac",
+    "named_user_id": "bheckman"
   },
   "body": {
     "add": {
       "device": [
-        "omg_shoes"
+        "☃"
       ]
     },
     "current": {
       "device": [
-        "omg_shoes",
-        "dad_jeans",
-        "sweatpants",
-        "turtlenecks",
-        "dress_shirts"
+        "version_160",
+        "☃",
+        "bheckman_tele",
+        "brettheckman_tele"
       ]
     }
   },

@@ -1,10 +1,11 @@
 {
-  "id": "92032003-c064-87ac-b913-443f53087654",
-  "offset": "2",
-  "occurred": "2015-11-13T16:31:53.394Z",
-  "processed": "2015-11-13T16:31:53.394Z",
+  "id": "99416246-8fc0-11e5-a4bd-d4bed9a82576",
+  "offset": "0",
+  "occurred": "2015-11-20T19:55:07.239Z",
+  "processed": "2015-11-20T19:55:08.313Z",
   "device": {
-    "android_channel": "c52df176-e583-1d1b-dc14-48443b97fe03"
+    "ios_channel": "ecf0b08b-806f-47b6-95cc-246129521461",
+    "named_user_id": "Ryan_Goff"
   },
   "type": "UNINSTALL"
 }

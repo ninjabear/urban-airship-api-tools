@@ -1,13 +1,14 @@
 {
-  "id": "d67c369e-f0e0-8079-0365-de5eaca2d06f",
-  "offset": "159",
-  "occurred": "2015-11-13T16:34:30.394Z",
-  "processed": "2015-11-13T16:34:30.394Z",
+  "id": "df6d1d75-8c84-11e5-84ee-001b21d15598",
+  "offset": "0",
+  "occurred": "2015-11-16T17:10:01.671Z",
+  "processed": "2015-11-16T17:10:02.777Z",
   "device": {
-    "amazon_channel": "e7b5671d-8fb5-a7a5-880b-8bee78dc168b"
+    "ios_channel": "583b9c45-1ccc-43a4-96ff-f871c71cabea",
+    "named_user_id": "dick_heydet"
   },
   "body": {
-    "push_id": "f9aa4ed5-3ca3-1b56-88c9-5fd09b32b299"
+    "push_id": "1abc8fb2-68af-4879-9672-bed2d6240d7c"
   },
   "type": "SEND"
 }

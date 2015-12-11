@@ -1,24 +1,21 @@
 {
-  "id": "afd300eb-d710-5ee4-31c3-ecb76078a34a",
-  "offset": "140",
-  "occurred": "2015-11-13T16:34:11.394Z",
-  "processed": "2015-11-13T16:34:11.394Z",
+  "id": "00000151-37eb-382e-5069-091a69080d0a",
+  "offset": "0",
+  "occurred": "2015-11-24T05:15:40.974Z",
+  "processed": "2015-11-24T05:16:17.581Z",
   "device": {
-    "android_channel": "fa26d0d9-10bb-4d23-195b-0c9363ab33b3"
+    "ios_channel": "04a9debb-59d6-4c62-b1ef-2c8e5fcac03e",
+    "named_user_id": "joey_freedman"
   },
   "body": {
     "add": {
-      "device": [
-        "that_one_ratty_tshirt"
+      "ua_ios_model": [
+        "iPhone6,1"
       ]
     },
     "current": {
-      "device": [
-        "that_one_ratty_tshirt",
-        "dad_jeans",
-        "cowboy_boots",
-        "high_tops",
-        "swimsuits"
+      "ua_ios_model": [
+        "iPhone6,1"
       ]
     }
   },

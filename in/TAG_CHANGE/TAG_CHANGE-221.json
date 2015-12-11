@@ -1,23 +1,21 @@
 {
-  "id": "bfd99110-0152-3245-2c04-93d242375e03",
-  "offset": "221",
-  "occurred": "2015-11-13T16:35:32.393Z",
-  "processed": "2015-11-13T16:35:32.393Z",
+  "id": "00000151-8005-40da-5069-071a69080b0a",
+  "offset": "0",
+  "occurred": "2015-12-08T05:16:46.682Z",
+  "processed": "2015-12-08T06:21:07.661Z",
   "device": {
-    "ios_channel": "219c49d5-536c-8de5-69c8-712d04e07d64"
+    "ios_channel": "109dfd99-099d-4000-bf6c-f5507c588e09",
+    "named_user_id": "potato"
   },
   "body": {
     "add": {
-      "device": [
-        "graphic_tees"
+      "ua_ios_model": [
+        "iPod5,1"
       ]
     },
     "current": {
-      "device": [
-        "graphic_tees",
-        "dad_jeans",
-        "raincoats",
-        "suspenders"
+      "ua_ios_model": [
+        "iPod5,1"
       ]
     }
   },

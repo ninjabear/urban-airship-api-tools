@@ -1,24 +1,20 @@
 {
-  "id": "0de4c6c3-a06d-9f38-5f5c-86deb1f5abbc",
-  "offset": "200",
-  "occurred": "2015-11-13T16:35:11.393Z",
-  "processed": "2015-11-13T16:35:11.393Z",
+  "id": "00000151-7095-f112-6e65-021a6808060a",
+  "offset": "0",
+  "occurred": "2015-12-05T05:20:53.522Z",
+  "processed": "2015-12-05T13:56:04.259Z",
   "device": {
-    "android_channel": "4c599560-d860-1317-2432-3ecdfb726b1f"
+    "android_channel": "d6a4fea4-d5c6-4a0c-b9fd-bee11d19eed7"
   },
   "body": {
     "add": {
-      "device": [
-        "sombreros"
+      "ua_locale_language": [
+        "en"
       ]
     },
     "current": {
-      "device": [
-        "sombreros",
-        "turtlenecks",
-        "that_one_ratty_tshirt",
-        "startup_tees",
-        "cowboy_boots"
+      "ua_locale_language": [
+        "en"
       ]
     }
   },

@@ -1,23 +1,20 @@
 {
-  "id": "9325714a-51a6-547d-5150-bd0b4a2156e9",
-  "offset": "131",
-  "occurred": "2015-11-13T16:34:02.394Z",
-  "processed": "2015-11-13T16:34:02.394Z",
+  "id": "00000151-3bde-2907-616c-051a0208090a",
+  "offset": "0",
+  "occurred": "2015-11-24T23:39:53.991Z",
+  "processed": "2015-11-24T23:39:59.217Z",
   "device": {
-    "amazon_channel": "d640fb9c-aebb-7e21-9ea7-cf0a878ad7b1"
+    "android_channel": "6a0435bb-8ed7-43d5-9319-4e66528088d7"
   },
   "body": {
     "add": {
       "device": [
-        "swimsuits"
+        "lazer"
       ]
     },
     "current": {
       "device": [
-        "swimsuits",
-        "dress_shirts",
-        "graphic_tees",
-        "dad_jeans"
+        "lazer"
       ]
     }
   },

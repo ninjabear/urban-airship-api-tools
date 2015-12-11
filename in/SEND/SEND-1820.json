@@ -1,13 +1,15 @@
 {
-  "id": "33844138-4f44-2ade-3c94-3b406ad7264c",
-  "offset": "1820",
-  "occurred": "2015-11-13T17:02:11.394Z",
-  "processed": "2015-11-13T17:02:11.394Z",
+  "id": "25d40dbd-9a30-11e5-96df-d4bed9a8287c",
+  "offset": "0",
+  "occurred": "2015-12-04T02:38:48.843Z",
+  "processed": "2015-12-04T02:38:49.807Z",
   "device": {
-    "android_channel": "4cbbf3dc-cf44-8978-120d-94f630cbbf84"
+    "android_channel": "a68cbc36-027a-4db6-8365-63d1c6333a13",
+    "named_user_id": "duncanwork"
   },
   "body": {
-    "push_id": "470182df-7ed4-3d83-42eb-2442ffda4594"
+    "push_id": "82587c16-a543-40fc-907a-9718ea3308a8",
+    "group_id": "ae3383a3-64c3-456c-ae25-08766ee43c5f"
   },
   "type": "SEND"
 }

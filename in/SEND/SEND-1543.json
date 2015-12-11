@@ -1,13 +1,14 @@
 {
-  "id": "3580a646-7e38-f083-25ab-4c1bf604e60c",
-  "offset": "1543",
-  "occurred": "2015-11-13T16:57:34.393Z",
-  "processed": "2015-11-13T16:57:34.393Z",
+  "id": "52302555-94fa-11e5-8ae2-d4bed9af9426",
+  "offset": "0",
+  "occurred": "2015-11-27T11:30:54.629Z",
+  "processed": "2015-11-27T11:30:55.827Z",
   "device": {
-    "ios_channel": "69cec286-15f8-f5f8-f802-33baa2106c49"
+    "ios_channel": "74070b62-e678-4f49-bf48-74903de80b15",
+    "named_user_id": "green-hallows-4940"
   },
   "body": {
-    "push_id": "f80e7adb-d44b-597e-d887-4212188bc1ef"
+    "push_id": "11b50ff6-8ed6-49d9-a69e-48020741ad59"
   },
   "type": "SEND"
 }

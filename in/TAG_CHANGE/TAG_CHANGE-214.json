@@ -1,23 +1,81 @@
 {
-  "id": "3e438a30-fbef-70b4-5466-ed06a15580c7",
-  "offset": "214",
-  "occurred": "2015-11-13T16:35:25.394Z",
-  "processed": "2015-11-13T16:35:25.394Z",
+  "id": "00000151-7ece-7675-6576-0b1202080f0a",
+  "offset": "0",
+  "occurred": "2015-12-07T23:37:18.709Z",
+  "processed": "2015-12-07T23:37:22.147Z",
   "device": {
-    "amazon_channel": "64bc36af-1bcb-e690-b938-b6506f34ba3f"
+    "ios_channel": "109dfd99-099d-4000-bf6c-f5507c588e09",
+    "named_user_id": "potato"
   },
   "body": {
-    "add": {
+    "remove": {
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_locale_language": [
+        "en"
+      ],
+      "ua_ios_version": [
+        "8.4.X"
+      ],
+      "timezone": [
+        "America/Los_Angeles"
+      ],
+      "ua_locale_country": [
+        "US"
+      ],
+      "ua_opt_in": [
+        "true"
+      ],
+      "ua_ios_sdk_version": [
+        "6.3.X"
+      ],
+      "ua_location_enabled": [
+        "true"
+      ],
       "device": [
-        "turtlenecks"
+        "version_160"
+      ],
+      "ua_ios_model": [
+        "iPod5,1"
+      ],
+      "ua_ios_app_version": [
+        "160"
       ]
     },
     "current": {
+      "ua_background_enabled": [
+
+      ],
+      "ua_locale_language": [
+
+      ],
+      "ua_ios_version": [
+
+      ],
+      "timezone": [
+
+      ],
+      "ua_locale_country": [
+
+      ],
+      "ua_opt_in": [
+
+      ],
+      "ua_ios_sdk_version": [
+
+      ],
+      "ua_location_enabled": [
+
+      ],
       "device": [
-        "turtlenecks",
-        "swimsuits",
-        "startup_tees",
-        "that_one_ratty_tshirt"
+
+      ],
+      "ua_ios_model": [
+
+      ],
+      "ua_ios_app_version": [
+
       ]
     }
   },

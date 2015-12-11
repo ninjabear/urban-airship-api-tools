@@ -1,24 +1,25 @@
 {
-  "id": "a02806b1-6923-726e-7b8d-d1ecd7479a2c",
-  "offset": "88",
-  "occurred": "2015-11-13T16:33:19.394Z",
-  "processed": "2015-11-13T16:33:19.394Z",
+  "id": "00000151-263e-7196-7274-041264080e0a",
+  "offset": "0",
+  "occurred": "2015-11-20T18:53:25.270Z",
+  "processed": "2015-11-20T18:53:30.116Z",
   "device": {
-    "android_channel": "a0fb6463-b9f5-ad46-3dc7-5f0a976f0bad"
+    "android_channel": "03b4de7b-7d88-4bdf-803e-5391df58f7c2"
   },
   "body": {
     "add": {
-      "device": [
-        "startup_tees"
+      "ua_opt_in": [
+        "true"
+      ]
+    },
+    "remove": {
+      "ua_opt_in": [
+        "false"
       ]
     },
     "current": {
-      "device": [
-        "startup_tees",
-        "raincoats",
-        "omg_shoes",
-        "high_tops",
-        "swimsuits"
+      "ua_opt_in": [
+        "true"
       ]
     }
   },

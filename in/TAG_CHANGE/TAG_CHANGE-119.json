@@ -1,23 +1,35 @@
 {
-  "id": "11df9817-a2cf-3c27-f71b-9219f359f500",
-  "offset": "119",
-  "occurred": "2015-11-13T16:33:50.394Z",
-  "processed": "2015-11-13T16:33:50.394Z",
+  "id": "00000151-3bc3-f28b-6576-0b1202081c0a",
+  "offset": "0",
+  "occurred": "2015-11-24T23:11:16.107Z",
+  "processed": "2015-11-24T23:11:19.898Z",
   "device": {
-    "amazon_channel": "06869bc9-a2d7-42f2-9858-df338b32a2f8"
+    "ios_channel": "04a9debb-59d6-4c62-b1ef-2c8e5fcac03e",
+    "named_user_id": "joey_freedman"
   },
   "body": {
     "add": {
-      "device": [
-        "graphic_tees"
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_opt_in": [
+        "true"
+      ]
+    },
+    "remove": {
+      "ua_background_enabled": [
+        "false"
+      ],
+      "ua_opt_in": [
+        "false"
       ]
     },
     "current": {
-      "device": [
-        "graphic_tees",
-        "startup_tees",
-        "omg_shoes",
-        "swimsuits"
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_opt_in": [
+        "true"
       ]
     }
   },

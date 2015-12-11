@@ -1,23 +1,26 @@
 {
-  "id": "2866044c-6674-ed35-f309-8f0c4471578a",
-  "offset": "9",
-  "occurred": "2015-11-13T16:32:00.394Z",
-  "processed": "2015-11-13T16:32:00.394Z",
+  "id": "00000151-047c-2034-2e38-05126c08100a",
+  "offset": "0",
+  "occurred": "2015-11-14T05:33:42.324Z",
+  "processed": "2015-11-14T05:59:42.649Z",
   "device": {
-    "amazon_channel": "4f20dc37-2d43-f625-1e7d-c788f18597fd"
+    "ios_channel": "10b720bb-db15-4a60-9a2f-f8b2eafad3b2",
+    "named_user_id": "misty"
   },
   "body": {
     "add": {
-      "device": [
-        "bow_ties"
+      "ua_ios_version": [
+        "9.1.X"
+      ]
+    },
+    "remove": {
+      "ua_ios_version": [
+        "8.3.X"
       ]
     },
     "current": {
-      "device": [
-        "bow_ties",
-        "startup_tees",
-        "dress_shirts",
-        "raincoats"
+      "ua_ios_version": [
+        "9.1.X"
       ]
     }
   },

@@ -1,23 +1,21 @@
 {
-  "id": "664601ec-4d0e-2d6f-4c9b-d05a2cdd8faa",
-  "offset": "79",
-  "occurred": "2015-11-13T16:33:10.394Z",
-  "processed": "2015-11-13T16:33:10.394Z",
+  "id": "00000151-21b6-9a4c-7262-05120208230a",
+  "offset": "0",
+  "occurred": "2015-11-19T21:46:33.932Z",
+  "processed": "2015-11-19T21:46:39.971Z",
   "device": {
-    "amazon_channel": "8509509d-46d2-b12a-c19c-a308b11e6de4"
+    "ios_channel": "821248dd-7073-4ead-bb88-9df18275c055",
+    "named_user_id": "bryanschlief"
   },
   "body": {
-    "add": {
+    "remove": {
       "device": [
-        "raincoats"
+        "bryan"
       ]
     },
     "current": {
       "device": [
-        "raincoats",
-        "dress_shirts",
-        "that_one_ratty_tshirt",
-        "dad_jeans"
+        "version_156"
       ]
     }
   },

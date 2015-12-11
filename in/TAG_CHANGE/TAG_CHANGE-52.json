@@ -1,24 +1,21 @@
 {
-  "id": "be1d9f72-f001-1001-834e-d2a35719a7fc",
-  "offset": "52",
-  "occurred": "2015-11-13T16:32:43.394Z",
-  "processed": "2015-11-13T16:32:43.394Z",
+  "id": "00000151-13e3-18cf-5069-091a69080d0a",
+  "offset": "0",
+  "occurred": "2015-11-17T05:20:28.879Z",
+  "processed": "2015-11-17T12:44:59.013Z",
   "device": {
-    "android_channel": "2a67ba5f-9f22-3878-b7ce-81d739999fef"
+    "ios_channel": "f361066b-8f51-462c-a785-406dc7bcc127",
+    "named_user_id": "Donato"
   },
   "body": {
     "add": {
-      "device": [
-        "that_one_ratty_tshirt"
+      "ua_ios_model": [
+        "iPhone7,2"
       ]
     },
     "current": {
-      "device": [
-        "that_one_ratty_tshirt",
-        "high_heels",
-        "sweatpants",
-        "suspenders",
-        "high_tops"
+      "ua_ios_model": [
+        "iPhone7,2"
       ]
     }
   },

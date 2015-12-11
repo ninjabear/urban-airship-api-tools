@@ -1,23 +1,20 @@
 {
-  "id": "2e5a486d-2184-40bf-fb63-222a4d39c5f3",
-  "offset": "180",
-  "occurred": "2015-11-13T16:34:51.394Z",
-  "processed": "2015-11-13T16:34:51.394Z",
+  "id": "00000151-664b-d75d-6564-031a6608070a",
+  "offset": "0",
+  "occurred": "2015-12-03T05:23:45.117Z",
+  "processed": "2015-12-03T11:07:08.259Z",
   "device": {
-    "amazon_channel": "6053504e-65ee-d990-6eef-69844b0ad469"
+    "android_channel": "fe5f8858-b1d4-4e45-a9fe-9475dedbe309"
   },
   "body": {
     "add": {
-      "device": [
-        "suspenders"
+      "ua_android_app_version": [
+        "dev"
       ]
     },
     "current": {
-      "device": [
-        "suspenders",
-        "dad_jeans",
-        "sweatpants",
-        "raincoats"
+      "ua_android_app_version": [
+        "dev"
       ]
     }
   },

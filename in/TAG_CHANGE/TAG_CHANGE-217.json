@@ -1,22 +1,33 @@
 {
-  "id": "2c10c032-85bd-282d-4bbb-50de68ea5a40",
-  "offset": "217",
-  "occurred": "2015-11-13T16:35:28.394Z",
-  "processed": "2015-11-13T16:35:28.394Z",
+  "id": "00000151-7f3b-d55b-6576-0b1a02080f0a",
+  "offset": "0",
+  "occurred": "2015-12-08T01:36:46.427Z",
+  "processed": "2015-12-08T01:36:51.188Z",
   "device": {
-    "android_channel": "a0796855-3c02-71a9-5734-46d44e716406"
+    "ios_channel": "109dfd99-099d-4000-bf6c-f5507c588e09",
+    "named_user_id": "potato"
   },
   "body": {
     "add": {
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_opt_in": [
+        "true"
+      ],
       "device": [
-        "bow_ties"
+        "version_160"
       ]
     },
     "current": {
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_opt_in": [
+        "true"
+      ],
       "device": [
-        "bow_ties",
-        "raincoats",
-        "that_one_ratty_tshirt"
+        "version_160"
       ]
     }
   },

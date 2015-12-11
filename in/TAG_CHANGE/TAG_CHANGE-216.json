@@ -1,24 +1,25 @@
 {
-  "id": "1cf66747-e1af-b91f-45bc-0a47f8fbedd6",
-  "offset": "216",
-  "occurred": "2015-11-13T16:35:27.394Z",
-  "processed": "2015-11-13T16:35:27.394Z",
+  "id": "00000151-800c-ce69-3333-031266080c0a",
+  "offset": "0",
+  "occurred": "2015-12-08T05:25:01.673Z",
+  "processed": "2015-12-08T10:31:00.509Z",
   "device": {
-    "android_channel": "1a612900-c081-611c-7fe2-e0face2d1d8e"
+    "android_channel": "6a0435bb-8ed7-43d5-9319-4e66528088d7"
   },
   "body": {
     "add": {
-      "device": [
-        "dad_jeans"
+      "ua_android_app_version": [
+        "354"
+      ]
+    },
+    "remove": {
+      "ua_android_app_version": [
+        "336"
       ]
     },
     "current": {
-      "device": [
-        "dad_jeans",
-        "swimsuits",
-        "omg_shoes",
-        "high_tops",
-        "turtlenecks"
+      "ua_android_app_version": [
+        "354"
       ]
     }
   },

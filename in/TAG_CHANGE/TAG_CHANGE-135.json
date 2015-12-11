@@ -1,24 +1,21 @@
 {
-  "id": "3389dc44-afda-78f8-e31e-773235846bc0",
-  "offset": "135",
-  "occurred": "2015-11-13T16:34:06.393Z",
-  "processed": "2015-11-13T16:34:06.393Z",
+  "id": "00000151-37eb-382e-6e65-021a6808060a",
+  "offset": "0",
+  "occurred": "2015-11-24T05:15:40.974Z",
+  "processed": "2015-11-24T05:16:16.934Z",
   "device": {
-    "ios_channel": "bfe349fd-f32e-9d6b-1c50-9d878ff27490"
+    "ios_channel": "04a9debb-59d6-4c62-b1ef-2c8e5fcac03e",
+    "named_user_id": "joey_freedman"
   },
   "body": {
     "add": {
-      "device": [
-        "sweatpants"
+      "ua_locale_language": [
+        "en"
       ]
     },
     "current": {
-      "device": [
-        "sweatpants",
-        "high_heels",
-        "suspenders",
-        "omg_shoes",
-        "swimsuits"
+      "ua_locale_language": [
+        "en"
       ]
     }
   },

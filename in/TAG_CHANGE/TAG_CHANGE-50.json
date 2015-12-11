@@ -1,23 +1,21 @@
 {
-  "id": "ca1095a5-4cb8-9392-a73e-8deab7c2ed35",
-  "offset": "50",
-  "occurred": "2015-11-13T16:32:41.394Z",
-  "processed": "2015-11-13T16:32:41.394Z",
+  "id": "00000151-13e3-18cf-3631-031a6508070a",
+  "offset": "0",
+  "occurred": "2015-11-17T05:20:28.879Z",
+  "processed": "2015-11-17T12:44:58.947Z",
   "device": {
-    "ios_channel": "2d5b9633-2a36-e164-164c-0d91875a5dd4"
+    "ios_channel": "f361066b-8f51-462c-a785-406dc7bcc127",
+    "named_user_id": "Donato"
   },
   "body": {
     "add": {
-      "device": [
-        "startup_tees"
+      "ua_ios_app_version": [
+        "160"
       ]
     },
     "current": {
-      "device": [
-        "startup_tees",
-        "sombreros",
-        "graphic_tees",
-        "cowboy_boots"
+      "ua_ios_app_version": [
+        "160"
       ]
     }
   },

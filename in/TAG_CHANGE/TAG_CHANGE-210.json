@@ -1,23 +1,20 @@
 {
-  "id": "1b570346-800f-f115-a0c6-2433c926f1a2",
-  "offset": "210",
-  "occurred": "2015-11-13T16:35:21.394Z",
-  "processed": "2015-11-13T16:35:21.394Z",
+  "id": "00000151-75c5-1e2b-2e36-051a6b08090a",
+  "offset": "0",
+  "occurred": "2015-12-06T05:30:31.339Z",
+  "processed": "2015-12-06T05:32:18.496Z",
   "device": {
-    "android_channel": "da9cc797-19b0-95e5-c858-f9e6372ae61b"
+    "android_channel": "16775b36-2291-4387-9e92-1ef5c93882a1"
   },
   "body": {
     "add": {
-      "device": [
-        "raincoats"
+      "ua_android_sdk_version": [
+        "6.4.X"
       ]
     },
     "current": {
-      "device": [
-        "raincoats",
-        "that_one_ratty_tshirt",
-        "swimsuits",
-        "sweatpants"
+      "ua_android_sdk_version": [
+        "6.4.X"
       ]
     }
   },

@@ -1,24 +1,35 @@
 {
-  "id": "306fe9e9-4a66-6589-d4bd-9298da95d9b0",
-  "offset": "212",
-  "occurred": "2015-11-13T16:35:23.394Z",
-  "processed": "2015-11-13T16:35:23.394Z",
+  "id": "00000151-7e9e-1575-6101-12020802890a",
+  "offset": "0",
+  "occurred": "2015-12-07T22:44:28.149Z",
+  "processed": "2015-12-07T22:44:33.915Z",
   "device": {
-    "android_channel": "d75d3c8d-208b-b9ee-252a-7b8a1d21525e"
+    "ios_channel": "8bdfb0f6-0abc-401e-811b-23b8fd02eb46",
+    "named_user_id": "Neel"
   },
   "body": {
     "add": {
       "device": [
-        "high_heels"
+        "☃"
       ]
     },
     "current": {
       "device": [
-        "high_heels",
-        "turtlenecks",
-        "dad_jeans",
-        "high_tops",
-        "suspenders"
+        "a",
+        "u_like_grog",
+        "add_tag_300",
+        "☃",
+        "coldbrew",
+        "al_neel",
+        "foo",
+        "neel2",
+        "al_test2",
+        "something",
+        "nae nae",
+        "version_115",
+        "VIP",
+        "device-tag",
+        "al_test"
       ]
     }
   },

@@ -1,24 +1,26 @@
 {
-  "id": "a4e30257-6710-afb3-86ab-5c16fdcafb11",
-  "offset": "143",
-  "occurred": "2015-11-13T16:34:14.393Z",
-  "processed": "2015-11-13T16:34:14.393Z",
+  "id": "00000151-3d15-74ed-6d41-0f120608280a",
+  "offset": "0",
+  "occurred": "2015-11-25T05:19:55.117Z",
+  "processed": "2015-11-25T10:03:49.069Z",
   "device": {
-    "ios_channel": "712746d1-3417-579e-4023-961de699bd81"
+    "ios_channel": "dc6ce5e5-3dc5-4de5-bda2-55d811673c9f",
+    "named_user_id": "sharicesiegel"
   },
   "body": {
     "add": {
-      "device": [
-        "bow_ties"
+      "timezone": [
+        "America/Los_Angeles"
+      ]
+    },
+    "remove": {
+      "timezone": [
+        "America/Chicago"
       ]
     },
     "current": {
-      "device": [
-        "bow_ties",
-        "that_one_ratty_tshirt",
-        "startup_tees",
-        "sombreros",
-        "graphic_tees"
+      "timezone": [
+        "America/Los_Angeles"
       ]
     }
   },

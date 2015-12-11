@@ -1,23 +1,26 @@
 {
-  "id": "ed79c4e7-05c8-8fc5-708b-9b9b9b6c356d",
-  "offset": "176",
-  "occurred": "2015-11-13T16:34:47.394Z",
-  "processed": "2015-11-13T16:34:47.394Z",
+  "id": "00000151-6513-c549-7274-041a6408080a",
+  "offset": "0",
+  "occurred": "2015-12-02T23:42:53.257Z",
+  "processed": "2015-12-02T23:42:57.629Z",
   "device": {
-    "amazon_channel": "88b13f41-6743-2418-1ff8-41ac1b3e97d1"
+    "android_channel": "fe5f8858-b1d4-4e45-a9fe-9475dedbe309"
   },
   "body": {
     "add": {
-      "device": [
-        "turtlenecks"
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_opt_in": [
+        "false"
       ]
     },
     "current": {
-      "device": [
-        "turtlenecks",
-        "omg_shoes",
-        "high_tops",
-        "graphic_tees"
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_opt_in": [
+        "false"
       ]
     }
   },

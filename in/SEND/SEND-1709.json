@@ -1,13 +1,15 @@
 {
-  "id": "93ecea8c-b950-1dfb-a288-e4f6c3fe64a4",
-  "offset": "1709",
-  "occurred": "2015-11-13T17:00:20.393Z",
-  "processed": "2015-11-13T17:00:20.393Z",
+  "id": "b55976e1-9a18-11e5-8ae2-d4bed9af9426",
+  "offset": "0",
+  "occurred": "2015-12-03T23:51:01.710Z",
+  "processed": "2015-12-03T23:51:02.551Z",
   "device": {
-    "amazon_channel": "9a8ae394-3e96-deea-011d-943235a807a3"
+    "ios_channel": "dfaeb5a0-8bd8-43e9-ac2d-3985bfcde0bc",
+    "named_user_id": "Disco_Turkey"
   },
   "body": {
-    "push_id": "717f0720-df8e-78b1-9ac9-25fe1438abd9"
+    "push_id": "785fb975-8f48-41df-bf4c-766c25147e07",
+    "group_id": "ea300a47-bce9-4e7e-9195-abd850bc72ed"
   },
   "type": "SEND"
 }

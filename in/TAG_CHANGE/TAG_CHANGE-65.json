@@ -1,24 +1,21 @@
 {
-  "id": "dbe5155d-954f-9360-ab34-7b64f3b88de4",
-  "offset": "65",
-  "occurred": "2015-11-13T16:32:56.394Z",
-  "processed": "2015-11-13T16:32:56.394Z",
+  "id": "00000151-1903-6bff-5355-021a6708060a",
+  "offset": "0",
+  "occurred": "2015-11-18T05:13:53.407Z",
+  "processed": "2015-11-18T06:04:47.252Z",
   "device": {
-    "amazon_channel": "ab8fef90-517f-f504-8bed-72f868442a73"
+    "ios_channel": "11087c5c-dc24-441e-ab63-5099a69d691e",
+    "named_user_id": "adam"
   },
   "body": {
     "add": {
-      "device": [
-        "graphic_tees"
+      "ua_locale_country": [
+        "US"
       ]
     },
     "current": {
-      "device": [
-        "graphic_tees",
-        "startup_tees",
-        "swimsuits",
-        "raincoats",
-        "that_one_ratty_tshirt"
+      "ua_locale_country": [
+        "US"
       ]
     }
   },

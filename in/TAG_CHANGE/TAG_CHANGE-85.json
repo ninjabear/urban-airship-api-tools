@@ -1,23 +1,25 @@
 {
-  "id": "51dfcd18-4175-52fd-f9d6-878b1142b9f2",
-  "offset": "85",
-  "occurred": "2015-11-13T16:33:16.394Z",
-  "processed": "2015-11-13T16:33:16.394Z",
+  "id": "00000151-1e39-5551-2e36-05126a08100a",
+  "offset": "0",
+  "occurred": "2015-11-19T05:30:52.625Z",
+  "processed": "2015-11-19T08:34:00.089Z",
   "device": {
-    "ios_channel": "ea16dad4-6b6a-848e-2ecf-49c11f613f2b"
+    "ios_channel": "821248dd-7073-4ead-bb88-9df18275c055"
   },
   "body": {
     "add": {
-      "device": [
-        "turtlenecks"
+      "ua_ios_sdk_version": [
+        "6.2.X"
+      ]
+    },
+    "remove": {
+      "ua_ios_sdk_version": [
+        "6.1.X"
       ]
     },
     "current": {
-      "device": [
-        "turtlenecks",
-        "dad_jeans",
-        "bow_ties",
-        "omg_shoes"
+      "ua_ios_sdk_version": [
+        "6.2.X"
       ]
     }
   },

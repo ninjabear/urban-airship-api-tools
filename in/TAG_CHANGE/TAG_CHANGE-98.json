@@ -1,24 +1,22 @@
 {
-  "id": "cf9d8a92-50eb-ceff-937e-57d099858155",
-  "offset": "98",
-  "occurred": "2015-11-13T16:33:29.394Z",
-  "processed": "2015-11-13T16:33:29.394Z",
+  "id": "00000151-2693-cc1f-6576-0b120208230a",
+  "offset": "0",
+  "occurred": "2015-11-20T20:26:39.007Z",
+  "processed": "2015-11-20T20:26:43.509Z",
   "device": {
-    "amazon_channel": "3dc9ab83-2e86-0e58-eac7-250228904947"
+    "ios_channel": "821248dd-7073-4ead-bb88-9df18275c055",
+    "named_user_id": "bryanschlief"
   },
   "body": {
     "add": {
       "device": [
-        "sweatpants"
+        "bryan"
       ]
     },
     "current": {
       "device": [
-        "sweatpants",
-        "graphic_tees",
-        "startup_tees",
-        "cowboy_boots",
-        "raincoats"
+        "bryan",
+        "version_156"
       ]
     }
   },

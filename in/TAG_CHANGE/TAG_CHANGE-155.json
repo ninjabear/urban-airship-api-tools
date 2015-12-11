@@ -1,23 +1,20 @@
 {
-  "id": "46df14fa-f4fa-d369-511d-2116fb67aea6",
-  "offset": "155",
-  "occurred": "2015-11-13T16:34:26.394Z",
-  "processed": "2015-11-13T16:34:26.394Z",
+  "id": "00000151-3d11-0154-2e35-051a6d08090a",
+  "offset": "0",
+  "occurred": "2015-11-25T05:15:03.380Z",
+  "processed": "2015-11-25T06:00:40.609Z",
   "device": {
-    "ios_channel": "a8245c35-dec5-d613-b008-68049869d391"
+    "android_channel": "99f0a648-b505-4534-8a1f-5d9d6aec996c"
   },
   "body": {
     "add": {
-      "device": [
-        "dad_jeans"
+      "ua_android_version": [
+        "5.1.X"
       ]
     },
     "current": {
-      "device": [
-        "dad_jeans",
-        "sombreros",
-        "graphic_tees",
-        "bow_ties"
+      "ua_android_version": [
+        "5.1.X"
       ]
     }
   },

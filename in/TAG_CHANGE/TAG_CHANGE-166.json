@@ -1,24 +1,21 @@
 {
-  "id": "06dbc28f-dfba-7b26-6ebb-cff18895e2e0",
-  "offset": "166",
-  "occurred": "2015-11-13T16:34:37.393Z",
-  "processed": "2015-11-13T16:34:37.393Z",
+  "id": "00000151-450c-4a20-696d-051a0208090a",
+  "offset": "0",
+  "occurred": "2015-11-26T18:26:52.064Z",
+  "processed": "2015-11-26T18:26:58.226Z",
   "device": {
-    "ios_channel": "606b37d3-20dc-e6dd-c47b-503b12d897cd"
+    "android_channel": "c1227887-2683-454e-beae-9018290948a3",
+    "named_user_id": "misty2"
   },
   "body": {
     "add": {
       "device": [
-        "sweatpants"
+        "misty"
       ]
     },
     "current": {
       "device": [
-        "sweatpants",
-        "dad_jeans",
-        "cowboy_boots",
-        "high_heels",
-        "that_one_ratty_tshirt"
+        "misty"
       ]
     }
   },

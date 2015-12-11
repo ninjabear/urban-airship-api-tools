@@ -1,19 +1,20 @@
 {
-  "id": "c767eff9-ddf1-5f03-aee4-fe6ba809dee6",
-  "offset": "23",
-  "occurred": "2015-11-13T16:32:14.392Z",
-  "processed": "2015-11-13T16:32:14.392Z",
+  "id": "d62f6f02-8c85-11e5-9706-90e2ba025ad8",
+  "offset": "0",
+  "occurred": "2015-11-16T17:16:45.651Z",
+  "processed": "2015-11-16T17:16:56.845Z",
   "device": {
-    "amazon_channel": "bc116b49-44d2-63c0-e8e5-910e2e1c7465",
-    "named_user_id": "c2bf33d9-2efd-1725-2f9f-eb7ec25af160"
+    "ios_channel": "f361066b-8f51-462c-a785-406dc7bcc127",
+    "named_user_id": "Donato"
   },
   "body": {
     "triggering_push": {
-      "push_id": "f6a3ab9c-bd9e-4276-5eeb-6f2379e06162"
+      "push_id": "0ec5f3cf-faca-4e62-aef8-505d9eae97d2"
     },
-    "session_id": "c387ba5e-8714-4c1e-cb9b-6bd4fd575dd9",
+    "session_id": "cf387d25-cb52-4620-8c42-786c7efcd8f4",
     "last_delivered": {
-      "push_id": "b64f56cc-ba2e-0b40-318c-d1b5ddc22d6f"
+      "push_id": "d0474e69-9e56-4cf5-abc7-c446debe7abb",
+      "time": "2015-11-16T17:15:44.700Z"
     }
   },
   "type": "OPEN"

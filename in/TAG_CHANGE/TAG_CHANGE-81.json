@@ -1,23 +1,22 @@
 {
-  "id": "9a852ec2-d085-d32e-e02e-9ee127a8d14d",
-  "offset": "81",
-  "occurred": "2015-11-13T16:33:12.394Z",
-  "processed": "2015-11-13T16:33:12.394Z",
+  "id": "00000151-21b7-dc34-6576-0b120208230a",
+  "offset": "0",
+  "occurred": "2015-11-19T21:47:56.340Z",
+  "processed": "2015-11-19T21:48:03.111Z",
   "device": {
-    "ios_channel": "829729e0-8686-5a7b-6982-20cc764608bf"
+    "ios_channel": "821248dd-7073-4ead-bb88-9df18275c055",
+    "named_user_id": "bryanschlief"
   },
   "body": {
     "add": {
       "device": [
-        "dad_jeans"
+        "bryan"
       ]
     },
     "current": {
       "device": [
-        "dad_jeans",
-        "bow_ties",
-        "suspenders",
-        "sweatpants"
+        "bryan",
+        "version_156"
       ]
     }
   },

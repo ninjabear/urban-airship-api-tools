@@ -1,23 +1,26 @@
 {
-  "id": "1620934e-e692-d9aa-92fa-50fabca4d8f5",
-  "offset": "189",
-  "occurred": "2015-11-13T16:35:00.394Z",
-  "processed": "2015-11-13T16:35:00.394Z",
+  "id": "00000151-664b-827d-2e39-05126c08100a",
+  "offset": "0",
+  "occurred": "2015-12-03T05:23:23.389Z",
+  "processed": "2015-12-03T23:33:12.798Z",
   "device": {
-    "android_channel": "9fcb40be-36c4-cb9b-88fc-57505a5d817e"
+    "ios_channel": "dfaeb5a0-8bd8-43e9-ac2d-3985bfcde0bc",
+    "named_user_id": "Disco_Turkey"
   },
   "body": {
     "add": {
-      "device": [
-        "raincoats"
+      "ua_ios_version": [
+        "9.2.X"
+      ]
+    },
+    "remove": {
+      "ua_ios_version": [
+        "9.1.X"
       ]
     },
     "current": {
-      "device": [
-        "raincoats",
-        "startup_tees",
-        "sombreros",
-        "dress_shirts"
+      "ua_ios_version": [
+        "9.2.X"
       ]
     }
   },

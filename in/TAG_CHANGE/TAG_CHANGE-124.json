@@ -1,23 +1,20 @@
 {
-  "id": "f7a3fa65-2217-bf0e-642d-17f5c20571ed",
-  "offset": "124",
-  "occurred": "2015-11-13T16:33:55.394Z",
-  "processed": "2015-11-13T16:33:55.394Z",
+  "id": "00000151-3bda-ef2c-7073-04120208150a",
+  "offset": "0",
+  "occurred": "2015-11-24T23:36:22.572Z",
+  "processed": "2015-11-24T23:36:26.780Z",
   "device": {
-    "android_channel": "e898cd90-2989-c44c-bf50-bb7c794bb998"
+    "android_channel": "99f0a648-b505-4534-8a1f-5d9d6aec996c"
   },
   "body": {
-    "add": {
+    "remove": {
       "device": [
-        "swimsuits"
+        "lazer"
       ]
     },
     "current": {
       "device": [
-        "swimsuits",
-        "that_one_ratty_tshirt",
-        "bow_ties",
-        "suspenders"
+        "spam"
       ]
     }
   },

@@ -1,24 +1,21 @@
 {
-  "id": "e2d0072e-aceb-d2a6-9bff-a0a6c7882392",
-  "offset": "58",
-  "occurred": "2015-11-13T16:32:49.393Z",
-  "processed": "2015-11-13T16:32:49.393Z",
+  "id": "00000151-13e1-8f3a-5355-021a6708060a",
+  "offset": "0",
+  "occurred": "2015-11-17T05:18:48.122Z",
+  "processed": "2015-11-17T09:07:32.767Z",
   "device": {
-    "android_channel": "050267b1-9c17-35d8-6b0d-8a73be486a64"
+    "ios_channel": "62ccb785-adf7-4cdc-872a-4226a22be31a",
+    "named_user_id": "gatlin"
   },
   "body": {
     "add": {
-      "device": [
-        "omg_shoes"
+      "ua_locale_country": [
+        "US"
       ]
     },
     "current": {
-      "device": [
-        "omg_shoes",
-        "sombreros",
-        "dress_shirts",
-        "raincoats",
-        "that_one_ratty_tshirt"
+      "ua_locale_country": [
+        "US"
       ]
     }
   },

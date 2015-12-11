@@ -1,24 +1,15 @@
 {
-  "id": "49a5e6ad-c0c0-22da-a678-d57248dd7952",
-  "offset": "4",
-  "occurred": "2015-11-13T16:31:55.393Z",
-  "processed": "2015-11-13T16:31:55.393Z",
+  "id": "e9857da0-9398-11e5-bb19-90e2ba02f390",
+  "offset": "0",
+  "occurred": "2015-11-25T17:21:06.619Z",
+  "processed": "2015-11-25T17:22:18.860Z",
   "device": {
-    "android_channel": "9f38f1a1-dce4-e781-a0fd-dc26f0a58223"
+    "ios_channel": "3e392313-8e79-4f84-9f3f-5377262e2748",
+    "named_user_id": "michael"
   },
   "body": {
-    "name": "dsKlOvc83CXydhfef7AtjfCJsc1g5FJiNoX7",
-    "customer_id": "TkWpY4dJtqn15yF8Ixw6FG9zfCGr5uzRaC0l",
-    "interaction_type": "Ndd9rRL10O8DpGQ1q5osm1svWUyivW6TSXwD",
-    "interaction_id": "3qIQG7Lvuc6uOp7Q6Ti6ZJbMcK4YVJwaFljV",
-    "transaction": "CBRE3BZDLIC568gp4y095GB70mqMJU0VTgT9",
-    "value": -7859441150148.913,
-    "last_delivered": {
-      "push_id": "fc02d7e7-fed6-9fa3-6e74-d265e7d21fd1"
-    },
-    "triggering_push": {
-      "push_id": "3d34550c-d8ee-6b29-f8a7-1cb822bbbc45"
-    }
+    "name": "sample_threads_event",
+    "value": 3.0
   },
   "type": "CUSTOM"
 }

@@ -1,22 +1,32 @@
 {
-  "id": "26b43f71-2ac2-af23-868c-31c0572e837a",
-  "offset": "34",
-  "occurred": "2015-11-13T16:32:25.394Z",
-  "processed": "2015-11-13T16:32:25.394Z",
+  "id": "00000151-12bc-bab9-6576-0b1a02080f0a",
+  "offset": "0",
+  "occurred": "2015-11-16T23:58:57.209Z",
+  "processed": "2015-11-16T23:59:04.153Z",
   "device": {
-    "android_channel": "19002857-0409-583d-9b7e-c8bd21f6aa44"
+    "ios_channel": "62ccb785-adf7-4cdc-872a-4226a22be31a"
   },
   "body": {
     "add": {
+      "ua_background_enabled": [
+        "false"
+      ],
+      "ua_opt_in": [
+        "false"
+      ],
       "device": [
-        "suspenders"
+        "version_160"
       ]
     },
     "current": {
+      "ua_background_enabled": [
+        "false"
+      ],
+      "ua_opt_in": [
+        "false"
+      ],
       "device": [
-        "suspenders",
-        "raincoats",
-        "bow_ties"
+        "version_160"
       ]
     }
   },

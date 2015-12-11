@@ -1,10 +1,10 @@
 {
-  "id": "ea3650f8-6771-1feb-cb7b-d8ccad11e056",
-  "offset": "4",
-  "occurred": "2015-11-13T16:31:55.394Z",
-  "processed": "2015-11-13T16:31:55.394Z",
+  "id": "00000151-3668-4e6f-2412-000828120108",
+  "offset": "0",
+  "occurred": "2015-11-23T22:13:04.239Z",
+  "processed": "2015-11-23T22:13:07.645Z",
   "device": {
-    "android_channel": "16272ff3-29de-a9cc-07ac-eccbf0adeaa4"
+    "ios_channel": "04a9debb-59d6-4c62-b1ef-2c8e5fcac03e"
   },
   "type": "FIRST_OPEN"
 }

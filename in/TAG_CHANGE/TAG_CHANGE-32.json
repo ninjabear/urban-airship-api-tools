@@ -1,24 +1,37 @@
 {
-  "id": "0ad4e250-8dcd-192d-9cc1-2d77f655c270",
-  "offset": "32",
-  "occurred": "2015-11-13T16:32:23.394Z",
-  "processed": "2015-11-13T16:32:23.394Z",
+  "id": "00000151-1149-4636-6576-0a1202081b0a",
+  "offset": "0",
+  "occurred": "2015-11-16T17:13:13.526Z",
+  "processed": "2015-11-16T17:13:18.224Z",
   "device": {
-    "android_channel": "ae3f128a-ea49-4d0a-cd54-f21d7e9969f6"
+    "ios_channel": "693aaecb-c773-4155-8d8d-5ad15cb4370d"
   },
   "body": {
     "add": {
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_opt_in": [
+        "false"
+      ],
       "device": [
-        "turtlenecks"
+        "version_109"
+      ]
+    },
+    "remove": {
+      "device": [
+        "version_96"
       ]
     },
     "current": {
+      "ua_background_enabled": [
+        "true"
+      ],
+      "ua_opt_in": [
+        "false"
+      ],
       "device": [
-        "turtlenecks",
-        "high_heels",
-        "high_tops",
-        "sombreros",
-        "that_one_ratty_tshirt"
+        "version_109"
       ]
     }
   },

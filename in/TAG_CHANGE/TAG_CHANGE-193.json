@@ -1,23 +1,30 @@
 {
-  "id": "4f0b8974-243a-1957-ca20-495d9a89dec0",
-  "offset": "193",
-  "occurred": "2015-11-13T16:35:04.393Z",
-  "processed": "2015-11-13T16:35:04.393Z",
+  "id": "00000151-6f60-5765-6802-12020802cb0a",
+  "offset": "0",
+  "occurred": "2015-12-04T23:42:43.557Z",
+  "processed": "2015-12-04T23:42:52.394Z",
   "device": {
-    "android_channel": "36711128-e6f7-eabd-21e5-1796b4ca21e7"
+    "ios_channel": "109dfd99-099d-4000-bf6c-f5507c588e09",
+    "named_user_id": "potato"
   },
   "body": {
     "add": {
       "device": [
-        "bow_ties"
+        "☃"
       ]
     },
     "current": {
       "device": [
-        "bow_ties",
-        "sweatpants",
-        "swimsuits",
-        "turtlenecks"
+        "hi",
+        "version_160",
+        "language_derp",
+        "☃",
+        "OUTLET_COUPON_20-OFF-100-AUTO_151105",
+        "potato",
+        "OUTLET_COUPON_20-OFF-100-AUTO_SHOP-BTN_151105",
+        "gatlin",
+        "language_en",
+        "find_me_gatlin"
       ]
     }
   },

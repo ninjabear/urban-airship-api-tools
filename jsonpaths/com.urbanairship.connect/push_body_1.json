@@ -9,6 +9,7 @@
         "$.hierarchy.refRoot",
         "$.hierarchy.refTree",
         "$.hierarchy.refParent",
+        "$.data.body.group_id",
         "$.data.body.payload",
         "$.data.body.push_id",
         "$.data.body.trimmed",

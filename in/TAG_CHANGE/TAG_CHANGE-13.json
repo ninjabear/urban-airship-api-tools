@@ -1,24 +1,26 @@
 {
-  "id": "281e071f-de8a-834f-250c-e3133727b956",
-  "offset": "13",
-  "occurred": "2015-11-13T16:32:04.394Z",
-  "processed": "2015-11-13T16:32:04.394Z",
+  "id": "00000151-047d-40da-3331-031265080c0a",
+  "offset": "0",
+  "occurred": "2015-11-14T05:34:56.218Z",
+  "processed": "2015-11-14T07:35:59.141Z",
   "device": {
-    "android_channel": "66b78e43-5620-91de-3b55-be50491454d5"
+    "ios_channel": "11693c88-13d0-4466-9209-745427e04358",
+    "named_user_id": "russell"
   },
   "body": {
     "add": {
-      "device": [
-        "sombreros"
+      "ua_ios_app_version": [
+        "160"
+      ]
+    },
+    "remove": {
+      "ua_ios_app_version": [
+        "130"
       ]
     },
     "current": {
-      "device": [
-        "sombreros",
-        "that_one_ratty_tshirt",
-        "cowboy_boots",
-        "raincoats",
-        "dress_shirts"
+      "ua_ios_app_version": [
+        "160"
       ]
     }
   },

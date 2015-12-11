@@ -1,23 +1,22 @@
 {
-  "id": "844b4c50-01c5-5341-1647-ff270f16c9d5",
-  "offset": "7",
-  "occurred": "2015-11-13T16:31:58.393Z",
-  "processed": "2015-11-13T16:31:58.393Z",
+  "id": "8daf6110-9d4a-11e5-bb19-90e2ba02f390",
+  "offset": "0",
+  "occurred": "2015-12-08T01:24:56.729Z",
+  "processed": "2015-12-08T01:25:24.733Z",
   "device": {
-    "amazon_channel": "17293d32-2e8a-c38a-2f63-2db669a0b400"
+    "android_channel": "fe5f8858-b1d4-4e45-a9fe-9475dedbe309"
   },
   "body": {
-    "name": "7BrDWYUCqisWtFxZpuimwdUOcgiuLAb8mjXN",
-    "customer_id": "5ue9wzuVwl6fvfjGmZ2x0xAP29L61Jymsm9H",
-    "interaction_type": "3t8plvRiaXpbDhzQXyPTT6VPGiolnUKmFezF",
-    "interaction_id": "Z8bJrd5MhRTPNibLXE8OIYKiEpwIUkYFSyLX",
-    "transaction": "AuWncnpulkK0eYBc0vbvz9U9t7pvtXxUf3fk",
-    "value": 652076897619.3604,
+    "name": "ua custom event",
     "last_delivered": {
-      "push_id": "2cc65d68-b03f-d229-54f0-a9309e98831f"
+      "push_id": "8c6cba37-35de-496e-8faa-5dd31091af1d",
+      "group_id": "2f57b9e9-8cb2-42a8-9994-35ce8585f041",
+      "time": "2015-12-08T00:17:12.646Z"
     },
-    "triggering_push": {
-      "push_id": "b2fb5d05-7178-e7ff-03fd-fe48f5037c10"
+    "properties": {
+      "ltv": false,
+      "date": "December 2, 2015",
+      "description": "Urban Airship Rocks!"
     }
   },
   "type": "CUSTOM"

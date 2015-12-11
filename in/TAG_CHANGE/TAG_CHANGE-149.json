@@ -1,24 +1,20 @@
 {
-  "id": "afc41e99-2c72-8e45-4fcb-53f0f51cb578",
-  "offset": "149",
-  "occurred": "2015-11-13T16:34:20.394Z",
-  "processed": "2015-11-13T16:34:20.394Z",
+  "id": "00000151-3d18-8358-6166-051a6f08090a",
+  "offset": "0",
+  "occurred": "2015-11-25T05:23:15.416Z",
+  "processed": "2015-11-25T11:40:37.087Z",
   "device": {
-    "ios_channel": "875a3285-0ea9-dd06-d50f-b2e6c9e8d31d"
+    "android_channel": "6a0435bb-8ed7-43d5-9319-4e66528088d7"
   },
   "body": {
     "add": {
-      "device": [
-        "bow_ties"
+      "ua_location_enabled": [
+        "false"
       ]
     },
     "current": {
-      "device": [
-        "bow_ties",
-        "suspenders",
-        "turtlenecks",
-        "high_heels",
-        "omg_shoes"
+      "ua_location_enabled": [
+        "false"
       ]
     }
   },

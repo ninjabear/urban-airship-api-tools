@@ -1,24 +1,21 @@
 {
-  "id": "500ddbb3-9c1a-1e8e-f1ea-0f6e9a90602b",
-  "offset": "55",
-  "occurred": "2015-11-13T16:32:46.395Z",
-  "processed": "2015-11-13T16:32:46.395Z",
+  "id": "00000151-13e1-8f3a-2e39-051a6c08090a",
+  "offset": "0",
+  "occurred": "2015-11-17T05:18:48.122Z",
+  "processed": "2015-11-17T09:07:32.751Z",
   "device": {
-    "android_channel": "cef4d32d-49e4-4c7b-fdf1-6106cb02b52f",
-    "named_user_id": "fe3c0a14-efe5-dbc6-5e46-9d83a405dfd8"
+    "ios_channel": "62ccb785-adf7-4cdc-872a-4226a22be31a",
+    "named_user_id": "gatlin"
   },
   "body": {
     "add": {
-      "device": [
-        "high_tops"
+      "ua_ios_version": [
+        "9.1.X"
       ]
     },
     "current": {
-      "device": [
-        "high_tops",
-        "sweatpants",
-        "dress_shirts",
-        "suspenders"
+      "ua_ios_version": [
+        "9.1.X"
       ]
     }
   },

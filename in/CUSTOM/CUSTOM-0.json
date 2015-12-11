@@ -1,23 +1,18 @@
 {
-  "id": "1c375455-66f8-4df5-e056-e6164149f00a",
+  "id": "e4d03223-8c75-11e5-8730-90e2ba02f390",
   "offset": "0",
-  "occurred": "2015-11-13T16:31:51.394Z",
-  "processed": "2015-11-13T16:31:51.394Z",
+  "occurred": "2015-11-16T15:22:19.700Z",
+  "processed": "2015-11-16T15:22:49.234Z",
   "device": {
-    "amazon_channel": "ba0a80ba-6213-c8a5-ab6a-4a5231071705"
+    "ios_channel": "3e392313-8e79-4f84-9f3f-5377262e2748",
+    "named_user_id": "michael"
   },
   "body": {
-    "name": "LUZREohJ3dseetO4OqZxlPnsYHNDz3fI8n7J",
-    "customer_id": "7FsjSeqRgHdQRqouIf2p70oLSr2xzzDY7V6N",
-    "interaction_type": "f001fmtXh596xkUdRxEiQn5v6MiwnFNL0w4D",
-    "interaction_id": "bywZe9ApOGO3Qb5tQTxm0B4gb172u6jWeIUu",
-    "transaction": "JokHelccPnkCzVAVWuJ0OPDxiABI9XDBzBgz",
-    "value": -2097220943229.3826,
+    "name": "viewed-trip",
+    "value": 4.0,
     "last_delivered": {
-      "push_id": "941d19f0-c319-7732-7c21-8cf0ca7df455"
-    },
-    "triggering_push": {
-      "push_id": "c037893f-c9c2-0483-34cf-fa3d8eaf76c2"
+      "push_id": "bd7d163c-5187-4326-9899-cede56d7f7a6",
+      "time": "2015-11-16T15:14:56.096Z"
     }
   },
   "type": "CUSTOM"

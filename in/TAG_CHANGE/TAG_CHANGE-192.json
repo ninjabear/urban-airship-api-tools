@@ -1,23 +1,34 @@
 {
-  "id": "ae828342-b96a-5e7e-03db-c421552c0da1",
-  "offset": "192",
-  "occurred": "2015-11-13T16:35:03.394Z",
-  "processed": "2015-11-13T16:35:03.394Z",
+  "id": "00000151-6f60-1fa8-6802-12020802c60a",
+  "offset": "0",
+  "occurred": "2015-12-04T23:42:29.288Z",
+  "processed": "2015-12-04T23:42:35.735Z",
   "device": {
-    "android_channel": "18826cf3-bdff-7887-5e9c-9aa353e0956e"
+    "ios_channel": "109dfd99-099d-4000-bf6c-f5507c588e09",
+    "named_user_id": "potato"
   },
   "body": {
     "add": {
       "device": [
-        "raincoats"
+        "version_160"
+      ]
+    },
+    "remove": {
+      "device": [
+        "version_130"
       ]
     },
     "current": {
       "device": [
-        "raincoats",
-        "swimsuits",
-        "bow_ties",
-        "cowboy_boots"
+        "hi",
+        "version_160",
+        "language_derp",
+        "OUTLET_COUPON_20-OFF-100-AUTO_151105",
+        "potato",
+        "gatlin",
+        "OUTLET_COUPON_20-OFF-100-AUTO_SHOP-BTN_151105",
+        "language_en",
+        "find_me_gatlin"
       ]
     }
   },

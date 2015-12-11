@@ -1,13 +1,14 @@
 {
-  "id": "87d4b162-6177-1dc7-325c-576ca4bb7fd5",
-  "offset": "1700",
-  "occurred": "2015-11-13T17:00:11.393Z",
-  "processed": "2015-11-13T17:00:11.393Z",
+  "id": "9d28e001-9960-11e5-a7be-001122334455",
+  "offset": "0",
+  "occurred": "2015-12-03T01:53:13.728Z",
+  "processed": "2015-12-03T01:53:14.390Z",
   "device": {
-    "ios_channel": "04773e35-1ef6-4d64-4705-b42a67c07d69"
+    "ios_channel": "74856a77-09cf-4ac2-ba3a-0f1329a591c0",
+    "named_user_id": "greg_weinger"
   },
   "body": {
-    "push_id": "cee2f6c4-5724-923a-cb6a-bd53d939bd51"
+    "push_id": "580c1827-79ad-4f33-afb3-def643dc7969"
   },
   "type": "SEND"
 }

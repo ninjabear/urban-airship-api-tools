@@ -1,23 +1,20 @@
 {
-  "id": "b413e473-56c5-fd3a-cb04-ac62d12d3d36",
-  "offset": "206",
-  "occurred": "2015-11-13T16:35:17.393Z",
-  "processed": "2015-11-13T16:35:17.393Z",
+  "id": "00000151-75c5-1e2b-6166-051a6f08090a",
+  "offset": "0",
+  "occurred": "2015-12-06T05:30:31.339Z",
+  "processed": "2015-12-06T05:32:17.381Z",
   "device": {
-    "amazon_channel": "61903226-1555-6da0-e23a-116445d37645"
+    "android_channel": "16775b36-2291-4387-9e92-1ef5c93882a1"
   },
   "body": {
     "add": {
-      "device": [
-        "cowboy_boots"
+      "ua_location_enabled": [
+        "false"
       ]
     },
     "current": {
-      "device": [
-        "cowboy_boots",
-        "dad_jeans",
-        "sombreros",
-        "sweatpants"
+      "ua_location_enabled": [
+        "false"
       ]
     }
   },

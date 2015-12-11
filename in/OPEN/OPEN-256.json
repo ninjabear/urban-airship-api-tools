@@ -1,19 +1,14 @@
 {
-  "id": "8327c666-8885-df81-7f00-dfa56c44d6f4",
-  "offset": "256",
-  "occurred": "2015-11-13T16:36:07.393Z",
-  "processed": "2015-11-13T16:36:07.393Z",
+  "id": "b1baab5c-9912-11e5-90dd-90e2ba025ad8",
+  "offset": "0",
+  "occurred": "2015-12-01T18:24:19.977Z",
+  "processed": "2015-12-02T16:35:27.992Z",
   "device": {
-    "android_channel": "d5382b78-1d84-8760-d298-3e034333cfb1"
+    "ios_channel": "10b720bb-db15-4a60-9a2f-f8b2eafad3b2",
+    "named_user_id": "misty"
   },
   "body": {
-    "triggering_push": {
-      "push_id": "a4f0d684-7485-cdc6-5b4e-fa2a12df811e"
-    },
-    "session_id": "1a6ddbb3-37c2-7c29-8086-01e7b052b5d6",
-    "last_delivered": {
-      "push_id": "9f4ed1b2-9a50-14d0-96ae-23ccb172e228"
-    }
+    "session_id": "7448c3b6-a3b9-4e79-a2de-269adf6d8420"
   },
   "type": "OPEN"
 }

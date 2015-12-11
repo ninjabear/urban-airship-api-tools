@@ -1,13 +1,14 @@
 {
-  "id": "793b2d4b-caa5-949d-dab6-da8d1b9a6e22",
-  "offset": "2243",
-  "occurred": "2015-11-13T17:09:14.394Z",
-  "processed": "2015-11-13T17:09:14.394Z",
+  "id": "079c0a51-9d41-11e5-82b5-001b21ce44e0",
+  "offset": "0",
+  "occurred": "2015-12-08T00:17:13.077Z",
+  "processed": "2015-12-08T00:17:14.792Z",
   "device": {
-    "ios_channel": "106db5ae-1a61-659b-f2f7-180230371b8d"
+    "ios_channel": "03a43c42-f47b-4fa2-b899-b90a28a8043b"
   },
   "body": {
-    "push_id": "70a03ff1-c474-aa77-d852-53cedaf0012e"
+    "push_id": "664d9b31-e3da-41f7-a920-2df1ec0bc724",
+    "group_id": "2f57b9e9-8cb2-42a8-9994-35ce8585f041"
   },
   "type": "SEND"
 }

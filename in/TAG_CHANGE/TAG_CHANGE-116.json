@@ -1,24 +1,26 @@
 {
-  "id": "fbbc1b3c-6f5a-ce05-a7bc-89a23519f088",
-  "offset": "116",
-  "occurred": "2015-11-13T16:33:47.394Z",
-  "processed": "2015-11-13T16:33:47.394Z",
+  "id": "00000151-354c-3932-6b75-0a1202086f0a",
+  "offset": "0",
+  "occurred": "2015-11-23T17:02:46.578Z",
+  "processed": "2015-11-23T17:03:51.624Z",
   "device": {
-    "amazon_channel": "858c5313-b61f-9480-ee01-d95ea5dfbcff"
+    "ios_channel": "bec05bf3-8689-469e-a3c6-a64def381230",
+    "named_user_id": "martinfgoat"
   },
   "body": {
     "add": {
       "device": [
-        "dress_shirts"
+        "☃"
       ]
     },
     "current": {
       "device": [
-        "dress_shirts",
-        "high_tops",
-        "swimsuits",
-        "sombreros",
-        "turtlenecks"
+        "uk_ia_test",
+        "martinf",
+        "version_160",
+        "add_tag_300",
+        "☃",
+        "nup"
       ]
     }
   },

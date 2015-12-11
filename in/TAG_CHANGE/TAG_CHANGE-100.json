@@ -1,24 +1,36 @@
 {
-  "id": "4fce6bd4-dc08-653e-18fa-9ef5084025cb",
-  "offset": "100",
-  "occurred": "2015-11-13T16:33:31.394Z",
-  "processed": "2015-11-13T16:33:31.394Z",
+  "id": "00000151-26e8-9fe6-7311-12020802f30a",
+  "offset": "0",
+  "occurred": "2015-11-20T21:59:18.246Z",
+  "processed": "2015-11-20T21:59:23.419Z",
   "device": {
-    "android_channel": "8d5fbf6e-4068-f78b-d77d-478a5c296818"
+    "ios_channel": "b1e5f6da-542f-4a76-a6fc-4399ba12377a",
+    "named_user_id": "andrei"
   },
   "body": {
     "add": {
       "device": [
-        "cowboy_boots"
+        "☃"
       ]
     },
     "current": {
       "device": [
-        "cowboy_boots",
-        "high_tops",
-        "raincoats",
-        "bow_ties",
-        "suspenders"
+        "sportsrsuchathing",
+        "☃",
+        "coldbrew",
+        "weasel",
+        "AbandonedBag",
+        "yes_TUF21_preslae",
+        "neel",
+        "juliajulia",
+        "watch_button_clicked_share",
+        "andrea",
+        "watch-it",
+        "julia",
+        "sportsrathing",
+        "exp",
+        "andrei",
+        "version_156"
       ]
     }
   },

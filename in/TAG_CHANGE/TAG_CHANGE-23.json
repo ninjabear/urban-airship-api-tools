@@ -1,23 +1,26 @@
 {
-  "id": "904dae7a-5222-6449-ec56-35feb0c8142c",
-  "offset": "23",
-  "occurred": "2015-11-13T16:32:14.394Z",
-  "processed": "2015-11-13T16:32:14.394Z",
+  "id": "00000151-0480-a293-2e38-05126c08100a",
+  "offset": "0",
+  "occurred": "2015-11-14T05:38:37.843Z",
+  "processed": "2015-11-14T08:29:22.734Z",
   "device": {
-    "ios_channel": "cc816745-9a99-c94b-c079-27b8fb1e4b93"
+    "ios_channel": "e339783b-c710-4395-b7ba-5fd3a6a67746",
+    "named_user_id": "coddingtonbear"
   },
   "body": {
     "add": {
-      "device": [
-        "sweatpants"
+      "ua_ios_version": [
+        "8.4.X"
+      ]
+    },
+    "remove": {
+      "ua_ios_version": [
+        "8.3.X"
       ]
     },
     "current": {
-      "device": [
-        "sweatpants",
-        "dress_shirts",
-        "omg_shoes",
-        "swimsuits"
+      "ua_ios_version": [
+        "8.4.X"
       ]
     }
   },

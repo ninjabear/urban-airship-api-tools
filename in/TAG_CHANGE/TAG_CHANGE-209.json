@@ -1,24 +1,20 @@
 {
-  "id": "56b93ff1-3502-d027-8563-0fc29a482730",
-  "offset": "209",
-  "occurred": "2015-11-13T16:35:20.393Z",
-  "processed": "2015-11-13T16:35:20.393Z",
+  "id": "00000151-75c5-1e2b-6e65-021a6808060a",
+  "offset": "0",
+  "occurred": "2015-12-06T05:30:31.339Z",
+  "processed": "2015-12-06T05:32:17.791Z",
   "device": {
-    "amazon_channel": "5804c6c2-358d-a90e-f517-49213eea24c7"
+    "android_channel": "16775b36-2291-4387-9e92-1ef5c93882a1"
   },
   "body": {
     "add": {
-      "device": [
-        "graphic_tees"
+      "ua_locale_language": [
+        "en"
       ]
     },
     "current": {
-      "device": [
-        "graphic_tees",
-        "suspenders",
-        "high_heels",
-        "sombreros",
-        "dress_shirts"
+      "ua_locale_language": [
+        "en"
       ]
     }
   },

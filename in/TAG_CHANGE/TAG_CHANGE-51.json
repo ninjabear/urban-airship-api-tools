@@ -1,24 +1,21 @@
 {
-  "id": "bef235b2-2683-8d52-1d4a-11a73d64364b",
-  "offset": "51",
-  "occurred": "2015-11-13T16:32:42.394Z",
-  "processed": "2015-11-13T16:32:42.394Z",
+  "id": "00000151-13e3-18cf-6166-051a6f08090a",
+  "offset": "0",
+  "occurred": "2015-11-17T05:20:28.879Z",
+  "processed": "2015-11-17T12:44:58.956Z",
   "device": {
-    "ios_channel": "c4aa7a70-5504-67fb-b84d-06e321caa16b"
+    "ios_channel": "f361066b-8f51-462c-a785-406dc7bcc127",
+    "named_user_id": "Donato"
   },
   "body": {
     "add": {
-      "device": [
-        "turtlenecks"
+      "ua_location_enabled": [
+        "false"
       ]
     },
     "current": {
-      "device": [
-        "turtlenecks",
-        "sombreros",
-        "omg_shoes",
-        "sweatpants",
-        "bow_ties"
+      "ua_location_enabled": [
+        "false"
       ]
     }
   },

@@ -1,23 +1,21 @@
 {
-  "id": "c73eb211-271a-8a5c-8ff2-4381e6ca1395",
-  "offset": "61",
-  "occurred": "2015-11-13T16:32:52.394Z",
-  "processed": "2015-11-13T16:32:52.394Z",
+  "id": "00000151-13e1-8f3a-5069-091a69080d0a",
+  "offset": "0",
+  "occurred": "2015-11-17T05:18:48.122Z",
+  "processed": "2015-11-17T09:07:32.792Z",
   "device": {
-    "amazon_channel": "1786a935-5fd2-9cea-757f-b5296e4e28cb"
+    "ios_channel": "62ccb785-adf7-4cdc-872a-4226a22be31a",
+    "named_user_id": "gatlin"
   },
   "body": {
     "add": {
-      "device": [
-        "graphic_tees"
+      "ua_ios_model": [
+        "iPhone7,2"
       ]
     },
     "current": {
-      "device": [
-        "graphic_tees",
-        "cowboy_boots",
-        "suspenders",
-        "raincoats"
+      "ua_ios_model": [
+        "iPhone7,2"
       ]
     }
   },

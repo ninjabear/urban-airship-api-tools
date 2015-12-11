@@ -1,13 +1,14 @@
 {
-  "id": "57c6005c-175f-4393-a974-3625adccac23",
-  "offset": "380",
-  "occurred": "2015-11-13T16:38:11.394Z",
-  "processed": "2015-11-13T16:38:11.394Z",
+  "id": "137705f3-8fb8-11e5-9a04-90e2ba02f4f8",
+  "offset": "0",
+  "occurred": "2015-11-20T18:54:06.799Z",
+  "processed": "2015-11-20T19:37:38.364Z",
   "device": {
-    "amazon_channel": "7acf5b2e-4609-fa50-cd58-b0dab7129347"
+    "ios_channel": "ecf0b08b-806f-47b6-95cc-246129521461",
+    "named_user_id": "Ryan_Goff"
   },
   "body": {
-    "push_id": "80cb82d3-826c-e4e6-7cf8-f845665030fd"
+    "push_id": "e753d530-2279-4f55-b83a-5e2da7472c12"
   },
   "type": "SEND"
 }

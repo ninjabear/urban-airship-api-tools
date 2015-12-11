@@ -1,23 +1,21 @@
 {
-  "id": "90d47a45-9a38-29fa-7829-b51f8992db00",
-  "offset": "82",
-  "occurred": "2015-11-13T16:33:13.393Z",
-  "processed": "2015-11-13T16:33:13.393Z",
+  "id": "00000151-21f6-2bf7-7262-05120208230a",
+  "offset": "0",
+  "occurred": "2015-11-19T22:55:59.991Z",
+  "processed": "2015-11-19T22:56:03.306Z",
   "device": {
-    "amazon_channel": "c3afc16b-b4f7-e334-7896-6982e1169e68"
+    "ios_channel": "821248dd-7073-4ead-bb88-9df18275c055",
+    "named_user_id": "bryanschlief"
   },
   "body": {
-    "add": {
+    "remove": {
       "device": [
-        "high_tops"
+        "bryan"
       ]
     },
     "current": {
       "device": [
-        "high_tops",
-        "dad_jeans",
-        "sombreros",
-        "turtlenecks"
+        "version_156"
       ]
     }
   },

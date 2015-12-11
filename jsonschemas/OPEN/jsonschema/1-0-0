@@ -17,6 +17,14 @@
             "push_id": {
               "type": "string",
               "format": "uuid"
+            },
+            "group_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "time": {
+              "type": "string",
+              "format": "date-time"
             }
           },
           "additionalProperties": true
@@ -31,6 +39,14 @@
             "push_id": {
               "type": "string",
               "format": "uuid"
+            },
+            "group_id": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "time": {
+              "type": "string",
+              "format": "date-time"
             }
           },
           "additionalProperties": true
@@ -60,19 +76,14 @@
     "device": {
       "type": "object",
       "properties": {
-        "ios_channel": {
-          "type": "string",
-          "format": "uuid"
-        },
-        "named_user_id": {
-          "type": "string",
-          "format": "uuid"
-        },
         "android_channel": {
           "type": "string",
           "format": "uuid"
         },
-        "amazon_channel": {
+        "named_user_id": {
+          "type": "string"
+        },
+        "ios_channel": {
           "type": "string",
           "format": "uuid"
         }
